@@ -76,4 +76,6 @@ if ! { systemctl restart oxford-media &&
 fi
 systemctl is-enabled oxford-media caddy
 systemctl is-active oxford-media caddy
+curl --fail --silent --show-error --retry 12 --retry-all-errors --retry-delay 5 \
+  --max-time 10 "https://$HOST/__local-media/probe.txt"
 printf '\nDeployed commit %s at https://%s\n' "$COMMIT" "$HOST"

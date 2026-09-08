@@ -12,6 +12,7 @@
 | Size | `Standard_D32as_v5` (32 vCPU, 128 GiB RAM) |
 | OS / disk | Ubuntu 24.04 LTS, Trusted Launch, 1024 GiB `Premium_LRS` |
 | Network | `chaoqun-oxford-vnet`, `chaoqun-oxford-nic`, `chaoqun-oxford-nsg` |
+| Private IP | `10.84.1.4` (static; used by the subnet website rule) |
 | Public IP resource | `chaoqun-oxford-ip` (Standard static IPv4) |
 
 Read the deployed commit with `readlink /opt/oxford/current` through Azure Run
@@ -72,6 +73,14 @@ are allowed from the Internet. Do not allow public SSH, RDP, port 3000, or Vite
 5173. Preserve all enterprise-injected NRMS rules and priorities; website rules
 must be lower priority than those controls. Manage through Azure Run Command.
 If policy prohibits website ingress, stop rather than bypassing it with tunnels.
+
+Azure automatically attached a second NSG to the dedicated `web` subnet:
+`NRMS-2m4fqd2bozbpkchaoqun-oxford-vnet`. It initially had only default rules,
+including default deny inbound. Both subnet and NIC NSGs must allow website
+traffic. Its added `Oxford-Web` rule has priority 200, source `Internet`,
+destination **only `10.84.1.4`**, TCP ports **80/443**. Do not detach this NSG or
+modify its enterprise tags. All auto-injected NRMS rules at priorities 101-109
+on the NIC NSG remain unchanged and take precedence over application rules.
 
 ## Operations
 
