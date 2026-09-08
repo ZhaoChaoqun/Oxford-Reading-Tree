@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Nunito", ui-rounded, system-ui, sans-serif;
+  /* 基础字体从默认 16px 提升到 18px，让全局文字更大更易读 */
+  font-size: 18px;
+  @apply bg-orange-50;
+}
+
+* {
+  -webkit-tap-highlight-color: transparent;
+  touch-action: manipulation;
+}
+
+/* 儿童友好按钮：最小尺寸 64×64，确保触摸目标足够大 */
+.btn-child {
+  min-width: 64px;
+  min-height: 64px;
+  @apply rounded-2xl font-bold transition-transform active:scale-95;
+}
+
+@keyframes starPop {
+  0%   { transform: scale(0) rotate(-20deg); opacity: 0; }
+  70%  { transform: scale(1.3) rotate(5deg); }
+  100% { transform: scale(1) rotate(0deg); opacity: 1; }
+}
+.star-pop { animation: starPop 0.4s ease-out both; }
+
+@keyframes bounceIn {
+  0%   { transform: scale(0.8); opacity: 0; }
+  70%  { transform: scale(1.04); }
+  100% { transform: scale(1); opacity: 1; }
+}
+.bounce-in { animation: bounceIn 0.35s ease-out both; }
+
+/* iOS / iPad 安全区已由各组件内联 env(safe-area-inset-*) 处理 */

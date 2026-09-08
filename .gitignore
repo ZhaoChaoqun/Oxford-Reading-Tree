@@ -2,3 +2,29 @@
 ._*
 *.tmp
 *.part
+
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+*.local
+
+# Local tooling
+.claude/
+.codex-*.log
+*.log
+
+# Local planning scratch files
+findings.md
+progress.md
+task_plan.md
+
+# Python tooling
+.venv/
+**/.venv/
+__pycache__/
+*.pyc
+
+# Generated metadata artifacts
+book-metadata-tool/generated/

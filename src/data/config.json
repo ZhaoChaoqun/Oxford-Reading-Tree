@@ -1,0 +1,13 @@
+{
+  "storage": {
+    "primaryBaseURL": "https://oxford.tomolovely.synology.me",
+    "fallbackBaseURL": "https://oxford.tomolovely.synology.me",
+    "probeTimeout": 4000,
+    "cacheQuotaMB": 2048
+  },
+  "features": {
+    "aiImageGeneration": false,
+    "speechRecognition": true,
+    "dictionary": true
+  }
+}

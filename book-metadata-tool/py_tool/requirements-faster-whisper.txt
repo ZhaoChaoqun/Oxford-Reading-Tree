@@ -1,0 +1,2 @@
+# Faster-Whisper stack
+faster-whisper

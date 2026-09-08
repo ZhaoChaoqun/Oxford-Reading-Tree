@@ -1,0 +1,1 @@
+"""Book metadata OCR tool package."""

@@ -1,0 +1,23 @@
+{
+  "id": "/speech-debug.html",
+  "name": "Speech Debug",
+  "short_name": "SpeechDebug",
+  "description": "Standalone browser speech recognition test page for Oxford Tree debugging.",
+  "start_url": "./speech-debug.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff7ed",
+  "theme_color": "#f97316",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

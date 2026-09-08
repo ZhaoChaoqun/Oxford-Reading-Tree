@@ -1,0 +1,672 @@
+{
+  "stickers": [
+    {
+      "id": "sticker-01",
+      "name": "Ice Cream",
+      "type": "repeatable",
+      "emoji": "??",
+      "cost": 500,
+      "category": "exchange",
+      "description": "Repeatable reward"
+    },
+    {
+      "id": "reward-02",
+      "name": "Chocolate",
+      "type": "repeatable",
+      "emoji": "??",
+      "cost": 500,
+      "category": "exchange",
+      "description": "Repeatable reward"
+    },
+    {
+      "id": "reward-03",
+      "name": "Popcorn",
+      "type": "repeatable",
+      "emoji": "??",
+      "cost": 500,
+      "category": "exchange",
+      "description": "Repeatable reward"
+    },
+    {
+      "id": "reward-04",
+      "name": "Juice",
+      "type": "repeatable",
+      "emoji": "??",
+      "cost": 500,
+      "category": "exchange",
+      "description": "Repeatable reward"
+    },
+    {
+      "id": "reward-05",
+      "name": "Screen Time",
+      "type": "repeatable",
+      "emoji": "??",
+      "cost": 1000,
+      "category": "exchange",
+      "description": "Repeatable reward"
+    },
+    {
+      "id": "reward-06",
+      "name": "Park",
+      "type": "repeatable",
+      "emoji": "??",
+      "cost": 1000,
+      "category": "exchange",
+      "description": "Repeatable reward"
+    },
+    {
+      "id": "reward-07",
+      "name": "Small Toy",
+      "type": "repeatable",
+      "emoji": "??",
+      "cost": 2000,
+      "category": "exchange",
+      "description": "Repeatable reward"
+    },
+    {
+      "id": "reward-08",
+      "name": "Gift",
+      "type": "repeatable",
+      "emoji": "??",
+      "cost": 3000,
+      "category": "exchange",
+      "description": "Repeatable reward"
+    },
+    {
+      "id": "sticker-02",
+      "name": "Gold Star",
+      "type": "milestone",
+      "emoji": "?",
+      "threshold": 300,
+      "category": "achievement",
+      "description": "Lifetime milestone reward"
+    },
+    {
+      "id": "sticker-03",
+      "name": "Rainbow",
+      "type": "milestone",
+      "emoji": "??",
+      "threshold": 650,
+      "category": "achievement",
+      "description": "Lifetime milestone reward"
+    },
+    {
+      "id": "sticker-05",
+      "name": "Dinosaur",
+      "type": "milestone",
+      "emoji": "??",
+      "threshold": 1000,
+      "category": "achievement",
+      "description": "Lifetime milestone reward"
+    },
+    {
+      "id": "sticker-06",
+      "name": "Rocket",
+      "type": "milestone",
+      "emoji": "??",
+      "threshold": 1450,
+      "category": "achievement",
+      "description": "Lifetime milestone reward"
+    },
+    {
+      "id": "sticker-07",
+      "name": "Magic Key",
+      "type": "milestone",
+      "emoji": "???",
+      "threshold": 2000,
+      "category": "achievement",
+      "description": "Lifetime milestone reward"
+    },
+    {
+      "id": "sticker-08",
+      "name": "Butterfly",
+      "type": "milestone",
+      "emoji": "??",
+      "threshold": 2700,
+      "category": "achievement",
+      "description": "Lifetime milestone reward"
+    },
+    {
+      "id": "sticker-09",
+      "name": "Dragon",
+      "type": "milestone",
+      "emoji": "??",
+      "threshold": 3600,
+      "category": "achievement",
+      "description": "Lifetime milestone reward"
+    },
+    {
+      "id": "sticker-10",
+      "name": "Crown",
+      "type": "milestone",
+      "emoji": "??",
+      "threshold": 4700,
+      "category": "achievement",
+      "description": "Lifetime milestone reward"
+    },
+    {
+      "id": "sticker-11",
+      "name": "Shooting Star",
+      "type": "milestone",
+      "emoji": "??",
+      "threshold": 6000,
+      "category": "achievement",
+      "description": "Lifetime milestone reward"
+    },
+    {
+      "id": "sticker-12",
+      "name": "Castle",
+      "type": "milestone",
+      "emoji": "??",
+      "threshold": 7600,
+      "category": "achievement",
+      "description": "Lifetime milestone reward"
+    },
+    {
+      "id": "sticker-14",
+      "name": "Unicorn",
+      "type": "milestone",
+      "emoji": "??",
+      "threshold": 9500,
+      "category": "achievement",
+      "description": "Lifetime milestone reward"
+    },
+    {
+      "id": "sticker-15",
+      "name": "Superhero",
+      "type": "milestone",
+      "emoji": "??",
+      "threshold": 11800,
+      "category": "achievement",
+      "description": "Lifetime milestone reward"
+    },
+    {
+      "id": "sticker-04",
+      "name": "Floppy Dog",
+      "type": "legacy",
+      "emoji": "??",
+      "category": "legacy",
+      "description": "Legacy collectible"
+    },
+    {
+      "id": "sticker-13",
+      "name": "Treasure Chest",
+      "type": "legacy",
+      "emoji": "??",
+      "category": "legacy",
+      "description": "Legacy collectible"
+    },
+    {
+      "id": "png-01",
+      "name": "艾莎公主 1",
+      "type": "png",
+      "image": "stickers/png-01.png",
+      "category": "characters",
+      "description": "?? Day 5 streak reward!"
+    },
+    {
+      "id": "png-02",
+      "name": "艾莎公主 2",
+      "type": "png",
+      "image": "stickers/png-02.png",
+      "category": "characters",
+      "description": "?? Day 10 streak reward!"
+    },
+    {
+      "id": "png-03",
+      "name": "安娜公主 1",
+      "type": "png",
+      "image": "stickers/png-03.png",
+      "category": "characters",
+      "description": "?? Day 15 streak reward!"
+    },
+    {
+      "id": "png-04",
+      "name": "安娜公主 2",
+      "type": "png",
+      "image": "stickers/png-04.png",
+      "category": "characters",
+      "description": "?? Day 20 streak reward!"
+    },
+    {
+      "id": "png-05",
+      "name": "冰雪奇缘 1",
+      "type": "png",
+      "image": "stickers/png-05.png",
+      "category": "characters",
+      "description": "?? Day 25 streak reward!"
+    },
+    {
+      "id": "png-06",
+      "name": "坏绵羊 1",
+      "type": "png",
+      "image": "stickers/png-06.png",
+      "category": "characters",
+      "description": "?? Day 30 streak reward!"
+    },
+    {
+      "id": "png-07",
+      "name": "坏绵羊 2",
+      "type": "png",
+      "image": "stickers/png-07.png",
+      "category": "characters",
+      "description": "?? Day 35 streak reward!"
+    },
+    {
+      "id": "png-08",
+      "name": "坏绵羊 3",
+      "type": "png",
+      "image": "stickers/png-08.png",
+      "category": "characters",
+      "description": "?? Day 40 streak reward!"
+    },
+    {
+      "id": "png-09",
+      "name": "库洛米 1",
+      "type": "png",
+      "image": "stickers/png-09.png",
+      "category": "characters",
+      "description": "?? Day 45 streak reward!"
+    },
+    {
+      "id": "png-10",
+      "name": "米妮 1",
+      "type": "png",
+      "image": "stickers/png-10.png",
+      "category": "characters",
+      "description": "?? Day 50 streak reward!"
+    },
+    {
+      "id": "png-11",
+      "name": "米妮 2",
+      "type": "png",
+      "image": "stickers/png-11.png",
+      "category": "characters",
+      "description": "?? Day 55 streak reward!"
+    },
+    {
+      "id": "png-12",
+      "name": "米妮 3",
+      "type": "png",
+      "image": "stickers/png-12.png",
+      "category": "characters",
+      "description": "?? Day 60 streak reward!"
+    },
+    {
+      "id": "png-13",
+      "name": "米妮 4",
+      "type": "png",
+      "image": "stickers/png-13.png",
+      "category": "characters",
+      "description": "?? Day 65 streak reward!"
+    },
+    {
+      "id": "png-14",
+      "name": "米妮 5",
+      "type": "png",
+      "image": "stickers/png-14.png",
+      "category": "characters",
+      "description": "?? Day 70 streak reward!"
+    },
+    {
+      "id": "png-15",
+      "name": "汪汪队 1",
+      "type": "png",
+      "image": "stickers/png-15.png",
+      "category": "characters",
+      "description": "?? Day 75 streak reward!"
+    },
+    {
+      "id": "png-16",
+      "name": "汪汪队 2",
+      "type": "png",
+      "image": "stickers/png-16.png",
+      "category": "characters",
+      "description": "?? Day 80 streak reward!"
+    },
+    {
+      "id": "png-17",
+      "name": "无敌破坏王 1",
+      "type": "png",
+      "image": "stickers/png-17.png",
+      "category": "characters",
+      "description": "?? Day 85 streak reward!"
+    },
+    {
+      "id": "png-18",
+      "name": "小黄人 1",
+      "type": "png",
+      "image": "stickers/png-18.png",
+      "category": "characters",
+      "description": "?? Day 90 streak reward!"
+    },
+    {
+      "id": "png-19",
+      "name": "小黄人 2",
+      "type": "png",
+      "image": "stickers/png-19.png",
+      "category": "characters",
+      "description": "?? Day 95 streak reward!"
+    },
+    {
+      "id": "png-20",
+      "name": "小黄人 3",
+      "type": "png",
+      "image": "stickers/png-20.png",
+      "category": "characters",
+      "description": "?? Day 100 streak reward!"
+    },
+    {
+      "id": "png-21",
+      "name": "小猪佩奇 1",
+      "type": "png",
+      "image": "stickers/png-21.png",
+      "category": "characters",
+      "description": "?? Day 105 streak reward!"
+    },
+    {
+      "id": "png-22",
+      "name": "小猪佩奇 2",
+      "type": "png",
+      "image": "stickers/png-22.png",
+      "category": "characters",
+      "description": "?? Day 110 streak reward!"
+    },
+    {
+      "id": "png-23",
+      "name": "小猪佩奇 3",
+      "type": "png",
+      "image": "stickers/png-23.png",
+      "category": "characters",
+      "description": "?? Day 115 streak reward!"
+    },
+    {
+      "id": "png-24",
+      "name": "朱迪警官 1",
+      "type": "png",
+      "image": "stickers/png-24.png",
+      "category": "characters",
+      "description": "?? Day 120 streak reward!"
+    },
+    {
+      "id": "png-25",
+      "name": "朱迪警官 2",
+      "type": "png",
+      "image": "stickers/png-25.png",
+      "category": "characters",
+      "description": "?? Day 125 streak reward!"
+    },
+    {
+      "id": "png-26",
+      "name": "朱迪警官 3",
+      "type": "png",
+      "image": "stickers/png-26.png",
+      "category": "characters",
+      "description": "?? Day 130 streak reward!"
+    },
+    {
+      "id": "png-27",
+      "name": "朱迪警官 4",
+      "type": "png",
+      "image": "stickers/png-27.png",
+      "category": "characters",
+      "description": "?? Day 135 streak reward!"
+    },
+    {
+      "id": "png-28",
+      "name": "朱迪警官 5",
+      "type": "png",
+      "image": "stickers/png-28.png",
+      "category": "characters",
+      "description": "?? Day 140 streak reward!"
+    },
+    {
+      "id": "png-29",
+      "name": "bluey 1",
+      "type": "png",
+      "image": "stickers/png-29.png",
+      "category": "characters",
+      "description": "?? Day 145 streak reward!"
+    },
+    {
+      "id": "png-30",
+      "name": "bluey 2",
+      "type": "png",
+      "image": "stickers/png-30.png",
+      "category": "characters",
+      "description": "?? Day 150 streak reward!"
+    },
+    {
+      "id": "png-31",
+      "name": "bluey 3",
+      "type": "png",
+      "image": "stickers/png-31.png",
+      "category": "characters",
+      "description": "?? Day 155 streak reward!"
+    },
+    {
+      "id": "png-32",
+      "name": "Judy Hops 1",
+      "type": "png",
+      "image": "stickers/png-32.png",
+      "category": "characters",
+      "description": "?? Day 160 streak reward!"
+    },
+    {
+      "id": "png-33",
+      "name": "Judy Hops 2",
+      "type": "png",
+      "image": "stickers/png-33.png",
+      "category": "characters",
+      "description": "?? Day 165 streak reward!"
+    },
+    {
+      "id": "png-34",
+      "name": "Judy Hops 3",
+      "type": "png",
+      "image": "stickers/png-34.png",
+      "category": "characters",
+      "description": "?? Day 170 streak reward!"
+    },
+    {
+      "id": "png-35",
+      "name": "Judy Hops 4",
+      "type": "png",
+      "image": "stickers/png-35.png",
+      "category": "characters",
+      "description": "?? Day 175 streak reward!"
+    },
+    {
+      "id": "png-36",
+      "name": "Judy Hops 5",
+      "type": "png",
+      "image": "stickers/png-36.png",
+      "category": "characters",
+      "description": "?? Day 180 streak reward!"
+    },
+    {
+      "id": "png-37",
+      "name": "kuromi 1",
+      "type": "png",
+      "image": "stickers/png-37.png",
+      "category": "characters",
+      "description": "?? Day 185 streak reward!"
+    },
+    {
+      "id": "png-38",
+      "name": "kuromi 2",
+      "type": "png",
+      "image": "stickers/png-38.png",
+      "category": "characters",
+      "description": "?? Day 190 streak reward!"
+    },
+    {
+      "id": "png-39",
+      "name": "kuromi 3",
+      "type": "png",
+      "image": "stickers/png-39.png",
+      "category": "characters",
+      "description": "?? Day 195 streak reward!"
+    },
+    {
+      "id": "png-40",
+      "name": "Mickey 1",
+      "type": "png",
+      "image": "stickers/png-40.png",
+      "category": "characters",
+      "description": "?? Day 200 streak reward!"
+    },
+    {
+      "id": "png-41",
+      "name": "Mickey 2",
+      "type": "png",
+      "image": "stickers/png-41.png",
+      "category": "characters",
+      "description": "?? Day 205 streak reward!"
+    },
+    {
+      "id": "png-42",
+      "name": "Mickey 3",
+      "type": "png",
+      "image": "stickers/png-42.png",
+      "category": "characters",
+      "description": "?? Day 210 streak reward!"
+    },
+    {
+      "id": "png-43",
+      "name": "Mickey 4",
+      "type": "png",
+      "image": "stickers/png-43.png",
+      "category": "characters",
+      "description": "?? Day 215 streak reward!"
+    },
+    {
+      "id": "png-44",
+      "name": "Mickey 5",
+      "type": "png",
+      "image": "stickers/png-44.png",
+      "category": "characters",
+      "description": "?? Day 220 streak reward!"
+    },
+    {
+      "id": "png-45",
+      "name": "Mickey 6",
+      "type": "png",
+      "image": "stickers/png-45.png",
+      "category": "characters",
+      "description": "?? Day 225 streak reward!"
+    },
+    {
+      "id": "png-46",
+      "name": "Mickey 7",
+      "type": "png",
+      "image": "stickers/png-46.png",
+      "category": "characters",
+      "description": "?? Day 230 streak reward!"
+    },
+    {
+      "id": "png-47",
+      "name": "Minnie 1",
+      "type": "png",
+      "image": "stickers/png-47.png",
+      "category": "characters",
+      "description": "?? Day 235 streak reward!"
+    },
+    {
+      "id": "png-48",
+      "name": "Minnie 2",
+      "type": "png",
+      "image": "stickers/png-48.png",
+      "category": "characters",
+      "description": "?? Day 240 streak reward!"
+    },
+    {
+      "id": "png-49",
+      "name": "Minnie 3",
+      "type": "png",
+      "image": "stickers/png-49.png",
+      "category": "characters",
+      "description": "?? Day 245 streak reward!"
+    },
+    {
+      "id": "png-50",
+      "name": "Minnie 4",
+      "type": "png",
+      "image": "stickers/png-50.png",
+      "category": "characters",
+      "description": "?? Day 250 streak reward!"
+    },
+    {
+      "id": "png-51",
+      "name": "Minnie 5",
+      "type": "png",
+      "image": "stickers/png-51.png",
+      "category": "characters",
+      "description": "?? Day 255 streak reward!"
+    },
+    {
+      "id": "png-52",
+      "name": "Minnie 6",
+      "type": "png",
+      "image": "stickers/png-52.png",
+      "category": "characters",
+      "description": "?? Day 260 streak reward!"
+    },
+    {
+      "id": "png-53",
+      "name": "peppa pig 1",
+      "type": "png",
+      "image": "stickers/png-53.png",
+      "category": "characters",
+      "description": "?? Day 265 streak reward!"
+    },
+    {
+      "id": "png-54",
+      "name": "wreck it ralph 1",
+      "type": "png",
+      "image": "stickers/png-54.png",
+      "category": "characters",
+      "description": "?? Day 270 streak reward!"
+    },
+    {
+      "id": "png-55",
+      "name": "wreck it ralph 2",
+      "type": "png",
+      "image": "stickers/png-55.png",
+      "category": "characters",
+      "description": "?? Day 275 streak reward!"
+    },
+    {
+      "id": "png-56",
+      "name": "wreck it ralph 3",
+      "type": "png",
+      "image": "stickers/png-56.png",
+      "category": "characters",
+      "description": "?? Day 280 streak reward!"
+    },
+    {
+      "id": "png-57",
+      "name": "zootopia 1",
+      "type": "png",
+      "image": "stickers/png-57.png",
+      "category": "characters",
+      "description": "?? Day 285 streak reward!"
+    },
+    {
+      "id": "png-58",
+      "name": "zootopia 2",
+      "type": "png",
+      "image": "stickers/png-58.png",
+      "category": "characters",
+      "description": "?? Day 290 streak reward!"
+    },
+    {
+      "id": "png-59",
+      "name": "zootopia 3",
+      "type": "png",
+      "image": "stickers/png-59.png",
+      "category": "characters",
+      "description": "?? Day 295 streak reward!"
+    }
+  ]
+}

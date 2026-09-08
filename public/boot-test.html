@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>ORT Boot Test</title>
+    <style>
+      :root {
+        color-scheme: light;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        background: #fff7ed;
+        color: #111827;
+      }
+
+      body {
+        margin: 0;
+        min-height: 100vh;
+        display: grid;
+        place-items: center;
+        padding: 24px;
+        background:
+          radial-gradient(circle at top, rgba(249, 115, 22, 0.18), transparent 32%),
+          linear-gradient(180deg, #fffaf5 0%, #fff1e6 100%);
+      }
+
+      main {
+        width: min(720px, 100%);
+        background: rgba(255, 255, 255, 0.92);
+        border: 1px solid rgba(249, 115, 22, 0.18);
+        border-radius: 20px;
+        padding: 24px;
+        box-shadow: 0 18px 44px rgba(15, 23, 42, 0.08);
+      }
+
+      h1 {
+        margin: 0 0 12px;
+        font-size: 28px;
+      }
+
+      p {
+        margin: 0 0 12px;
+        line-height: 1.6;
+      }
+
+      code,
+      pre {
+        font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      }
+
+      .status {
+        display: inline-block;
+        margin-top: 8px;
+        padding: 8px 12px;
+        border-radius: 999px;
+        background: #ffedd5;
+        color: #c2410c;
+        font-weight: 700;
+      }
+
+      .ok {
+        background: #dcfce7;
+        color: #166534;
+      }
+
+      pre {
+        overflow: auto;
+        background: #0f172a;
+        color: #e5e7eb;
+        padding: 16px;
+        border-radius: 14px;
+        font-size: 12px;
+        white-space: pre-wrap;
+        word-break: break-word;
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <h1>Oxford Reading Tree Boot Test</h1>
+      <p>This page does not use React, Vite modules, or the service worker.</p>
+      <p id="status" class="status">Inline script has not run yet.</p>
+      <pre id="details">Waiting for script execution...</pre>
+    </main>
+    <script>
+      const status = document.getElementById('status');
+      const details = document.getElementById('details');
+      const payload = {
+        executed: true,
+        href: window.location.href,
+        userAgent: navigator.userAgent,
+        timestamp: new Date().toISOString(),
+      };
+
+      status.textContent = 'Inline script executed successfully.';
+      status.classList.add('ok');
+      details.textContent = JSON.stringify(payload, null, 2);
+    </script>
+  </body>
+</html>

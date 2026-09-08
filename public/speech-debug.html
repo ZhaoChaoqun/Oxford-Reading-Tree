@@ -1,0 +1,426 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <meta name="theme-color" content="#f97316" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="Speech Debug" />
+    <link rel="icon" type="image/png" href="./icon-192.png" />
+    <link rel="apple-touch-icon" href="./apple-touch-icon.png" />
+    <link rel="manifest" href="./speech-debug-manifest.json" />
+    <title>Speech Debug</title>
+    <style>
+      :root {
+        color-scheme: light;
+        font-family: "Nunito", "Segoe UI", sans-serif;
+        background: #fff7ed;
+        color: #1f2937;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        min-height: 100vh;
+        background: linear-gradient(180deg, #fff7ed 0%, #fffbf5 100%);
+      }
+
+      .wrap {
+        max-width: 880px;
+        margin: 0 auto;
+        padding: calc(18px + env(safe-area-inset-top)) 16px calc(24px + env(safe-area-inset-bottom));
+      }
+
+      .card {
+        background: #ffffff;
+        border: 1px solid #fed7aa;
+        border-radius: 28px;
+        box-shadow: 0 18px 36px rgba(249, 115, 22, 0.08);
+        padding: 20px;
+        margin-bottom: 16px;
+      }
+
+      h1 {
+        margin: 0;
+        font-size: 28px;
+        line-height: 1.15;
+      }
+
+      p {
+        margin: 12px 0 0;
+        font-size: 16px;
+        line-height: 1.6;
+        color: #475569;
+      }
+
+      .controls {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 12px;
+        align-items: end;
+      }
+
+      label {
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+        font-size: 14px;
+        font-weight: 800;
+        color: #334155;
+      }
+
+      select,
+      button {
+        font: inherit;
+      }
+
+      select {
+        min-width: 220px;
+        border-radius: 18px;
+        border: 1px solid #fdba74;
+        background: #fff7ed;
+        padding: 12px 14px;
+        color: #1f2937;
+      }
+
+      .actions {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+      }
+
+      button {
+        border: 0;
+        border-radius: 18px;
+        padding: 12px 16px;
+        font-weight: 800;
+        cursor: pointer;
+        transition: transform 120ms ease, opacity 120ms ease;
+      }
+
+      button:active {
+        transform: scale(0.98);
+      }
+
+      button[disabled] {
+        opacity: 0.45;
+        cursor: not-allowed;
+      }
+
+      .primary {
+        background: #f97316;
+        color: #fff;
+        box-shadow: 0 14px 24px rgba(249, 115, 22, 0.2);
+      }
+
+      .secondary {
+        background: #fff;
+        color: #ea580c;
+        border: 1px solid #fdba74;
+      }
+
+      .muted {
+        background: #f8fafc;
+        color: #475569;
+        border: 1px solid #e2e8f0;
+      }
+
+      .grid {
+        display: grid;
+        gap: 12px;
+        grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      }
+
+      .panel {
+        border-radius: 20px;
+        background: #fff7ed;
+        padding: 16px;
+      }
+
+      .eyebrow {
+        font-size: 11px;
+        font-weight: 900;
+        letter-spacing: 0.18em;
+        color: #f97316;
+        text-transform: uppercase;
+      }
+
+      .value {
+        margin-top: 10px;
+        font-size: 16px;
+        font-weight: 800;
+      }
+
+      .error {
+        color: #dc2626;
+      }
+
+      .log {
+        margin-top: 12px;
+        max-height: 40vh;
+        overflow: auto;
+        border-radius: 22px;
+        background: #111827;
+        color: #86efac;
+        padding: 16px;
+        font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+        font-size: 12px;
+        line-height: 1.7;
+        white-space: pre-wrap;
+      }
+
+      .transcript {
+        margin-top: 12px;
+        border-radius: 22px;
+        background: #fff7ed;
+        padding: 16px;
+        line-height: 1.8;
+      }
+
+      .note {
+        margin-top: 12px;
+        font-size: 13px;
+        color: #64748b;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wrap">
+      <section class="card">
+        <h1>Standalone Speech Debug</h1>
+        <p>This page uses browser speech recognition directly, outside Oxford quiz and scoring logic.</p>
+        <p class="note">Add this exact page to the Home Screen if you want to test the installed app container.</p>
+      </section>
+
+      <section class="card">
+        <div class="controls">
+          <label>
+            Language
+            <select id="lang-select">
+              <option value="en-GB">English (UK)</option>
+              <option value="en-US" selected>English (US)</option>
+              <option value="zh-CN">Chinese (Simplified)</option>
+            </select>
+          </label>
+
+          <div class="actions">
+            <button id="check-mic" class="secondary" type="button">Check mic</button>
+            <button id="start-btn" class="primary" type="button">Start</button>
+            <button id="stop-btn" class="secondary" type="button" disabled>Stop</button>
+            <button id="clear-btn" class="muted" type="button">Clear</button>
+          </div>
+        </div>
+
+        <div class="grid" style="margin-top: 16px;">
+          <div class="panel">
+            <div class="eyebrow">Status</div>
+            <div id="status" class="value">Idle</div>
+          </div>
+          <div class="panel">
+            <div class="eyebrow">Mic Check</div>
+            <div id="mic-status" class="value">Not checked</div>
+          </div>
+          <div class="panel" style="grid-column: span 2;">
+            <div class="eyebrow">Error</div>
+            <div id="error-text" class="value error">None</div>
+          </div>
+        </div>
+      </section>
+
+      <section class="card">
+        <div class="eyebrow">Transcript</div>
+        <div class="transcript">
+          <div><strong>Interim:</strong> <span id="interim-text">None</span></div>
+          <div><strong>Final:</strong> <span id="final-text">None</span></div>
+        </div>
+      </section>
+
+      <section class="card">
+        <div class="eyebrow">Event Log</div>
+        <div id="event-log" class="log">No events yet.</div>
+      </section>
+    </div>
+
+    <script>
+      (() => {
+        const SpeechRecognitionCtor = window.SpeechRecognition || window.webkitSpeechRecognition;
+        const statusEl = document.getElementById('status');
+        const micStatusEl = document.getElementById('mic-status');
+        const errorEl = document.getElementById('error-text');
+        const interimEl = document.getElementById('interim-text');
+        const finalEl = document.getElementById('final-text');
+        const logEl = document.getElementById('event-log');
+        const langSelect = document.getElementById('lang-select');
+        const checkMicBtn = document.getElementById('check-mic');
+        const startBtn = document.getElementById('start-btn');
+        const stopBtn = document.getElementById('stop-btn');
+        const clearBtn = document.getElementById('clear-btn');
+        let recognition = null;
+        let logEntries = [];
+
+        function log(tag, detail = '') {
+          const suffix = detail ? ` ${detail}` : '';
+          const line = `${new Date().toISOString().slice(11, 23)} [${tag}]${suffix}`;
+          logEntries.unshift(line);
+          logEntries = logEntries.slice(0, 60);
+          logEl.textContent = logEntries.join('\n');
+        }
+
+        function setStatus(text) {
+          statusEl.textContent = text;
+        }
+
+        function setError(text) {
+          errorEl.textContent = text || 'None';
+        }
+
+        function resetTexts() {
+          interimEl.textContent = 'None';
+          finalEl.textContent = 'None';
+          setError('None');
+        }
+
+        async function checkMic() {
+          if (!navigator.mediaDevices || !navigator.mediaDevices.getUserMedia) {
+            micStatusEl.textContent = 'getUserMedia unavailable';
+            log('mic-check', 'unsupported');
+            return;
+          }
+
+          try {
+            const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+            const track = stream.getAudioTracks()[0];
+            const label = track && track.label ? track.label : 'Unnamed audio input';
+            micStatusEl.textContent = `Granted: ${label}`;
+            log('mic-check', `granted label=${label}`);
+            stream.getTracks().forEach((item) => item.stop());
+          } catch (error) {
+            micStatusEl.textContent = `Failed: ${error.name || 'error'}`;
+            log('mic-check-error', `${error.name || 'error'} ${error.message || ''}`.trim());
+          }
+        }
+
+        function stopRecognition() {
+          if (!recognition) {
+            return;
+          }
+
+          try {
+            recognition.stop();
+            log('control', 'stop()');
+          } catch (error) {
+            log('control-error', error.message || 'stop failed');
+          }
+        }
+
+        function startRecognition() {
+          if (!SpeechRecognitionCtor) {
+            setStatus('Unsupported');
+            setError('SpeechRecognition unsupported');
+            log('unsupported', 'SpeechRecognition unavailable');
+            return;
+          }
+
+          if (recognition) {
+            return;
+          }
+
+          resetTexts();
+          setStatus('Starting');
+          const lang = langSelect.value || 'en-US';
+          recognition = new SpeechRecognitionCtor();
+          recognition.lang = lang;
+          recognition.interimResults = true;
+          recognition.maxAlternatives = 1;
+          recognition.continuous = false;
+
+          startBtn.disabled = true;
+          stopBtn.disabled = false;
+
+          recognition.onstart = () => {
+            setStatus('Listening');
+            log('event', 'onstart');
+          };
+          recognition.onaudiostart = () => log('event', 'onaudiostart');
+          recognition.onsoundstart = () => log('event', 'onsoundstart');
+          recognition.onspeechstart = () => log('event', 'onspeechstart');
+          recognition.onspeechend = () => log('event', 'onspeechend');
+          recognition.onsoundend = () => log('event', 'onsoundend');
+          recognition.onaudioend = () => log('event', 'onaudioend');
+
+          recognition.onresult = (event) => {
+            let interimText = '';
+            let finalText = '';
+
+            for (let i = event.resultIndex; i < event.results.length; i += 1) {
+              const text = event.results[i][0] && event.results[i][0].transcript ? event.results[i][0].transcript.trim() : '';
+              if (!text) continue;
+              if (event.results[i].isFinal) {
+                finalText += text + ' ';
+              } else {
+                interimText += text + ' ';
+              }
+            }
+
+            if (interimText.trim()) {
+              interimEl.textContent = interimText.trim();
+              log('result', `interim=${interimText.trim()}`);
+            }
+            if (finalText.trim()) {
+              finalEl.textContent = finalText.trim();
+              interimEl.textContent = finalText.trim();
+              log('result', `final=${finalText.trim()}`);
+            }
+          };
+
+          recognition.onerror = (event) => {
+            const message = `${event.error || 'error'}${event.message ? `: ${event.message}` : ''}`;
+            setStatus('Error');
+            setError(message);
+            log('error', message);
+          };
+
+          recognition.onend = () => {
+            recognition = null;
+            startBtn.disabled = false;
+            stopBtn.disabled = true;
+            if (statusEl.textContent !== 'Error') {
+              setStatus('Idle');
+            }
+            log('event', 'onend');
+          };
+
+          try {
+            log('control', `start() lang=${lang}`);
+            recognition.start();
+          } catch (error) {
+            recognition = null;
+            startBtn.disabled = false;
+            stopBtn.disabled = true;
+            setStatus('Error');
+            setError(error.message || 'start failed');
+            log('start-error', error.message || 'start failed');
+          }
+        }
+
+        checkMicBtn.addEventListener('click', checkMic);
+        startBtn.addEventListener('click', startRecognition);
+        stopBtn.addEventListener('click', stopRecognition);
+        clearBtn.addEventListener('click', () => {
+          logEntries = [];
+          logEl.textContent = 'No events yet.';
+          setStatus('Idle');
+          micStatusEl.textContent = 'Not checked';
+          resetTexts();
+        });
+
+        log('boot', `ua=${navigator.userAgent}`);
+        log('boot', `standalone=${window.matchMedia && window.matchMedia('(display-mode: standalone)').matches}`);
+      })();
+    </script>
+  </body>
+</html>

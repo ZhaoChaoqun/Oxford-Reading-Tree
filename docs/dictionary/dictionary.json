@@ -1,0 +1,3550 @@
+{
+  "entries": [
+    {
+      "key": "adventure",
+      "display": "adventure",
+      "definitionEn": "A fun and exciting trip with lots to see.",
+      "definitionZh": "一场刺激有趣的冒险。"
+    },
+    {
+      "key": "aeroplane",
+      "display": "aeroplane",
+      "definitionEn": "A big machine that flies people through the sky.",
+      "definitionZh": "带人们在天上飞的大飞机。"
+    },
+    {
+      "key": "africa",
+      "display": "Africa",
+      "definitionEn": "A very big place with lots of wild animals.",
+      "definitionZh": "非洲，有很多野生动物的大地方。"
+    },
+    {
+      "key": "angel",
+      "display": "angel",
+      "definitionEn": "A kind person with wings who lives in the sky.",
+      "definitionZh": "住在天上、长着翅膀的天使。"
+    },
+    {
+      "key": "angry",
+      "display": "angry",
+      "definitionEn": "How you feel when you are cross or upset.",
+      "definitionZh": "很生气，不开心。"
+    },
+    {
+      "key": "animals",
+      "display": "animals",
+      "definitionEn": "Living things like dogs, lions, and bears.",
+      "definitionZh": "各种各样的动物。"
+    },
+    {
+      "key": "apatosaurus",
+      "display": "apatosaurus",
+      "definitionEn": "A very big dinosaur with a long neck and tail.",
+      "definitionZh": "一种脖子和尾巴都很长的长颈龙。"
+    },
+    {
+      "key": "apple",
+      "display": "apple",
+      "definitionEn": "A round, sweet fruit that is crunchy to eat.",
+      "definitionZh": "脆脆甜甜的苹果。"
+    },
+    {
+      "key": "apples",
+      "display": "apples",
+      "definitionEn": "More than one sweet, crunchy fruit.",
+      "definitionZh": "好几个红苹果。"
+    },
+    {
+      "key": "ark",
+      "display": "ark",
+      "definitionEn": "A very big wooden boat that holds many animals.",
+      "definitionZh": "传说中装了很多动物的大方舟。"
+    },
+    {
+      "key": "arm",
+      "display": "arm",
+      "definitionEn": "The part of your body from your hand to your shoulder.",
+      "definitionZh": "人的手臂。"
+    },
+    {
+      "key": "arrow",
+      "display": "arrow",
+      "definitionEn": "A thin stick with a point for shooting.",
+      "definitionZh": "尖尖的箭。"
+    },
+    {
+      "key": "asleep",
+      "display": "asleep",
+      "definitionEn": "When you are resting with your eyes closed.",
+      "definitionZh": "睡着了。"
+    },
+    {
+      "key": "ate",
+      "display": "ate",
+      "definitionEn": "When you have finished chewing and swallowing food.",
+      "definitionZh": "吃过了。"
+    },
+    {
+      "key": "australia",
+      "display": "Australia",
+      "definitionEn": "A place far away where kangaroos live.",
+      "definitionZh": "澳大利亚，袋鼠住的地方。"
+    },
+    {
+      "key": "author",
+      "display": "author",
+      "definitionEn": "The person who writes story books.",
+      "definitionZh": "写书的作者。"
+    },
+    {
+      "key": "baby",
+      "display": "baby",
+      "definitionEn": "A very young child who cannot walk yet.",
+      "definitionZh": "可爱的小宝宝。"
+    },
+    {
+      "key": "babysitter",
+      "display": "babysitter",
+      "definitionEn": "A person who looks after you when parents go out.",
+      "definitionZh": "临时照看小孩的保姆阿姨。"
+    },
+    {
+      "key": "badger",
+      "display": "badger",
+      "definitionEn": "A black and white animal that lives in a hole.",
+      "definitionZh": "一种黑白纹的小獾。"
+    },
+    {
+      "key": "badminton",
+      "display": "badminton",
+      "definitionEn": "A game where you hit a feathered ball over a net.",
+      "definitionZh": "羽毛球运动。"
+    },
+    {
+      "key": "bag",
+      "display": "bag",
+      "definitionEn": "Something you use to carry your things.",
+      "definitionZh": "装东西的小包。"
+    },
+    {
+      "key": "ball",
+      "display": "ball",
+      "definitionEn": "A round object that you can bounce or kick.",
+      "definitionZh": "圆球。"
+    },
+    {
+      "key": "balloon",
+      "display": "balloon",
+      "definitionEn": "A bright toy filled with air that floats.",
+      "definitionZh": "飞在空中的气球。"
+    },
+    {
+      "key": "balloons",
+      "display": "balloons",
+      "definitionEn": "Many bright toys filled with air.",
+      "definitionZh": "许多漂亮的气球。"
+    },
+    {
+      "key": "band",
+      "display": "band",
+      "definitionEn": "A group of people who play music together.",
+      "definitionZh": "在起演奏的长笛乐队。"
+    },
+    {
+      "key": "banner",
+      "display": "banner",
+      "definitionEn": "A long piece of cloth with words on it.",
+      "definitionZh": "写着字的长条旗。"
+    },
+    {
+      "key": "barbecue",
+      "display": "barbecue",
+      "definitionEn": "Cooking and eating food outside in the garden.",
+      "definitionZh": "在户外野餐吃烧烤。"
+    },
+    {
+      "key": "barked",
+      "display": "barked",
+      "definitionEn": "When a dog made a loud noise.",
+      "definitionZh": "小狗汪汪叫了。"
+    },
+    {
+      "key": "barn",
+      "display": "barn",
+      "definitionEn": "A big building on a farm for animals to sleep.",
+      "definitionZh": "农场里给动物住的大棚子。"
+    },
+    {
+      "key": "basket",
+      "display": "basket",
+      "definitionEn": "A container made of thin sticks for carrying things.",
+      "definitionZh": "编成的小篮子。"
+    },
+    {
+      "key": "bat",
+      "display": "bat",
+      "definitionEn": "A small animal like a mouse with wings.",
+      "definitionZh": "长翅膀的蝙蝠。"
+    },
+    {
+      "key": "bath",
+      "display": "bath",
+      "definitionEn": "When you wash your body in a tub of water.",
+      "definitionZh": "洗澡。"
+    },
+    {
+      "key": "beach",
+      "display": "beach",
+      "definitionEn": "A sandy place next to the sea.",
+      "definitionZh": "海边的沙滩。"
+    },
+    {
+      "key": "bead",
+      "display": "bead",
+      "definitionEn": "A small round thing that can be put on a string.",
+      "definitionZh": "穿在绳上的小珠子。"
+    },
+    {
+      "key": "bear",
+      "display": "bear",
+      "definitionEn": "A large animal with thick fur.",
+      "definitionZh": "毛茸茸的大熊。"
+    },
+    {
+      "key": "beard",
+      "display": "beard",
+      "definitionEn": "Hair that grows on a man's chin.",
+      "definitionZh": "下巴上的胡须。"
+    },
+    {
+      "key": "bed",
+      "display": "bed",
+      "definitionEn": "Something soft that you sleep on.",
+      "definitionZh": "睡觉用的小床。"
+    },
+    {
+      "key": "bell",
+      "display": "bell",
+      "definitionEn": "A metal object that makes a ringing sound.",
+      "definitionZh": "小铃铛。"
+    },
+    {
+      "key": "bicycle",
+      "display": "bicycle",
+      "definitionEn": "A machine with two wheels that you ride.",
+      "definitionZh": "两个轮子的自行车。"
+    },
+    {
+      "key": "big",
+      "display": "big",
+      "definitionEn": "Something that is very large in size.",
+      "definitionZh": "大大的。"
+    },
+    {
+      "key": "bike",
+      "display": "bike",
+      "definitionEn": "Another word for a bicycle.",
+      "definitionZh": "脚踏车。"
+    },
+    {
+      "key": "bin",
+      "display": "bin",
+      "definitionEn": "A container where you put things you don't want.",
+      "definitionZh": "垃圾桶。"
+    },
+    {
+      "key": "bird",
+      "display": "bird",
+      "definitionEn": "An animal with feathers and wings that flies.",
+      "definitionZh": "小鸟。"
+    },
+    {
+      "key": "birthday",
+      "display": "birthday",
+      "definitionEn": "The day you were born, often with cake and fun.",
+      "definitionZh": "生日。"
+    },
+    {
+      "key": "biscuits",
+      "display": "biscuits",
+      "definitionEn": "Small, flat, sweet cakes that are crunchy.",
+      "definitionZh": "香脆的饼干。"
+    },
+    {
+      "key": "blackberries",
+      "display": "blackberries",
+      "definitionEn": "Small, dark, juicy fruit that grow on bushes.",
+      "definitionZh": "黑莓果。"
+    },
+    {
+      "key": "blacksmith",
+      "display": "blacksmith",
+      "definitionEn": "A person who makes things out of iron.",
+      "definitionZh": "打造铁器的铁匠。"
+    },
+    {
+      "key": "blue",
+      "display": "blue",
+      "definitionEn": "The color of the sky on a sunny day.",
+      "definitionZh": "天蓝色的。"
+    },
+    {
+      "key": "boat",
+      "display": "boat",
+      "definitionEn": "Something that travels on water.",
+      "definitionZh": "水面上漂的小船。"
+    },
+    {
+      "key": "bone",
+      "display": "bone",
+      "definitionEn": "A hard part inside your body or a dog's toy.",
+      "definitionZh": "硬硬的骨头。"
+    },
+    {
+      "key": "book",
+      "display": "book",
+      "definitionEn": "Pages with words and pictures for reading.",
+      "definitionZh": "可以读的书本。"
+    },
+    {
+      "key": "bookcase",
+      "display": "bookcase",
+      "definitionEn": "A piece of furniture used for holding books.",
+      "definitionZh": "书架。"
+    },
+    {
+      "key": "books",
+      "display": "books",
+      "definitionEn": "Many different stories to read.",
+      "definitionZh": "许多的书。"
+    },
+    {
+      "key": "boomerang",
+      "display": "boomerang",
+      "definitionEn": "A toy you throw that comes back to you.",
+      "definitionZh": "回旋镖。"
+    },
+    {
+      "key": "boot",
+      "display": "boot",
+      "definitionEn": "A strong shoe that covers your foot and ankle.",
+      "definitionZh": "靴子。"
+    },
+    {
+      "key": "boots",
+      "display": "boots",
+      "definitionEn": "Two strong shoes to keep your feet warm.",
+      "definitionZh": "一双小靴子。"
+    },
+    {
+      "key": "bottle",
+      "display": "bottle",
+      "definitionEn": "A container used for holding milk or water.",
+      "definitionZh": "盛液体的瓶子。"
+    },
+    {
+      "key": "box",
+      "display": "box",
+      "definitionEn": "A container with flat sides for holding things.",
+      "definitionZh": "盒子。"
+    },
+    {
+      "key": "breakfast",
+      "display": "breakfast",
+      "definitionEn": "The first meal of the day when you wake up.",
+      "definitionZh": "早起吃的第一顿饭，早餐。"
+    },
+    {
+      "key": "bridesmaid",
+      "display": "bridesmaid",
+      "definitionEn": "A girl who helps a bride at a wedding.",
+      "definitionZh": "婚礼上的伴娘小姑娘。"
+    },
+    {
+      "key": "bridge",
+      "display": "bridge",
+      "definitionEn": "A path built over water so you can cross it.",
+      "definitionZh": "桥。"
+    },
+    {
+      "key": "bubbles",
+      "display": "bubbles",
+      "definitionEn": "Round balls of air inside soap or water.",
+      "definitionZh": "泡泡。"
+    },
+    {
+      "key": "bucket",
+      "display": "bucket",
+      "definitionEn": "A container for carrying water or sand.",
+      "definitionZh": "小桶。"
+    },
+    {
+      "key": "budgie",
+      "display": "budgie",
+      "definitionEn": "A small, brightly colored pet bird.",
+      "definitionZh": "小鹦鹉。"
+    },
+    {
+      "key": "buggy",
+      "display": "buggy",
+      "definitionEn": "A small cart with wheels for a baby.",
+      "definitionZh": "婴儿车。"
+    },
+    {
+      "key": "bully",
+      "display": "bully",
+      "definitionEn": "Someone who is unkind to other people.",
+      "definitionZh": "欺负人的坏孩子。"
+    },
+    {
+      "key": "burglars",
+      "display": "burglars",
+      "definitionEn": "People who break into houses to steal things.",
+      "definitionZh": "入室盗贼。"
+    },
+    {
+      "key": "bus",
+      "display": "bus",
+      "definitionEn": "A large vehicle that carries many people.",
+      "definitionZh": "公共汽车。"
+    },
+    {
+      "key": "butt",
+      "display": "butt",
+      "definitionEn": "To hit something hard with your head.",
+      "definitionZh": "用头去撞调节。"
+    },
+    {
+      "key": "cake",
+      "display": "cake",
+      "definitionEn": "A sweet food made for parties and birthdays.",
+      "definitionZh": "蛋糕。"
+    },
+    {
+      "key": "camcorder",
+      "display": "camcorder",
+      "definitionEn": "A camera used to make movies.",
+      "definitionZh": "手提摄像机。"
+    },
+    {
+      "key": "camera",
+      "display": "camera",
+      "definitionEn": "A machine used for taking pictures.",
+      "definitionZh": "照相机。"
+    },
+    {
+      "key": "camping",
+      "display": "camping",
+      "definitionEn": "Sleeping outside in a tent for fun.",
+      "definitionZh": "去野外扎帐篷安营。"
+    },
+    {
+      "key": "cannon",
+      "display": "cannon",
+      "definitionEn": "A very big gun used a long time ago.",
+      "definitionZh": "大炮。"
+    },
+    {
+      "key": "car",
+      "display": "car",
+      "definitionEn": "A machine with four wheels that your family drives.",
+      "definitionZh": "小汽车。"
+    },
+    {
+      "key": "card",
+      "display": "card",
+      "definitionEn": "A paper with a message for a birthday or holiday.",
+      "definitionZh": "送人的小卡片。"
+    },
+    {
+      "key": "carnival",
+      "display": "carnival",
+      "definitionEn": "A big party in the street with music and games.",
+      "definitionZh": "嘉年华。"
+    },
+    {
+      "key": "carpet",
+      "display": "carpet",
+      "definitionEn": "A soft covering for the floor of a room.",
+      "definitionZh": "地毯。"
+    },
+    {
+      "key": "cart",
+      "display": "cart",
+      "definitionEn": "A small vehicle with wheels for carrying things.",
+      "definitionZh": "小拉车。"
+    },
+    {
+      "key": "case",
+      "display": "case",
+      "definitionEn": "A container for keeping or carrying things safe.",
+      "definitionZh": "小箱子。"
+    },
+    {
+      "key": "castle",
+      "display": "castle",
+      "definitionEn": "A big, strong building where kings used to live.",
+      "definitionZh": "城堡。"
+    },
+    {
+      "key": "cat",
+      "display": "cat",
+      "definitionEn": "A small animal with fur and a long tail.",
+      "definitionZh": "小猫。"
+    },
+    {
+      "key": "catch",
+      "display": "catch",
+      "definitionEn": "To take hold of something that is moving.",
+      "definitionZh": "接住或捉住。"
+    },
+    {
+      "key": "caterpillar",
+      "display": "caterpillar",
+      "definitionEn": "A small, fuzzy creature that turns into a butterfly.",
+      "definitionZh": "毛毛虫。"
+    },
+    {
+      "key": "cellar",
+      "display": "cellar",
+      "definitionEn": "A room that is under a house.",
+      "definitionZh": "地窖。"
+    },
+    {
+      "key": "chariot",
+      "display": "chariot",
+      "definitionEn": "An old cart pulled by horses.",
+      "definitionZh": "马拉战车。"
+    },
+    {
+      "key": "chased",
+      "display": "chased",
+      "definitionEn": "Ran after something to try to catch it.",
+      "definitionZh": "追赶。"
+    },
+    {
+      "key": "cheese",
+      "display": "cheese",
+      "definitionEn": "A yellow or white food made from milk.",
+      "definitionZh": "奶酪。"
+    },
+    {
+      "key": "chest",
+      "display": "chest",
+      "definitionEn": "A large box for keeping toys or treasure.",
+      "definitionZh": "大箱子。"
+    },
+    {
+      "key": "chicken",
+      "display": "chicken",
+      "definitionEn": "A farm bird that lays eggs.",
+      "definitionZh": "鸡。"
+    },
+    {
+      "key": "children",
+      "display": "children",
+      "definitionEn": "More than one boy or girl.",
+      "definitionZh": "小朋友。"
+    },
+    {
+      "key": "chimney",
+      "display": "chimney",
+      "definitionEn": "A pipe on the roof for smoke to go out.",
+      "definitionZh": "烟囱。"
+    },
+    {
+      "key": "china",
+      "display": "China",
+      "definitionEn": "A large place where people speak Chinese.",
+      "definitionZh": "中国。"
+    },
+    {
+      "key": "chocolate",
+      "display": "chocolate",
+      "definitionEn": "A sweet, brown food that tastes very good.",
+      "definitionZh": "巧克力。"
+    },
+    {
+      "key": "chocolates",
+      "display": "chocolates",
+      "definitionEn": "More than one piece of sweet, brown candy.",
+      "definitionZh": "巧克力糖。"
+    },
+    {
+      "key": "choose",
+      "display": "choose",
+      "definitionEn": "To pick something out of many things.",
+      "definitionZh": "挑选。"
+    },
+    {
+      "key": "christmas",
+      "display": "Christmas",
+      "definitionEn": "A holiday with trees, presents, and cards.",
+      "definitionZh": "圣诞节。"
+    },
+    {
+      "key": "circus",
+      "display": "circus",
+      "definitionEn": "A show with clowns and talented animals.",
+      "definitionZh": "马戏团。"
+    },
+    {
+      "key": "city",
+      "display": "city",
+      "definitionEn": "A big place with lots of tall buildings.",
+      "definitionZh": "城市。"
+    },
+    {
+      "key": "classroom",
+      "display": "classroom",
+      "definitionEn": "A room in a school where children learn.",
+      "definitionZh": "教室。"
+    },
+    {
+      "key": "cleaning",
+      "display": "cleaning",
+      "definitionEn": "Washing or tidying things to make them neat.",
+      "definitionZh": "在打扫卫生。"
+    },
+    {
+      "key": "climb",
+      "display": "climb",
+      "definitionEn": "To go up something like a ladder or tree.",
+      "definitionZh": "往上爬。"
+    },
+    {
+      "key": "clippers",
+      "display": "clippers",
+      "definitionEn": "A tool used for cutting grass or hair.",
+      "definitionZh": "大剪刀。"
+    },
+    {
+      "key": "cloth",
+      "display": "cloth",
+      "definitionEn": "Soft material used for making clothes.",
+      "definitionZh": "做衣服用的布。"
+    },
+    {
+      "key": "clown",
+      "display": "clown",
+      "definitionEn": "A funny person with a red nose and big shoes.",
+      "definitionZh": "小丑。"
+    },
+    {
+      "key": "cold",
+      "display": "cold",
+      "definitionEn": "When the air feels like ice and you need a coat.",
+      "definitionZh": "冷冰冰的。"
+    },
+    {
+      "key": "comic",
+      "display": "comic",
+      "definitionEn": "A book with lots of funny pictures and stories.",
+      "definitionZh": "有好多画的漫画书。"
+    },
+    {
+      "key": "computer",
+      "display": "computer",
+      "definitionEn": "An electronic machine for games and work.",
+      "definitionZh": "电脑。"
+    },
+    {
+      "key": "concrete",
+      "display": "concrete",
+      "definitionEn": "A very hard material used to make paths.",
+      "definitionZh": "水泥地。"
+    },
+    {
+      "key": "conjurer",
+      "display": "conjurer",
+      "definitionEn": "A person who does tricks to surprise people.",
+      "definitionZh": "变戏法的。"
+    },
+    {
+      "key": "cornflakes",
+      "display": "cornflakes",
+      "definitionEn": "A breakfast food made of toasted corn.",
+      "definitionZh": "吃早餐用的玉米片。"
+    },
+    {
+      "key": "cot",
+      "display": "cot",
+      "definitionEn": "A small bed with high sides for a baby.",
+      "definitionZh": "小婴儿床。"
+    },
+    {
+      "key": "crab",
+      "display": "crab",
+      "definitionEn": "A sea animal with a shell and ten legs.",
+      "definitionZh": "海里的螃蟹。"
+    },
+    {
+      "key": "crane",
+      "display": "crane",
+      "definitionEn": "A tall machine used to lift heavy things.",
+      "definitionZh": "吊运重物的起重机。"
+    },
+    {
+      "key": "crawly",
+      "display": "crawly",
+      "definitionEn": "Moving along the ground like a bug.",
+      "definitionZh": "在地上爬来爬去。"
+    },
+    {
+      "key": "cream",
+      "display": "cream",
+      "definitionEn": "A thick, white liquid that comes from milk.",
+      "definitionZh": "奶油。"
+    },
+    {
+      "key": "crew",
+      "display": "crew",
+      "definitionEn": "A group of people working on a boat or plane.",
+      "definitionZh": "工作人员。"
+    },
+    {
+      "key": "cricket",
+      "display": "cricket",
+      "definitionEn": "A game played with a bat and a ball.",
+      "definitionZh": "木球运动。"
+    },
+    {
+      "key": "crisps",
+      "display": "crisps",
+      "definitionEn": "Thin slices of potato fried until crunchy.",
+      "definitionZh": "薯片。"
+    },
+    {
+      "key": "cross",
+      "display": "cross",
+      "definitionEn": "To go from one side to the other side.",
+      "definitionZh": "穿过。"
+    },
+    {
+      "key": "crown",
+      "display": "crown",
+      "definitionEn": "A gold hat worn by a king or queen.",
+      "definitionZh": "国王戴的金冠。"
+    },
+    {
+      "key": "cry",
+      "display": "cry",
+      "definitionEn": "To have tears come from your eyes when sad.",
+      "definitionZh": "哭泣。"
+    },
+    {
+      "key": "dance",
+      "display": "dance",
+      "definitionEn": "To move your body to music.",
+      "definitionZh": "跳舞。"
+    },
+    {
+      "key": "day",
+      "display": "day",
+      "definitionEn": "The time when it is light outside.",
+      "definitionZh": "白天。"
+    },
+    {
+      "key": "decorations",
+      "display": "decorations",
+      "definitionEn": "Pretty things used to make a room look nice.",
+      "definitionZh": "装饰品。"
+    },
+    {
+      "key": "den",
+      "display": "den",
+      "definitionEn": "A small, cozy place to hide and play.",
+      "definitionZh": "小秘密基地。"
+    },
+    {
+      "key": "desert",
+      "display": "desert",
+      "definitionEn": "A very hot, sandy place with very little rain.",
+      "definitionZh": "沙漠。"
+    },
+    {
+      "key": "diamonds",
+      "display": "diamonds",
+      "definitionEn": "Very hard, shiny stones that sparkle.",
+      "definitionZh": "钻石。"
+    },
+    {
+      "key": "digger",
+      "display": "digger",
+      "definitionEn": "A big machine that makes holes in the ground.",
+      "definitionZh": "挖土机。"
+    },
+    {
+      "key": "dike",
+      "display": "dike",
+      "definitionEn": "A wall built to stop water from flooding.",
+      "definitionZh": "堤坝。"
+    },
+    {
+      "key": "dinghy",
+      "display": "dinghy",
+      "definitionEn": "A small boat often used for fun on water.",
+      "definitionZh": "小皮艇。"
+    },
+    {
+      "key": "dingo",
+      "display": "dingo",
+      "definitionEn": "A wild dog that lives in Australia.",
+      "definitionZh": "澳洲野狗。"
+    },
+    {
+      "key": "dinner",
+      "display": "dinner",
+      "definitionEn": "A big meal that you eat in the evening.",
+      "definitionZh": "晚餐。"
+    },
+    {
+      "key": "dinosaur",
+      "display": "dinosaur",
+      "definitionEn": "A huge animal that lived a long time ago.",
+      "definitionZh": "恐龙。"
+    },
+    {
+      "key": "dinosaurs",
+      "display": "dinosaurs",
+      "definitionEn": "Many huge animals from a long time ago.",
+      "definitionZh": "好多的恐龙。"
+    },
+    {
+      "key": "disks",
+      "display": "disks",
+      "definitionEn": "Flat, round things used for games or music.",
+      "definitionZh": "圆圆的光盘。"
+    },
+    {
+      "key": "doctor",
+      "display": "doctor",
+      "definitionEn": "A person who helps you feel better when sick.",
+      "definitionZh": "医生。"
+    },
+    {
+      "key": "dog",
+      "display": "dog",
+      "definitionEn": "A friendly animal that barks.",
+      "definitionZh": "小狗。"
+    },
+    {
+      "key": "dogs",
+      "display": "dogs",
+      "definitionEn": "Many friendly animals that bark.",
+      "definitionZh": "许多小狗。"
+    },
+    {
+      "key": "dolphin",
+      "display": "dolphin",
+      "definitionEn": "A smart sea animal that likes to jump.",
+      "definitionZh": "海豚。"
+    },
+    {
+      "key": "donkey",
+      "display": "donkey",
+      "definitionEn": "An animal like a small horse with long ears.",
+      "definitionZh": "小毛驴。"
+    },
+    {
+      "key": "door",
+      "display": "door",
+      "definitionEn": "Something you open and close to enter a room.",
+      "definitionZh": "门。"
+    },
+    {
+      "key": "dragon",
+      "display": "dragon",
+      "definitionEn": "A big, scaly animal from stories that breathes fire.",
+      "definitionZh": "故事里会喷火的龙。"
+    },
+    {
+      "key": "drawing",
+      "display": "drawing",
+      "definitionEn": "Making a picture with a pencil or crayon.",
+      "definitionZh": "在画画。"
+    },
+    {
+      "key": "dream",
+      "display": "dream",
+      "definitionEn": "Stories you see in your head while sleeping.",
+      "definitionZh": "梦。"
+    },
+    {
+      "key": "dreamed",
+      "display": "dreamed",
+      "definitionEn": "When you had a story in your head while sleeping.",
+      "definitionZh": "做过梦了。"
+    },
+    {
+      "key": "dress",
+      "display": "dress",
+      "definitionEn": "A piece of clothing worn by girls.",
+      "definitionZh": "漂亮连裙子。"
+    },
+    {
+      "key": "dressed",
+      "display": "dressed",
+      "definitionEn": "When someone has put their clothes on.",
+      "definitionZh": "穿好衣服了。"
+    },
+    {
+      "key": "drum",
+      "display": "drum",
+      "definitionEn": "A musical object that you hit with sticks.",
+      "definitionZh": "鼓。"
+    },
+    {
+      "key": "drums",
+      "display": "drums",
+      "definitionEn": "More than one musical object that you hit.",
+      "definitionZh": "许多鼓。"
+    },
+    {
+      "key": "drunk",
+      "display": "drunk",
+      "definitionEn": "When someone has finished their drink.",
+      "definitionZh": "喝过了。"
+    },
+    {
+      "key": "dry",
+      "display": "dry",
+      "definitionEn": "When something has no water on it.",
+      "definitionZh": "干干的。"
+    },
+    {
+      "key": "duck",
+      "display": "duck",
+      "definitionEn": "A bird that lives on water and says quack.",
+      "definitionZh": "小鸭子。"
+    },
+    {
+      "key": "ducks",
+      "display": "ducks",
+      "definitionEn": "More than one bird that lives on water.",
+      "definitionZh": "一群小鸭子。"
+    },
+    {
+      "key": "early",
+      "display": "early",
+      "definitionEn": "Doing something before the usual time.",
+      "definitionZh": "早早地。"
+    },
+    {
+      "key": "easy",
+      "display": "easy",
+      "definitionEn": "Something that is not hard to do.",
+      "definitionZh": "简单的。"
+    },
+    {
+      "key": "eggs",
+      "display": "eggs",
+      "definitionEn": "Round things that come from birds like chickens.",
+      "definitionZh": "蛋。"
+    },
+    {
+      "key": "eiffel",
+      "display": "Eiffel",
+      "definitionEn": "A very tall tower made of iron in Paris.",
+      "definitionZh": "埃菲尔铁塔。"
+    },
+    {
+      "key": "elephant",
+      "display": "elephant",
+      "definitionEn": "A very big animal with a long trunk.",
+      "definitionZh": "大象。"
+    },
+    {
+      "key": "elves",
+      "display": "elves",
+      "definitionEn": "Tiny little people from magic stories.",
+      "definitionZh": "小精灵。"
+    },
+    {
+      "key": "everywhere",
+      "display": "everywhere",
+      "definitionEn": "In every place you can think of.",
+      "definitionZh": "到处都是。"
+    },
+    {
+      "key": "excited",
+      "display": "excited",
+      "definitionEn": "Very happy and looking forward to something.",
+      "definitionZh": "非常兴奋。"
+    },
+    {
+      "key": "eyebrows",
+      "display": "eyebrows",
+      "definitionEn": "The hair that grows above your eyes.",
+      "definitionZh": "眉毛。"
+    },
+    {
+      "key": "faces",
+      "display": "faces",
+      "definitionEn": "The front parts of people's heads.",
+      "definitionZh": "好几张脸。"
+    },
+    {
+      "key": "fair",
+      "display": "fair",
+      "definitionEn": "A big outdoor place with rides and games.",
+      "definitionZh": "集市游乐场。"
+    },
+    {
+      "key": "falcon",
+      "display": "falcon",
+      "definitionEn": "A strong bird that can fly very fast.",
+      "definitionZh": "猎隼。"
+    },
+    {
+      "key": "farm",
+      "display": "farm",
+      "definitionEn": "A place where animals live and food is grown.",
+      "definitionZh": "农场。"
+    },
+    {
+      "key": "farmer",
+      "display": "farmer",
+      "definitionEn": "A person who works on a farm.",
+      "definitionZh": "农民伯伯。"
+    },
+    {
+      "key": "feathers",
+      "display": "feathers",
+      "definitionEn": "The soft things that cover a bird's body.",
+      "definitionZh": "羽毛。"
+    },
+    {
+      "key": "feet",
+      "display": "feet",
+      "definitionEn": "The parts of your body you use for walking.",
+      "definitionZh": "脚。"
+    },
+    {
+      "key": "fence",
+      "display": "fence",
+      "definitionEn": "A wall made of wood or metal around a garden.",
+      "definitionZh": "小围栏。"
+    },
+    {
+      "key": "fierce",
+      "display": "fierce",
+      "definitionEn": "Looking very strong and a bit scary.",
+      "definitionZh": "凶猛的。"
+    },
+    {
+      "key": "fire",
+      "display": "fire",
+      "definitionEn": "Something hot that gives light and smoke.",
+      "definitionZh": "火。"
+    },
+    {
+      "key": "fireman",
+      "display": "fireman",
+      "definitionEn": "A person who puts out fires.",
+      "definitionZh": "消防队员。"
+    },
+    {
+      "key": "firemen",
+      "display": "firemen",
+      "definitionEn": "More than one person who puts out fires.",
+      "definitionZh": "好几位消防队员。"
+    },
+    {
+      "key": "fireworks",
+      "display": "fireworks",
+      "definitionEn": "Bright lights and big bangs in the sky.",
+      "definitionZh": "烟花。"
+    },
+    {
+      "key": "fit",
+      "display": "fit",
+      "definitionEn": "To be the right size for something.",
+      "definitionZh": "正合适。"
+    },
+    {
+      "key": "flat",
+      "display": "flat",
+      "definitionEn": "Level and even, without bumps.",
+      "definitionZh": "平平的。"
+    },
+    {
+      "key": "flood",
+      "display": "flood",
+      "definitionEn": "When there is too much water everywhere.",
+      "definitionZh": "洪水。"
+    },
+    {
+      "key": "flower",
+      "display": "flower",
+      "definitionEn": "A pretty, colored plant that smells nice.",
+      "definitionZh": "小花。"
+    },
+    {
+      "key": "flowers",
+      "display": "flowers",
+      "definitionEn": "Many pretty, colored plants.",
+      "definitionZh": "许多花。"
+    },
+    {
+      "key": "flying",
+      "display": "flying",
+      "definitionEn": "Moving through the air like a bird.",
+      "definitionZh": "在天上飞。"
+    },
+    {
+      "key": "fog",
+      "display": "fog",
+      "definitionEn": "Thick clouds near the ground.",
+      "definitionZh": "白茫茫的大雾。"
+    },
+    {
+      "key": "foggy",
+      "display": "foggy",
+      "definitionEn": "When it is hard to see because of fog.",
+      "definitionZh": "雾蒙蒙的。"
+    },
+    {
+      "key": "foot",
+      "display": "foot",
+      "definitionEn": "The part of your body at the end of your leg.",
+      "definitionZh": "脚。"
+    },
+    {
+      "key": "football",
+      "display": "football",
+      "definitionEn": "A game where you kick a ball into a goal.",
+      "definitionZh": "足球。"
+    },
+    {
+      "key": "footprint",
+      "display": "footprint",
+      "definitionEn": "The mark left on the ground by a foot.",
+      "definitionZh": "小脚印。"
+    },
+    {
+      "key": "fort",
+      "display": "fort",
+      "definitionEn": "A strong place built to keep people safe.",
+      "definitionZh": "堡垒。"
+    },
+    {
+      "key": "fossil",
+      "display": "fossil",
+      "definitionEn": "An old bone or plant turned into stone.",
+      "definitionZh": "化石。"
+    },
+    {
+      "key": "frightened",
+      "display": "frightened",
+      "definitionEn": "Feeling scared of something.",
+      "definitionZh": "感到害怕。"
+    },
+    {
+      "key": "frisbee",
+      "display": "frisbee",
+      "definitionEn": "A round toy that you throw through the air.",
+      "definitionZh": "飞盘。"
+    },
+    {
+      "key": "frog",
+      "display": "frog",
+      "definitionEn": "A small green animal that jumps.",
+      "definitionZh": "青蛙。"
+    },
+    {
+      "key": "frogs",
+      "display": "frogs",
+      "definitionEn": "More than one green animal that jumps.",
+      "definitionZh": "一群青蛙。"
+    },
+    {
+      "key": "furniture",
+      "display": "furniture",
+      "definitionEn": "Things in a house like chairs and tables.",
+      "definitionZh": "家具。"
+    },
+    {
+      "key": "garden",
+      "display": "garden",
+      "definitionEn": "A place outside with flowers and grass.",
+      "definitionZh": "花园。"
+    },
+    {
+      "key": "genie",
+      "display": "genie",
+      "definitionEn": "A magic person from a lamp who grants wishes.",
+      "definitionZh": "灯神。"
+    },
+    {
+      "key": "ghost",
+      "display": "ghost",
+      "definitionEn": "A white and scary thing from stories.",
+      "definitionZh": "小幽灵。"
+    },
+    {
+      "key": "giant",
+      "display": "giant",
+      "definitionEn": "A very, very big person from stories.",
+      "definitionZh": "巨人。"
+    },
+    {
+      "key": "giraffes",
+      "display": "giraffes",
+      "definitionEn": "Tall animals with long necks and spots.",
+      "definitionZh": "高高的长颈鹿。"
+    },
+    {
+      "key": "glowing",
+      "display": "glowing",
+      "definitionEn": "Giving off a soft, pretty light.",
+      "definitionZh": "放光的。"
+    },
+    {
+      "key": "go-kart",
+      "display": "go-kart",
+      "definitionEn": "A small, low car that you race for fun.",
+      "definitionZh": "好玩的小赛车。"
+    },
+    {
+      "key": "Go-kart",
+      "display": "Go-kart",
+      "definitionEn": "A small, low car that you race for fun.",
+      "definitionZh": "好玩的小赛车。"
+    },
+    {
+      "key": "goal",
+      "display": "goal",
+      "definitionEn": "The place where you kick a ball in games.",
+      "definitionZh": "球门。"
+    },
+    {
+      "key": "goat",
+      "display": "goat",
+      "definitionEn": "An animal with horns that lives on a farm.",
+      "definitionZh": "山羊。"
+    },
+    {
+      "key": "going",
+      "display": "going",
+      "definitionEn": "Moving from one place to another.",
+      "definitionZh": "正在去。"
+    },
+    {
+      "key": "gold",
+      "display": "gold",
+      "definitionEn": "A shiny, yellow metal worth a lot.",
+      "definitionZh": "金子。"
+    },
+    {
+      "key": "goldfish",
+      "display": "goldfish",
+      "definitionEn": "A small orange fish that lives in a bowl.",
+      "definitionZh": "小金鱼。"
+    },
+    {
+      "key": "goose",
+      "display": "goose",
+      "definitionEn": "A large bird that lives on a farm.",
+      "definitionZh": "大鹅。"
+    },
+    {
+      "key": "grapes",
+      "display": "grapes",
+      "definitionEn": "Small round fruits that grow in bunches.",
+      "definitionZh": "一串串葡萄。"
+    },
+    {
+      "key": "gray",
+      "display": "gray",
+      "definitionEn": "A color between black and white.",
+      "definitionZh": "灰色的。"
+    },
+    {
+      "key": "greece",
+      "display": "Greece",
+      "definitionEn": "A warm place by the sea with old buildings.",
+      "definitionZh": "希腊。"
+    },
+    {
+      "key": "greenhouse",
+      "display": "greenhouse",
+      "definitionEn": "A glass house used for growing plants.",
+      "definitionZh": "玻璃暖房。"
+    },
+    {
+      "key": "guitar",
+      "display": "guitar",
+      "definitionEn": "A musical toy with strings.",
+      "definitionZh": "吉他。"
+    },
+    {
+      "key": "gum",
+      "display": "gum",
+      "definitionEn": "Something sweet that you chew.",
+      "definitionZh": "口香糖。"
+    },
+    {
+      "key": "gym",
+      "display": "gym",
+      "definitionEn": "A large room for exercise and games.",
+      "definitionZh": "体育馆。"
+    },
+    {
+      "key": "haircut",
+      "display": "haircut",
+      "definitionEn": "When someone makes your hair shorter.",
+      "definitionZh": "剪头发。"
+    },
+    {
+      "key": "happy",
+      "display": "happy",
+      "definitionEn": "Feeling good and smiling.",
+      "definitionZh": "开心的。"
+    },
+    {
+      "key": "harness",
+      "display": "harness",
+      "definitionEn": "Straps used to help a horse pull a cart.",
+      "definitionZh": "套具。"
+    },
+    {
+      "key": "hat",
+      "display": "hat",
+      "definitionEn": "Something you wear on your head.",
+      "definitionZh": "帽子。"
+    },
+    {
+      "key": "head",
+      "display": "head",
+      "definitionEn": "The top part of your body.",
+      "definitionZh": "脑袋。"
+    },
+    {
+      "key": "headache",
+      "display": "headache",
+      "definitionEn": "When your head feels like it hurts.",
+      "definitionZh": "头痛。"
+    },
+    {
+      "key": "hedgehog",
+      "display": "hedgehog",
+      "definitionEn": "A small animal covered in prickles.",
+      "definitionZh": "刺猬。"
+    },
+    {
+      "key": "helicopter",
+      "display": "helicopter",
+      "definitionEn": "A flying machine with blades on top.",
+      "definitionZh": "直升机。"
+    },
+    {
+      "key": "helmet",
+      "display": "helmet",
+      "definitionEn": "A hard hat to keep your head safe.",
+      "definitionZh": "头盔。"
+    },
+    {
+      "key": "help",
+      "display": "help",
+      "definitionEn": "Doing something for someone else.",
+      "definitionZh": "帮忙。"
+    },
+    {
+      "key": "Help",
+      "display": "Help",
+      "definitionEn": "Doing something for someone else.",
+      "definitionZh": "帮忙。"
+    },
+    {
+      "key": "hens",
+      "display": "hens",
+      "definitionEn": "Girl chickens that lay eggs.",
+      "definitionZh": "母鸡。"
+    },
+    {
+      "key": "hermit",
+      "display": "hermit",
+      "definitionEn": "A person who lives all alone.",
+      "definitionZh": "隐士。"
+    },
+    {
+      "key": "hero",
+      "display": "hero",
+      "definitionEn": "A brave person who helps others.",
+      "definitionZh": "英雄。"
+    },
+    {
+      "key": "hide",
+      "display": "hide",
+      "definitionEn": "To go where no one can see you.",
+      "definitionZh": "躲起来。"
+    },
+    {
+      "key": "hiding",
+      "display": "hiding",
+      "definitionEn": "When you are where no one can see you.",
+      "definitionZh": "在躲藏。"
+    },
+    {
+      "key": "hill",
+      "display": "hill",
+      "definitionEn": "A place where the ground goes up high.",
+      "definitionZh": "小山坡。"
+    },
+    {
+      "key": "hole",
+      "display": "hole",
+      "definitionEn": "An opening in something or in the ground.",
+      "definitionZh": "小洞。"
+    },
+    {
+      "key": "holiday",
+      "display": "holiday",
+      "definitionEn": "A special time when you don't have school.",
+      "definitionZh": "假期。"
+    },
+    {
+      "key": "home",
+      "display": "home",
+      "definitionEn": "The house where you live with your family.",
+      "definitionZh": "温暖的家。"
+    },
+    {
+      "key": "hook",
+      "display": "hook",
+      "definitionEn": "A curved object for hanging things.",
+      "definitionZh": "钩子。"
+    },
+    {
+      "key": "horse",
+      "display": "horse",
+      "definitionEn": "A large animal that people can ride.",
+      "definitionZh": "大马。"
+    },
+    {
+      "key": "hose",
+      "display": "hose",
+      "definitionEn": "A long tube used for pouring water.",
+      "definitionZh": "水管。"
+    },
+    {
+      "key": "hospital",
+      "display": "hospital",
+      "definitionEn": "A place where doctors make people better.",
+      "definitionZh": "医院。"
+    },
+    {
+      "key": "hotel",
+      "display": "hotel",
+      "definitionEn": "A place where you stay away from home.",
+      "definitionZh": "酒店。"
+    },
+    {
+      "key": "house",
+      "display": "house",
+      "definitionEn": "A building where people live.",
+      "definitionZh": "房子。"
+    },
+    {
+      "key": "hungry",
+      "display": "hungry",
+      "definitionEn": "When you want to eat some food.",
+      "definitionZh": "肚子饿了。"
+    },
+    {
+      "key": "ice",
+      "display": "ice",
+      "definitionEn": "Frozen water that is very cold.",
+      "definitionZh": "冰。"
+    },
+    {
+      "key": "ice cream",
+      "display": "ice cream",
+      "definitionEn": "A cold and sweet treat.",
+      "definitionZh": "冰淇淋。"
+    },
+    {
+      "key": "idea",
+      "display": "idea",
+      "definitionEn": "A new thought in your head.",
+      "definitionZh": "好主意。"
+    },
+    {
+      "key": "important",
+      "display": "important",
+      "definitionEn": "Something that is very special and needs care.",
+      "definitionZh": "重要的。"
+    },
+    {
+      "key": "inside",
+      "display": "inside",
+      "definitionEn": "To be within a building or room.",
+      "definitionZh": "在里面。"
+    },
+    {
+      "key": "island",
+      "display": "island",
+      "definitionEn": "A piece of land with water all around it.",
+      "definitionZh": "小岛。"
+    },
+    {
+      "key": "jacket",
+      "display": "jacket",
+      "definitionEn": "A short coat that keeps you warm.",
+      "definitionZh": "夹克外套。"
+    },
+    {
+      "key": "jam",
+      "display": "jam",
+      "definitionEn": "A sweet food made from fruit for bread.",
+      "definitionZh": "果酱。"
+    },
+    {
+      "key": "jeans",
+      "display": "jeans",
+      "definitionEn": "Strong blue pants for playing in.",
+      "definitionZh": "牛仔裤。"
+    },
+    {
+      "key": "jigsaw",
+      "display": "jigsaw",
+      "definitionEn": "A puzzle made of many small pieces.",
+      "definitionZh": "拼图。"
+    },
+    {
+      "key": "jog",
+      "display": "jog",
+      "definitionEn": "To run in a slow and easy way.",
+      "definitionZh": "慢跑。"
+    },
+    {
+      "key": "joke",
+      "display": "joke",
+      "definitionEn": "Something funny that makes you laugh.",
+      "definitionZh": "笑话。"
+    },
+    {
+      "key": "jumble",
+      "display": "jumble",
+      "definitionEn": "A lot of things all mixed up together.",
+      "definitionZh": "乱糟糟的一堆。"
+    },
+    {
+      "key": "jumped",
+      "display": "jumped",
+      "definitionEn": "Moved quickly up into the air.",
+      "definitionZh": "跳起来了。"
+    },
+    {
+      "key": "jumping",
+      "display": "jumping",
+      "definitionEn": "When you are moving up and down.",
+      "definitionZh": "在跳。"
+    },
+    {
+      "key": "jungle",
+      "display": "jungle",
+      "definitionEn": "A wild place with lots of tall trees.",
+      "definitionZh": "丛林。"
+    },
+    {
+      "key": "kangaroo",
+      "display": "kangaroo",
+      "definitionEn": "A jumping animal with a pouch for its baby.",
+      "definitionZh": "袋鼠。"
+    },
+    {
+      "key": "kettle",
+      "display": "kettle",
+      "definitionEn": "A pot used for boiling water.",
+      "definitionZh": "水壶。"
+    },
+    {
+      "key": "key",
+      "display": "key",
+      "definitionEn": "A small metal tool used to open a door.",
+      "definitionZh": "钥匙。"
+    },
+    {
+      "key": "kidnappers",
+      "display": "kidnappers",
+      "definitionEn": "Bad people who take someone away.",
+      "definitionZh": "绑匪。"
+    },
+    {
+      "key": "king",
+      "display": "king",
+      "definitionEn": "The man who is the leader of a country.",
+      "definitionZh": "国王。"
+    },
+    {
+      "key": "knight",
+      "display": "knight",
+      "definitionEn": "A brave soldier from old stories.",
+      "definitionZh": "骑士。"
+    },
+    {
+      "key": "knights",
+      "display": "knights",
+      "definitionEn": "More than one brave soldier from old stories.",
+      "definitionZh": "许多骑士。"
+    },
+    {
+      "key": "knitting",
+      "display": "knitting",
+      "definitionEn": "Making clothes from wool with special needles.",
+      "definitionZh": "在织毛衣。"
+    },
+    {
+      "key": "laboratory",
+      "display": "laboratory",
+      "definitionEn": "A special room for doing science tests.",
+      "definitionZh": "实验室。"
+    },
+    {
+      "key": "laces",
+      "display": "laces",
+      "definitionEn": "Strings used to tie up your shoes.",
+      "definitionZh": "鞋带。"
+    },
+    {
+      "key": "ladder",
+      "display": "ladder",
+      "definitionEn": "Something you climb to reach high places.",
+      "definitionZh": "梯子。"
+    },
+    {
+      "key": "lake",
+      "display": "lake",
+      "definitionEn": "A large area of water surrounded by land.",
+      "definitionZh": "湖泊。"
+    },
+    {
+      "key": "lamp",
+      "display": "lamp",
+      "definitionEn": "Something that gives light to a room.",
+      "definitionZh": "灯。"
+    },
+    {
+      "key": "lamp post",
+      "display": "lamp post",
+      "definitionEn": "A tall pole with a light in the street.",
+      "definitionZh": "路灯柱。"
+    },
+    {
+      "key": "last",
+      "display": "last",
+      "definitionEn": "The person or thing at the very end.",
+      "definitionZh": "最后一个。"
+    },
+    {
+      "key": "laugh",
+      "display": "laugh",
+      "definitionEn": "The sound you make when something is funny.",
+      "definitionZh": "笑。"
+    },
+    {
+      "key": "laughing",
+      "display": "laughing",
+      "definitionEn": "When you are making a happy sound.",
+      "definitionZh": "正在笑。"
+    },
+    {
+      "key": "leaking",
+      "display": "leaking",
+      "definitionEn": "When water is coming out of a small hole.",
+      "definitionZh": "在漏水。"
+    },
+    {
+      "key": "Lego",
+      "display": "Lego",
+      "definitionEn": "Small plastic blocks you use to build things.",
+      "definitionZh": "乐高积木。"
+    },
+    {
+      "key": "lemons",
+      "display": "lemons",
+      "definitionEn": "Sour yellow fruits.",
+      "definitionZh": "柠檬。"
+    },
+    {
+      "key": "library",
+      "display": "library",
+      "definitionEn": "A place with lots of books to read.",
+      "definitionZh": "图书馆。"
+    },
+    {
+      "key": "lifeboat",
+      "display": "lifeboat",
+      "definitionEn": "A small boat used to rescue people at sea.",
+      "definitionZh": "救生艇。"
+    },
+    {
+      "key": "lion",
+      "display": "lion",
+      "definitionEn": "A large animal with a furry mane.",
+      "definitionZh": "狮子。"
+    },
+    {
+      "key": "lipstick",
+      "display": "lipstick",
+      "definitionEn": "Something used to put color on your lips.",
+      "definitionZh": "口红。"
+    },
+    {
+      "key": "litter",
+      "display": "litter",
+      "definitionEn": "Trash thrown on the ground.",
+      "definitionZh": "乱丢的垃圾。"
+    },
+    {
+      "key": "little",
+      "display": "little",
+      "definitionEn": "Something that is very small.",
+      "definitionZh": "小小的。"
+    },
+    {
+      "key": "lizard",
+      "display": "lizard",
+      "definitionEn": "A small animal with a tail and scaly skin.",
+      "definitionZh": "蜥蜴。"
+    },
+    {
+      "key": "london",
+      "display": "London",
+      "definitionEn": "A very big city in England.",
+      "definitionZh": "伦敦。"
+    },
+    {
+      "key": "longship",
+      "display": "longship",
+      "definitionEn": "A long boat used by Vikings long ago.",
+      "definitionZh": "维京人的长船。"
+    },
+    {
+      "key": "lorry",
+      "display": "lorry",
+      "definitionEn": "A large vehicle used for carrying heavy things.",
+      "definitionZh": "大卡车。"
+    },
+    {
+      "key": "lost",
+      "display": "lost",
+      "definitionEn": "When you do not know where you are.",
+      "definitionZh": "迷路了。"
+    },
+    {
+      "key": "machine",
+      "display": "machine",
+      "definitionEn": "Something with moving parts that does a job.",
+      "definitionZh": "机器。"
+    },
+    {
+      "key": "magic",
+      "display": "magic",
+      "definitionEn": "Tricks that look like they are impossible.",
+      "definitionZh": "魔术。"
+    },
+    {
+      "key": "magnifying",
+      "display": "magnifying",
+      "definitionEn": "Making something look much larger than it is.",
+      "definitionZh": "放大的。"
+    },
+    {
+      "key": "magpie",
+      "display": "magpie",
+      "definitionEn": "A black and white bird that likes shiny things.",
+      "definitionZh": "喜鹊。"
+    },
+    {
+      "key": "mangle",
+      "display": "mangle",
+      "definitionEn": "An old machine for squeezing water out of clothes.",
+      "definitionZh": "轧衣机。"
+    },
+    {
+      "key": "map",
+      "display": "map",
+      "definitionEn": "A drawing that shows where places are.",
+      "definitionZh": "地图。"
+    },
+    {
+      "key": "marbles",
+      "display": "marbles",
+      "definitionEn": "Small glass balls used for playing games.",
+      "definitionZh": "小玻璃球。"
+    },
+    {
+      "key": "market",
+      "display": "market",
+      "definitionEn": "A place where people buy and sell things.",
+      "definitionZh": "市场。"
+    },
+    {
+      "key": "mask",
+      "display": "mask",
+      "definitionEn": "Something you wear over your face to hide.",
+      "definitionZh": "面具。"
+    },
+    {
+      "key": "mayor",
+      "display": "mayor",
+      "definitionEn": "The person who is the leader of a city.",
+      "definitionZh": "市长。"
+    },
+    {
+      "key": "maze",
+      "display": "maze",
+      "definitionEn": "A path with many turns where you can get lost.",
+      "definitionZh": "迷宫。"
+    },
+    {
+      "key": "medal",
+      "display": "medal",
+      "definitionEn": "A prize for winning a race or contest.",
+      "definitionZh": "奖牌。"
+    },
+    {
+      "key": "mended",
+      "display": "mended",
+      "definitionEn": "Fixed after being broken or torn.",
+      "definitionZh": "修好了。"
+    },
+    {
+      "key": "mess",
+      "display": "mess",
+      "definitionEn": "When things are untidy and dirty.",
+      "definitionZh": "乱糟糟。"
+    },
+    {
+      "key": "microlight",
+      "display": "microlight",
+      "definitionEn": "A tiny and very light aeroplane.",
+      "definitionZh": "超轻型飞机。"
+    },
+    {
+      "key": "milk",
+      "display": "milk",
+      "definitionEn": "A white drink that comes from cows.",
+      "definitionZh": "牛奶。"
+    },
+    {
+      "key": "mirror",
+      "display": "mirror",
+      "definitionEn": "A special glass that shows you yourself.",
+      "definitionZh": "镜子。"
+    },
+    {
+      "key": "mirrors",
+      "display": "mirrors",
+      "definitionEn": "More than one special glass that shows reflections.",
+      "definitionZh": "好几面镜子。"
+    },
+    {
+      "key": "moat",
+      "display": "moat",
+      "definitionEn": "A deep ditch of water around a castle.",
+      "definitionZh": "护城河。"
+    },
+    {
+      "key": "models",
+      "display": "models",
+      "definitionEn": "Small copies of real things like cars.",
+      "definitionZh": "模型。"
+    },
+    {
+      "key": "money",
+      "display": "money",
+      "definitionEn": "Coins and bills used to buy things.",
+      "definitionZh": "钱。"
+    },
+    {
+      "key": "monkey",
+      "display": "monkey",
+      "definitionEn": "A furry animal with a long tail that climbs.",
+      "definitionZh": "猴子。"
+    },
+    {
+      "key": "monkeys",
+      "display": "monkeys",
+      "definitionEn": "More than one furry animal that climbs.",
+      "definitionZh": "一群猴子。"
+    },
+    {
+      "key": "monster",
+      "display": "monster",
+      "definitionEn": "A big scary creature from stories.",
+      "definitionZh": "怪物。"
+    },
+    {
+      "key": "mosque",
+      "display": "mosque",
+      "definitionEn": "A building where people go to pray.",
+      "definitionZh": "清真寺。"
+    },
+    {
+      "key": "motorbike",
+      "display": "motorbike",
+      "definitionEn": "A bicycle with an engine that goes fast.",
+      "definitionZh": "摩托车。"
+    },
+    {
+      "key": "motorway",
+      "display": "motorway",
+      "definitionEn": "A very wide road where cars go fast.",
+      "definitionZh": "高速公路。"
+    },
+    {
+      "key": "mountain",
+      "display": "mountain",
+      "definitionEn": "A very high hill that reaches the clouds.",
+      "definitionZh": "大山。"
+    },
+    {
+      "key": "move",
+      "display": "move",
+      "definitionEn": "To go from one place to somewhere else.",
+      "definitionZh": "移动。"
+    },
+    {
+      "key": "mower",
+      "display": "mower",
+      "definitionEn": "A machine that cuts the grass.",
+      "definitionZh": "割草机。"
+    },
+    {
+      "key": "mud",
+      "display": "mud",
+      "definitionEn": "Wet dirt that is sticky and soft.",
+      "definitionZh": "泥巴。"
+    },
+    {
+      "key": "muddy",
+      "display": "muddy",
+      "definitionEn": "Covered in wet, sticky dirt.",
+      "definitionZh": "泥泞的。"
+    },
+    {
+      "key": "museum",
+      "display": "museum",
+      "definitionEn": "A place where you can see old things.",
+      "definitionZh": "博物馆。"
+    },
+    {
+      "key": "musicians",
+      "display": "musicians",
+      "definitionEn": "People who are good at playing music.",
+      "definitionZh": "音乐家。"
+    },
+    {
+      "key": "mystery",
+      "display": "mystery",
+      "definitionEn": "Something that is very hard to understand.",
+      "definitionZh": "谜团。"
+    },
+    {
+      "key": "nails",
+      "display": "nails",
+      "definitionEn": "Small metal spikes for holding wood together.",
+      "definitionZh": "钉子。"
+    },
+    {
+      "key": "nature",
+      "display": "nature",
+      "definitionEn": "All things outside like plants and animals.",
+      "definitionZh": "大自然。"
+    },
+    {
+      "key": "need",
+      "display": "need",
+      "definitionEn": "Something you must have, like water.",
+      "definitionZh": "需要。"
+    },
+    {
+      "key": "nest",
+      "display": "nest",
+      "definitionEn": "A bird's home made of grass and twigs.",
+      "definitionZh": "鸟窝。"
+    },
+    {
+      "key": "net",
+      "display": "net",
+      "definitionEn": "Strings tied together with holes to catch things.",
+      "definitionZh": "网。"
+    },
+    {
+      "key": "noisy",
+      "display": "noisy",
+      "definitionEn": "Making a lot of loud sounds.",
+      "definitionZh": "吵闹。"
+    },
+    {
+      "key": "nose",
+      "display": "nose",
+      "definitionEn": "The part of your face you use for smelling.",
+      "definitionZh": "鼻子。"
+    },
+    {
+      "key": "nugget",
+      "display": "nugget",
+      "definitionEn": "A small, chunky piece of gold or food.",
+      "definitionZh": "小块。"
+    },
+    {
+      "key": "octopus",
+      "display": "octopus",
+      "definitionEn": "A sea animal with eight long arms.",
+      "definitionZh": "章鱼。"
+    },
+    {
+      "key": "office",
+      "display": "office",
+      "definitionEn": "A room where people sit at desks to work.",
+      "definitionZh": "办公室。"
+    },
+    {
+      "key": "olive",
+      "display": "olive",
+      "definitionEn": "A small fruit that can be green or black.",
+      "definitionZh": "橄榄果。"
+    },
+    {
+      "key": "olympics",
+      "display": "Olympics",
+      "definitionEn": "A big sports game with people from many places.",
+      "definitionZh": "奥运会。"
+    },
+    {
+      "key": "ostrich",
+      "display": "ostrich",
+      "definitionEn": "A tall bird that runs fast but cannot fly.",
+      "definitionZh": "鸵鸟。"
+    },
+    {
+      "key": "otter",
+      "display": "otter",
+      "definitionEn": "A furry animal that loves to swim.",
+      "definitionZh": "水獭。"
+    },
+    {
+      "key": "owl",
+      "display": "owl",
+      "definitionEn": "A bird that stays awake and hunts at night.",
+      "definitionZh": "猫头鹰。"
+    },
+    {
+      "key": "paddling",
+      "display": "paddling",
+      "definitionEn": "Walking or playing in shallow water.",
+      "definitionZh": "在浅水里玩水。"
+    },
+    {
+      "key": "paint",
+      "display": "paint",
+      "definitionEn": "Colorful liquid used to make pictures.",
+      "definitionZh": "颜料。"
+    },
+    {
+      "key": "paintbrush",
+      "display": "paintbrush",
+      "definitionEn": "A tool with hair at the end for painting.",
+      "definitionZh": "画笔。"
+    },
+    {
+      "key": "painted",
+      "display": "painted",
+      "definitionEn": "When something was colored with paint.",
+      "definitionZh": "画好了。"
+    },
+    {
+      "key": "painting",
+      "display": "painting",
+      "definitionEn": "A picture made with paint.",
+      "definitionZh": "画。"
+    },
+    {
+      "key": "palace",
+      "display": "palace",
+      "definitionEn": "A very large, beautiful home for a king.",
+      "definitionZh": "宫殿。"
+    },
+    {
+      "key": "pan",
+      "display": "pan",
+      "definitionEn": "A metal tool used for cooking food.",
+      "definitionZh": "平底锅。"
+    },
+    {
+      "key": "pancake",
+      "display": "pancake",
+      "definitionEn": "A flat, round cake for breakfast.",
+      "definitionZh": "煎饼。"
+    },
+    {
+      "key": "paper",
+      "display": "paper",
+      "definitionEn": "Thin sheets used for writing or drawing.",
+      "definitionZh": "纸。"
+    },
+    {
+      "key": "paris",
+      "display": "Paris",
+      "definitionEn": "A beautiful city in France.",
+      "definitionZh": "巴黎。"
+    },
+    {
+      "key": "park",
+      "display": "park",
+      "definitionEn": "A place with trees and grass to play on.",
+      "definitionZh": "公园。"
+    },
+    {
+      "key": "party",
+      "display": "party",
+      "definitionEn": "A fun gathering with friends and cake.",
+      "definitionZh": "派对。"
+    },
+    {
+      "key": "pets",
+      "display": "pets",
+      "definitionEn": "Animals that live with you and are loved.",
+      "definitionZh": "宠物。"
+    },
+    {
+      "key": "photo",
+      "display": "photo",
+      "definitionEn": "A picture taken with a camera.",
+      "definitionZh": "照片。"
+    },
+    {
+      "key": "photograph",
+      "display": "photograph",
+      "definitionEn": "Another word for a photo picture.",
+      "definitionZh": "照片。"
+    },
+    {
+      "key": "piano",
+      "display": "piano",
+      "definitionEn": "A large musical object with black and white keys.",
+      "definitionZh": "钢琴。"
+    },
+    {
+      "key": "picnic",
+      "display": "picnic",
+      "definitionEn": "Eating a meal outside on the grass.",
+      "definitionZh": "野餐。"
+    },
+    {
+      "key": "picture",
+      "display": "picture",
+      "definitionEn": "A drawing or painting of something.",
+      "definitionZh": "图画。"
+    },
+    {
+      "key": "pie",
+      "display": "pie",
+      "definitionEn": "Fruit or meat baked inside a crust.",
+      "definitionZh": "派。"
+    },
+    {
+      "key": "pigeons",
+      "display": "pigeons",
+      "definitionEn": "Gray birds that live in cities.",
+      "definitionZh": "鸽子。"
+    },
+    {
+      "key": "pillow",
+      "display": "pillow",
+      "definitionEn": "A soft thing you rest your head on when sleeping.",
+      "definitionZh": "枕头。"
+    },
+    {
+      "key": "pills",
+      "display": "pills",
+      "definitionEn": "Small pieces of medicine you swallow when sick.",
+      "definitionZh": "药片。"
+    },
+    {
+      "key": "pirate",
+      "display": "pirate",
+      "definitionEn": "A sailor from stories who looks for treasure.",
+      "definitionZh": "海盗。"
+    },
+    {
+      "key": "pirates",
+      "display": "pirates",
+      "definitionEn": "Many storybook sailors who look for gold.",
+      "definitionZh": "海盗。"
+    },
+    {
+      "key": "pizza",
+      "display": "pizza",
+      "definitionEn": "Flat round bread with cheese and tomato.",
+      "definitionZh": "比萨。"
+    },
+    {
+      "key": "plan",
+      "display": "plan",
+      "definitionEn": "An idea of what you are going to do later.",
+      "definitionZh": "计划。"
+    },
+    {
+      "key": "planet",
+      "display": "planet",
+      "definitionEn": "A huge world in space like Earth.",
+      "definitionZh": "星球。"
+    },
+    {
+      "key": "plate",
+      "display": "plate",
+      "definitionEn": "A flat dish that you put your dinner on.",
+      "definitionZh": "盘子。"
+    },
+    {
+      "key": "play",
+      "display": "play",
+      "definitionEn": "Having fun with your friends or toys.",
+      "definitionZh": "玩耍。"
+    },
+    {
+      "key": "pocket",
+      "display": "pocket",
+      "definitionEn": "A small bag on your clothes for holding things.",
+      "definitionZh": "口袋。"
+    },
+    {
+      "key": "police",
+      "display": "police",
+      "definitionEn": "People who keep everyone safe.",
+      "definitionZh": "警察。"
+    },
+    {
+      "key": "pond",
+      "display": "pond",
+      "definitionEn": "A small area of water where frogs live.",
+      "definitionZh": "池塘。"
+    },
+    {
+      "key": "pool",
+      "display": "pool",
+      "definitionEn": "A large place for people to swim.",
+      "definitionZh": "游泳池。"
+    },
+    {
+      "key": "poster",
+      "display": "poster",
+      "definitionEn": "A large picture on paper stuck to a wall.",
+      "definitionZh": "海报。"
+    },
+    {
+      "key": "pot",
+      "display": "pot",
+      "definitionEn": "A round container used for cooking or plants.",
+      "definitionZh": "锅。"
+    },
+    {
+      "key": "power",
+      "display": "power",
+      "definitionEn": "Being very strong or full of energy.",
+      "definitionZh": "力量。"
+    },
+    {
+      "key": "pram",
+      "display": "pram",
+      "definitionEn": "A cart for taking a baby for a walk.",
+      "definitionZh": "婴儿推车。"
+    },
+    {
+      "key": "present",
+      "display": "present",
+      "definitionEn": "A nice gift given to someone.",
+      "definitionZh": "礼物。"
+    },
+    {
+      "key": "presents",
+      "display": "presents",
+      "definitionEn": "Many nice gifts for a birthday.",
+      "definitionZh": "多件礼物。"
+    },
+    {
+      "key": "prince",
+      "display": "prince",
+      "definitionEn": "The son of a king or queen.",
+      "definitionZh": "王子。"
+    },
+    {
+      "key": "princess",
+      "display": "princess",
+      "definitionEn": "The daughter of a king or queen.",
+      "definitionZh": "公主。"
+    },
+    {
+      "key": "prize",
+      "display": "prize",
+      "definitionEn": "Something you get for winning a game.",
+      "definitionZh": "奖品。"
+    },
+    {
+      "key": "propeller",
+      "display": "propeller",
+      "definitionEn": "A spinning part that helps a plane fly.",
+      "definitionZh": "螺旋桨。"
+    },
+    {
+      "key": "pulled",
+      "display": "pulled",
+      "definitionEn": "When you tugged something toward you.",
+      "definitionZh": "拉动。"
+    },
+    {
+      "key": "puppies",
+      "display": "puppies",
+      "definitionEn": "Many very young little dogs.",
+      "definitionZh": "小狗崽。"
+    },
+    {
+      "key": "puppy",
+      "display": "puppy",
+      "definitionEn": "A very young little dog.",
+      "definitionZh": "小狗。"
+    },
+    {
+      "key": "pushed",
+      "display": "pushed",
+      "definitionEn": "When you moved something away from you.",
+      "definitionZh": "推。"
+    },
+    {
+      "key": "pyramid",
+      "display": "pyramid",
+      "definitionEn": "A huge stone shape with triangular sides.",
+      "definitionZh": "金字塔。"
+    },
+    {
+      "key": "quest",
+      "display": "quest",
+      "definitionEn": "A long and exciting search for something.",
+      "definitionZh": "探求。"
+    },
+    {
+      "key": "rabbit",
+      "display": "rabbit",
+      "definitionEn": "A furry animal with long ears that hops.",
+      "definitionZh": "兔子。"
+    },
+    {
+      "key": "race",
+      "display": "race",
+      "definitionEn": "Running as fast as you can to win.",
+      "definitionZh": "比赛。"
+    },
+    {
+      "key": "raft",
+      "display": "raft",
+      "definitionEn": "A simple flat boat made of wood.",
+      "definitionZh": "木筏。"
+    },
+    {
+      "key": "rain",
+      "display": "rain",
+      "definitionEn": "Water drops that fall from the sky.",
+      "definitionZh": "雨。"
+    },
+    {
+      "key": "rainbow",
+      "display": "rainbow",
+      "definitionEn": "A colorful arc in the sky after rain.",
+      "definitionZh": "彩虹。"
+    },
+    {
+      "key": "rangers",
+      "display": "rangers",
+      "definitionEn": "People who look after forests.",
+      "definitionZh": "护林员。"
+    },
+    {
+      "key": "rat",
+      "display": "rat",
+      "definitionEn": "An animal like a large mouse with a long tail.",
+      "definitionZh": "大老鼠。"
+    },
+    {
+      "key": "red",
+      "display": "red",
+      "definitionEn": "The bright color of a fire truck.",
+      "definitionZh": "红色。"
+    },
+    {
+      "key": "rescue",
+      "display": "rescue",
+      "definitionEn": "To save someone from danger.",
+      "definitionZh": "营救。"
+    },
+    {
+      "key": "riddle",
+      "display": "riddle",
+      "definitionEn": "A fun word puzzle to solve.",
+      "definitionZh": "谜语。"
+    },
+    {
+      "key": "rider",
+      "display": "rider",
+      "definitionEn": "A person who is riding a horse or bike.",
+      "definitionZh": "骑手。"
+    },
+    {
+      "key": "riding",
+      "display": "riding",
+      "definitionEn": "When you are on a horse or a bicycle.",
+      "definitionZh": "正在骑。"
+    },
+    {
+      "key": "rink",
+      "display": "rink",
+      "definitionEn": "A flat place for ice skating.",
+      "definitionZh": "滑冰场。"
+    },
+    {
+      "key": "river",
+      "display": "river",
+      "definitionEn": "A long path of water that flows.",
+      "definitionZh": "河流。"
+    },
+    {
+      "key": "robot",
+      "display": "robot",
+      "definitionEn": "A metal machine that can move on its own.",
+      "definitionZh": "机器人。"
+    },
+    {
+      "key": "rocket",
+      "display": "rocket",
+      "definitionEn": "A very fast machine that goes into space.",
+      "definitionZh": "火箭。"
+    },
+    {
+      "key": "rome",
+      "display": "Rome",
+      "definitionEn": "A very old and famous city in Italy.",
+      "definitionZh": "罗马。"
+    },
+    {
+      "key": "roof",
+      "display": "roof",
+      "definitionEn": "The top covering of a house.",
+      "definitionZh": "屋顶。"
+    },
+    {
+      "key": "room",
+      "display": "room",
+      "definitionEn": "A part of a house inside four walls.",
+      "definitionZh": "房间。"
+    },
+    {
+      "key": "rope",
+      "display": "rope",
+      "definitionEn": "A thick, strong string for pulling things.",
+      "definitionZh": "绳子。"
+    },
+    {
+      "key": "run",
+      "display": "run",
+      "definitionEn": "To move very fast on your feet.",
+      "definitionZh": "跑。"
+    },
+    {
+      "key": "sad",
+      "display": "sad",
+      "definitionEn": "The way you feel when you want to cry.",
+      "definitionZh": "悲伤。"
+    },
+    {
+      "key": "safari",
+      "display": "safari",
+      "definitionEn": "A trip to see wild animals like lions.",
+      "definitionZh": "游猎。"
+    },
+    {
+      "key": "salamander",
+      "display": "salamander",
+      "definitionEn": "A small lizard-like animal.",
+      "definitionZh": "蝾螈。"
+    },
+    {
+      "key": "salon",
+      "display": "salon",
+      "definitionEn": "A place where people get their hair cut.",
+      "definitionZh": "理发店。"
+    },
+    {
+      "key": "sand",
+      "display": "sand",
+      "definitionEn": "Tiny grains of rock found at the beach.",
+      "definitionZh": "沙子。"
+    },
+    {
+      "key": "sandbags",
+      "display": "sandbags",
+      "definitionEn": "Bags filled with sand to stop water.",
+      "definitionZh": "沙袋。"
+    },
+    {
+      "key": "sandwich",
+      "display": "sandwich",
+      "definitionEn": "Two pieces of bread with food in the middle.",
+      "definitionZh": "三明治。"
+    },
+    {
+      "key": "sandwiches",
+      "display": "sandwiches",
+      "definitionEn": "More than one yummy meal made with bread.",
+      "definitionZh": "多个三明治。"
+    },
+    {
+      "key": "sang",
+      "display": "sang",
+      "definitionEn": "When someone made music with their voice.",
+      "definitionZh": "唱歌。"
+    },
+    {
+      "key": "sash",
+      "display": "sash",
+      "definitionEn": "A long piece of cloth worn around the waist.",
+      "definitionZh": "饰带。"
+    },
+    {
+      "key": "sausage",
+      "display": "sausage",
+      "definitionEn": "A small roll of tasty meat.",
+      "definitionZh": "香肠。"
+    },
+    {
+      "key": "sausages",
+      "display": "sausages",
+      "definitionEn": "More than one small roll of tasty meat.",
+      "definitionZh": "多根香肠。"
+    },
+    {
+      "key": "scarecrow",
+      "display": "scarecrow",
+      "definitionEn": "A straw man used to scare birds away.",
+      "definitionZh": "稻草人。"
+    },
+    {
+      "key": "scarf",
+      "display": "scarf",
+      "definitionEn": "A long piece of cloth for your neck.",
+      "definitionZh": "围巾。"
+    },
+    {
+      "key": "school",
+      "display": "school",
+      "definitionEn": "The place where children go to learn.",
+      "definitionZh": "学校。"
+    },
+    {
+      "key": "seabed",
+      "display": "seabed",
+      "definitionEn": "The ground at the very bottom of the sea.",
+      "definitionZh": "海底。"
+    },
+    {
+      "key": "seagull",
+      "display": "seagull",
+      "definitionEn": "A white bird that lives by the sea.",
+      "definitionZh": "海鸥。"
+    },
+    {
+      "key": "secret",
+      "display": "secret",
+      "definitionEn": "Something that you should not tell everyone.",
+      "definitionZh": "秘密。"
+    },
+    {
+      "key": "seek",
+      "display": "seek",
+      "definitionEn": "To go and try to find something.",
+      "definitionZh": "寻找。"
+    },
+    {
+      "key": "servants",
+      "display": "servants",
+      "definitionEn": "People who help in a big house or palace.",
+      "definitionZh": "仆人。"
+    },
+    {
+      "key": "shadow",
+      "display": "shadow",
+      "definitionEn": "A dark shape made when blocking light.",
+      "definitionZh": "影子。"
+    },
+    {
+      "key": "shampoo",
+      "display": "shampoo",
+      "definitionEn": "Soap used to make your hair clean.",
+      "definitionZh": "洗发水。"
+    },
+    {
+      "key": "shark",
+      "display": "shark",
+      "definitionEn": "A large fish with sharp teeth.",
+      "definitionZh": "鲨鱼。"
+    },
+    {
+      "key": "shed",
+      "display": "shed",
+      "definitionEn": "A small wooden building for tools.",
+      "definitionZh": "棚子。"
+    },
+    {
+      "key": "sheep",
+      "display": "sheep",
+      "definitionEn": "Furry animals that give wool.",
+      "definitionZh": "羊。"
+    },
+    {
+      "key": "shell",
+      "display": "shell",
+      "definitionEn": "A hard covering for a sea animal.",
+      "definitionZh": "外壳。"
+    },
+    {
+      "key": "shelter",
+      "display": "shelter",
+      "definitionEn": "A place that keeps you safe from the rain.",
+      "definitionZh": "庇护所。"
+    },
+    {
+      "key": "sheriff",
+      "display": "sheriff",
+      "definitionEn": "A person who keeps order in old towns.",
+      "definitionZh": "县治安官。"
+    },
+    {
+      "key": "shield",
+      "display": "shield",
+      "definitionEn": "Something a knight holds to stay safe.",
+      "definitionZh": "盾牌。"
+    },
+    {
+      "key": "shining",
+      "display": "shining",
+      "definitionEn": "When something is very bright.",
+      "definitionZh": "发亮的。"
+    },
+    {
+      "key": "shiny",
+      "display": "shiny",
+      "definitionEn": "Looking very bright like a new coin.",
+      "definitionZh": "闪亮的。"
+    },
+    {
+      "key": "shoe",
+      "display": "shoe",
+      "definitionEn": "Something you wear on your foot.",
+      "definitionZh": "鞋。"
+    },
+    {
+      "key": "shoes",
+      "display": "shoes",
+      "definitionEn": "Two things you wear on your feet.",
+      "definitionZh": "多只鞋。"
+    },
+    {
+      "key": "shop",
+      "display": "shop",
+      "definitionEn": "A place where you go to buy toys.",
+      "definitionZh": "商店。"
+    },
+    {
+      "key": "shopping",
+      "display": "shopping",
+      "definitionEn": "Going to buy things that you need.",
+      "definitionZh": "购物。"
+    },
+    {
+      "key": "shoppy",
+      "display": "shoppy",
+      "definitionEn": "A person who likes shops.",
+      "definitionZh": "爱逛街的人。"
+    },
+    {
+      "key": "show",
+      "display": "show",
+      "definitionEn": "A fun performance like a play.",
+      "definitionZh": "演出。"
+    },
+    {
+      "key": "shrimp",
+      "display": "shrimp",
+      "definitionEn": "A small pink sea animal with many legs.",
+      "definitionZh": "虾。"
+    },
+    {
+      "key": "silly",
+      "display": "silly",
+      "definitionEn": "Funny or making jokes.",
+      "definitionZh": "傻傻的。"
+    },
+    {
+      "key": "skateboard",
+      "display": "skateboard",
+      "definitionEn": "A board with four wheels for riding.",
+      "definitionZh": "滑板。"
+    },
+    {
+      "key": "skates",
+      "display": "skates",
+      "definitionEn": "Shoes with wheels for gliding.",
+      "definitionZh": "溜冰鞋。"
+    },
+    {
+      "key": "skip",
+      "display": "skip",
+      "definitionEn": "To jump along in a happy way.",
+      "definitionZh": "跳跃。"
+    },
+    {
+      "key": "skipping",
+      "display": "skipping",
+      "definitionEn": "When you are jumping over a rope.",
+      "definitionZh": "跳绳。"
+    },
+    {
+      "key": "sleep",
+      "display": "sleep",
+      "definitionEn": "Resting with your eyes shut at night.",
+      "definitionZh": "睡觉。"
+    },
+    {
+      "key": "slide",
+      "display": "slide",
+      "definitionEn": "A toy you sit on to go down fast.",
+      "definitionZh": "滑梯。"
+    },
+    {
+      "key": "smaller",
+      "display": "smaller",
+      "definitionEn": "Something that is less big than another.",
+      "definitionZh": "更小的。"
+    },
+    {
+      "key": "smart",
+      "display": "smart",
+      "definitionEn": "Being very clever or having neat clothes.",
+      "definitionZh": "聪明的。"
+    },
+    {
+      "key": "snake",
+      "display": "snake",
+      "definitionEn": "A long animal with no legs that slithers.",
+      "definitionZh": "蛇。"
+    },
+    {
+      "key": "snooker",
+      "display": "snooker",
+      "definitionEn": "A game where you hit balls on a table.",
+      "definitionZh": "斯诺克。"
+    },
+    {
+      "key": "snow",
+      "display": "snow",
+      "definitionEn": "Soft white flakes that fall when cold.",
+      "definitionZh": "雪。"
+    },
+    {
+      "key": "snowman",
+      "display": "snowman",
+      "definitionEn": "A man made out of balls of snow.",
+      "definitionZh": "雪人。"
+    },
+    {
+      "key": "socks",
+      "display": "socks",
+      "definitionEn": "Soft things you wear inside your shoes.",
+      "definitionZh": "袜子。"
+    },
+    {
+      "key": "sofa",
+      "display": "sofa",
+      "definitionEn": "A long soft chair for many people.",
+      "definitionZh": "沙发。"
+    },
+    {
+      "key": "sold",
+      "display": "sold",
+      "definitionEn": "When something has been bought for money.",
+      "definitionZh": "卖掉。"
+    },
+    {
+      "key": "song",
+      "display": "song",
+      "definitionEn": "Music that you make with your voice.",
+      "definitionZh": "歌曲。"
+    },
+    {
+      "key": "soot",
+      "display": "soot",
+      "definitionEn": "Black powder from a fire.",
+      "definitionZh": "煤烟。"
+    },
+    {
+      "key": "sorry",
+      "display": "sorry",
+      "definitionEn": "What you say when you have been unkind.",
+      "definitionZh": "对不起。"
+    },
+    {
+      "key": "spaceman",
+      "display": "spaceman",
+      "definitionEn": "A person who flies to the stars.",
+      "definitionZh": "宇航员。"
+    },
+    {
+      "key": "spacesuit",
+      "display": "spacesuit",
+      "definitionEn": "A special white outfit for space.",
+      "definitionZh": "宇航服。"
+    },
+    {
+      "key": "spade",
+      "display": "spade",
+      "definitionEn": "A tool used for digging sand.",
+      "definitionZh": "铲子。"
+    },
+    {
+      "key": "speedway",
+      "display": "Speedway",
+      "definitionEn": "A track for very fast motorbikes.",
+      "definitionZh": "赛车跑道。"
+    },
+    {
+      "key": "sphinx",
+      "display": "sphinx",
+      "definitionEn": "A statue with a human head and lion body.",
+      "definitionZh": "狮身人面像。"
+    },
+    {
+      "key": "spider",
+      "display": "spider",
+      "definitionEn": "A small animal with eight legs and a web.",
+      "definitionZh": "蜘蛛。"
+    },
+    {
+      "key": "spin",
+      "display": "spin",
+      "definitionEn": "To turn around and around very fast.",
+      "definitionZh": "旋转。"
+    },
+    {
+      "key": "spoon",
+      "display": "spoon",
+      "definitionEn": "The tool you use for eating soup.",
+      "definitionZh": "勺子。"
+    },
+    {
+      "key": "sports",
+      "display": "sports",
+      "definitionEn": "Games like football or racing.",
+      "definitionZh": "体育。"
+    },
+    {
+      "key": "spots",
+      "display": "spots",
+      "definitionEn": "Small round colored marks on something.",
+      "definitionZh": "斑点。"
+    },
+    {
+      "key": "squirrels",
+      "display": "squirrels",
+      "definitionEn": "Small furry animals with bushy tails.",
+      "definitionZh": "松鼠。"
+    },
+    {
+      "key": "stars",
+      "display": "stars",
+      "definitionEn": "Tiny bright lights in the sky at night.",
+      "definitionZh": "星星。"
+    },
+    {
+      "key": "statue",
+      "display": "statue",
+      "definitionEn": "A person or animal made out of stone.",
+      "definitionZh": "雕像。"
+    },
+    {
+      "key": "stay",
+      "display": "stay",
+      "definitionEn": "To wait or be in one place.",
+      "definitionZh": "停留。"
+    },
+    {
+      "key": "stew",
+      "display": "stew",
+      "definitionEn": "Meat and vegetables cooked in a pot.",
+      "definitionZh": "炖菜。"
+    },
+    {
+      "key": "stick",
+      "display": "stick",
+      "definitionEn": "A thin piece of wood from a tree.",
+      "definitionZh": "树枝。"
+    },
+    {
+      "key": "sticks",
+      "display": "sticks",
+      "definitionEn": "More than one thin piece of wood.",
+      "definitionZh": "多根树枝。"
+    },
+    {
+      "key": "stolen",
+      "display": "stolen",
+      "definitionEn": "When someone took something not theirs.",
+      "definitionZh": "被偷。"
+    },
+    {
+      "key": "stone",
+      "display": "stone",
+      "definitionEn": "A hard small rock from the ground.",
+      "definitionZh": "石头。"
+    },
+    {
+      "key": "storm",
+      "display": "storm",
+      "definitionEn": "Lots of rain with thunder.",
+      "definitionZh": "暴风雨。"
+    },
+    {
+      "key": "strawberry",
+      "display": "strawberry",
+      "definitionEn": "A sweet red fruit with tiny seeds.",
+      "definitionZh": "草莓。"
+    },
+    {
+      "key": "stream",
+      "display": "stream",
+      "definitionEn": "A very small and narrow river.",
+      "definitionZh": "溪流。"
+    },
+    {
+      "key": "string",
+      "display": "string",
+      "definitionEn": "A long thin thread used to tie things.",
+      "definitionZh": "线。"
+    },
+    {
+      "key": "strong",
+      "display": "strong",
+      "definitionEn": "Being very powerful.",
+      "definitionZh": "强壮。"
+    },
+    {
+      "key": "stuck",
+      "display": "stuck",
+      "definitionEn": "When something cannot move.",
+      "definitionZh": "卡住。"
+    },
+    {
+      "key": "submarine",
+      "display": "submarine",
+      "definitionEn": "A ship that travels under the sea.",
+      "definitionZh": "潜水艇。"
+    },
+    {
+      "key": "sugar",
+      "display": "sugar",
+      "definitionEn": "Sweet white powder for food.",
+      "definitionZh": "糖。"
+    },
+    {
+      "key": "suit",
+      "display": "suit",
+      "definitionEn": "Matching jacket and pants.",
+      "definitionZh": "套装。"
+    },
+    {
+      "key": "sums",
+      "display": "sums",
+      "definitionEn": "Easy number puzzles like adding.",
+      "definitionZh": "算术题。"
+    },
+    {
+      "key": "sunny",
+      "display": "sunny",
+      "definitionEn": "When the sun is shining brightly.",
+      "definitionZh": "阳光充足。"
+    },
+    {
+      "key": "supermarket",
+      "display": "supermarket",
+      "definitionEn": "A big shop where you buy food.",
+      "definitionZh": "超市。"
+    },
+    {
+      "key": "surprise",
+      "display": "surprise",
+      "definitionEn": "Something that you did not expect.",
+      "definitionZh": "惊喜。"
+    },
+    {
+      "key": "survival",
+      "display": "survival",
+      "definitionEn": "Staying alive when things are hard.",
+      "definitionZh": "存活。"
+    },
+    {
+      "key": "swallowed",
+      "display": "swallowed",
+      "definitionEn": "When someone moved food to their stomach.",
+      "definitionZh": "咽下。"
+    },
+    {
+      "key": "swans",
+      "display": "swans",
+      "definitionEn": "Large white birds with long necks.",
+      "definitionZh": "天鹅。"
+    },
+    {
+      "key": "swap",
+      "display": "swap",
+      "definitionEn": "To trade something you have.",
+      "definitionZh": "交换。"
+    },
+    {
+      "key": "sweets",
+      "display": "sweets",
+      "definitionEn": "Sugary candies that taste good.",
+      "definitionZh": "糖果。"
+    },
+    {
+      "key": "swimming",
+      "display": "swimming",
+      "definitionEn": "Moving through water.",
+      "definitionZh": "游泳。"
+    },
+    {
+      "key": "swing",
+      "display": "swing",
+      "definitionEn": "A seat on ropes that moves to and fro.",
+      "definitionZh": "秋千。"
+    },
+    {
+      "key": "table",
+      "display": "table",
+      "definitionEn": "Furniture where you eat or draw.",
+      "definitionZh": "桌子。"
+    },
+    {
+      "key": "tank",
+      "display": "tank",
+      "definitionEn": "A large container or a strong vehicle.",
+      "definitionZh": "水箱或坦克。"
+    },
+    {
+      "key": "team",
+      "display": "team",
+      "definitionEn": "A group playing together to win.",
+      "definitionZh": "队伍。"
+    },
+    {
+      "key": "teddy",
+      "display": "teddy",
+      "definitionEn": "A soft furry bear toy.",
+      "definitionZh": "泰迪熊。"
+    },
+    {
+      "key": "teeth",
+      "display": "teeth",
+      "definitionEn": "Hard white parts in your mouth.",
+      "definitionZh": "牙齿。"
+    },
+    {
+      "key": "television",
+      "display": "television",
+      "definitionEn": "A box with a screen for stories.",
+      "definitionZh": "电视。"
+    },
+    {
+      "key": "tent",
+      "display": "tent",
+      "definitionEn": "A house made of cloth for camping.",
+      "definitionZh": "帐篷。"
+    },
+    {
+      "key": "thief",
+      "display": "thief",
+      "definitionEn": "A person who takes things not theirs.",
+      "definitionZh": "小偷。"
+    },
+    {
+      "key": "thirsty",
+      "display": "thirsty",
+      "definitionEn": "When you really want to drink water.",
+      "definitionZh": "口渴。"
+    },
+    {
+      "key": "thorns",
+      "display": "thorns",
+      "definitionEn": "Sharp prickles on a flower.",
+      "definitionZh": "刺。"
+    },
+    {
+      "key": "tickets",
+      "display": "tickets",
+      "definitionEn": "Paper showing you have paid for a ride.",
+      "definitionZh": "票。"
+    },
+    {
+      "key": "tiger",
+      "display": "tiger",
+      "definitionEn": "A large cat with orange and black stripes.",
+      "definitionZh": "老虎。"
+    },
+    {
+      "key": "tin",
+      "display": "tin",
+      "definitionEn": "A metal container for holding food.",
+      "definitionZh": "锡罐。"
+    },
+    {
+      "key": "tired",
+      "display": "tired",
+      "definitionEn": "Feeling like you need some sleep.",
+      "definitionZh": "疲倦。"
+    },
+    {
+      "key": "toboggan",
+      "display": "toboggan",
+      "definitionEn": "A simple sled for snow.",
+      "definitionZh": "平底雪橇。"
+    },
+    {
+      "key": "tooth",
+      "display": "tooth",
+      "definitionEn": "One hard white part inside your mouth.",
+      "definitionZh": "牙。"
+    },
+    {
+      "key": "torch",
+      "display": "torch",
+      "definitionEn": "A small light you carry in your hand.",
+      "definitionZh": "手电筒。"
+    },
+    {
+      "key": "tower",
+      "display": "tower",
+      "definitionEn": "A very tall part of a building.",
+      "definitionZh": "塔。"
+    },
+    {
+      "key": "toy",
+      "display": "toy",
+      "definitionEn": "Something you play with for fun.",
+      "definitionZh": "玩具。"
+    },
+    {
+      "key": "toys",
+      "display": "toys",
+      "definitionEn": "Many different things to play with.",
+      "definitionZh": "各种玩具。"
+    },
+    {
+      "key": "tractor",
+      "display": "tractor",
+      "definitionEn": "A big machine on a farm.",
+      "definitionZh": "拖拉机。"
+    },
+    {
+      "key": "trailer",
+      "display": "trailer",
+      "definitionEn": "A cart pulled behind a car.",
+      "definitionZh": "挂车。"
+    },
+    {
+      "key": "train",
+      "display": "train",
+      "definitionEn": "A long machine that goes on tracks.",
+      "definitionZh": "火车。"
+    },
+    {
+      "key": "trainers",
+      "display": "trainers",
+      "definitionEn": "Soft shoes for running.",
+      "definitionZh": "运动鞋。"
+    },
+    {
+      "key": "treasure",
+      "display": "treasure",
+      "definitionEn": "A box of gold or special things.",
+      "definitionZh": "宝藏。"
+    },
+    {
+      "key": "tree",
+      "display": "tree",
+      "definitionEn": "A tall plant with a trunk and leaves.",
+      "definitionZh": "树。"
+    },
+    {
+      "key": "treehouse",
+      "display": "treehouse",
+      "definitionEn": "A small house built in a tree.",
+      "definitionZh": "树屋。"
+    },
+    {
+      "key": "trick",
+      "display": "trick",
+      "definitionEn": "Something you do to surprise people.",
+      "definitionZh": "恶作剧。"
+    },
+    {
+      "key": "tried",
+      "display": "tried",
+      "definitionEn": "When you have worked hard to do something.",
+      "definitionZh": "尝试。"
+    },
+    {
+      "key": "trim",
+      "display": "trim",
+      "definitionEn": "To cut something a little bit.",
+      "definitionZh": "修剪。"
+    },
+    {
+      "key": "trolls",
+      "display": "trolls",
+      "definitionEn": "Scary people from old stories.",
+      "definitionZh": "巨魔。"
+    },
+    {
+      "key": "trumpet",
+      "display": "trumpet",
+      "definitionEn": "A shiny musical toy you blow into.",
+      "definitionZh": "喇叭。"
+    },
+    {
+      "key": "trunks",
+      "display": "trunks",
+      "definitionEn": "Short pants for swimming.",
+      "definitionZh": "游泳裤。"
+    },
+    {
+      "key": "tug",
+      "display": "tug",
+      "definitionEn": "To pull something very hard.",
+      "definitionZh": "用力拉。"
+    },
+    {
+      "key": "tunnel",
+      "display": "tunnel",
+      "definitionEn": "A path that goes under the ground.",
+      "definitionZh": "隧道。"
+    },
+    {
+      "key": "twins",
+      "display": "twins",
+      "definitionEn": "Two children born on the same day.",
+      "definitionZh": "双胞胎。"
+    },
+    {
+      "key": "umbrella",
+      "display": "umbrella",
+      "definitionEn": "Something to keep you dry in the rain.",
+      "definitionZh": "雨伞。"
+    },
+    {
+      "key": "uncle",
+      "display": "uncle",
+      "definitionEn": "The brother of your father.",
+      "definitionZh": "叔叔。"
+    },
+    {
+      "key": "unicorn",
+      "display": "unicorn",
+      "definitionEn": "A magic horse with a horn.",
+      "definitionZh": "独角兽。"
+    },
+    {
+      "key": "upside",
+      "display": "upside",
+      "definitionEn": "When the top is at the bottom.",
+      "definitionZh": "翻转。"
+    },
+    {
+      "key": "van",
+      "display": "van",
+      "definitionEn": "A vehicle used to carry things.",
+      "definitionZh": "客货车。"
+    },
+    {
+      "key": "vane",
+      "display": "vane",
+      "definitionEn": "Something on a roof showing wind.",
+      "definitionZh": "风向标。"
+    },
+    {
+      "key": "vanishing",
+      "display": "vanishing",
+      "definitionEn": "Disappearing so you cannot see it.",
+      "definitionZh": "消失。"
+    },
+    {
+      "key": "vase",
+      "display": "vase",
+      "definitionEn": "A container for beautiful flowers.",
+      "definitionZh": "花瓶。"
+    },
+    {
+      "key": "vet",
+      "display": "vet",
+      "definitionEn": "A person who helps sick animals.",
+      "definitionZh": "兽医。"
+    },
+    {
+      "key": "video",
+      "display": "video",
+      "definitionEn": "A film that you watch on a screen.",
+      "definitionZh": "录像。"
+    },
+    {
+      "key": "viking",
+      "display": "Viking",
+      "definitionEn": "A brave person from old times.",
+      "definitionZh": "维京人。"
+    },
+    {
+      "key": "village",
+      "display": "village",
+      "definitionEn": "A very small town.",
+      "definitionZh": "村庄。"
+    },
+    {
+      "key": "volcano",
+      "display": "volcano",
+      "definitionEn": "A mountain that can spit fire.",
+      "definitionZh": "火山。"
+    },
+    {
+      "key": "wagon",
+      "display": "wagon",
+      "definitionEn": "A cart with wheels that can be pulled.",
+      "definitionZh": "马车。"
+    },
+    {
+      "key": "walk",
+      "display": "walk",
+      "definitionEn": "To move on your feet slowly.",
+      "definitionZh": "步行。"
+    },
+    {
+      "key": "wall",
+      "display": "wall",
+      "definitionEn": "A hard side of a room.",
+      "definitionZh": "墙。"
+    },
+    {
+      "key": "wallpaper",
+      "display": "wallpaper",
+      "definitionEn": "Pretty paper for decorating walls.",
+      "definitionZh": "壁纸。"
+    },
+    {
+      "key": "wand",
+      "display": "wand",
+      "definitionEn": "A thin magic stick used by fairies.",
+      "definitionZh": "魔杖。"
+    },
+    {
+      "key": "war",
+      "display": "war",
+      "definitionEn": "When countries are fighting.",
+      "definitionZh": "战争。"
+    },
+    {
+      "key": "washed",
+      "display": "washed",
+      "definitionEn": "When something has been cleaned.",
+      "definitionZh": "清洗过。"
+    },
+    {
+      "key": "washing",
+      "display": "washing",
+      "definitionEn": "Cleaning something using soap.",
+      "definitionZh": "洗。"
+    },
+    {
+      "key": "water",
+      "display": "water",
+      "definitionEn": "The clear liquid that we drink.",
+      "definitionZh": "水。"
+    },
+    {
+      "key": "waves",
+      "display": "waves",
+      "definitionEn": "Moving water shapes in the sea.",
+      "definitionZh": "波浪。"
+    },
+    {
+      "key": "weather",
+      "display": "weather",
+      "definitionEn": "How it feels outside, like sun or rain.",
+      "definitionZh": "天气。"
+    },
+    {
+      "key": "wedding",
+      "display": "wedding",
+      "definitionEn": "A party where two people get married.",
+      "definitionZh": "婚礼。"
+    },
+    {
+      "key": "weir",
+      "display": "weir",
+      "definitionEn": "A small wall across a river.",
+      "definitionZh": "堰。"
+    },
+    {
+      "key": "well",
+      "display": "well",
+      "definitionEn": "A deep hole used to get water.",
+      "definitionZh": "水井。"
+    },
+    {
+      "key": "wet",
+      "display": "wet",
+      "definitionEn": "When everything is covered with water.",
+      "definitionZh": "湿。"
+    },
+    {
+      "key": "wheels",
+      "display": "wheels",
+      "definitionEn": "Round parts that turn for a car.",
+      "definitionZh": "车轮。"
+    },
+    {
+      "key": "willow",
+      "display": "willow",
+      "definitionEn": "A tree with very long branches.",
+      "definitionZh": "柳树。"
+    },
+    {
+      "key": "windmill",
+      "display": "windmill",
+      "definitionEn": "A building with sails wind turns.",
+      "definitionZh": "风车。"
+    },
+    {
+      "key": "witches",
+      "display": "witches",
+      "definitionEn": "People in stories flying broomsticks.",
+      "definitionZh": "女巫。"
+    },
+    {
+      "key": "wizard",
+      "display": "wizard",
+      "definitionEn": "A man from stories doing magic.",
+      "definitionZh": "巫师。"
+    },
+    {
+      "key": "wobbly",
+      "display": "wobbly",
+      "definitionEn": "When something is shaking.",
+      "definitionZh": "摇晃。"
+    },
+    {
+      "key": "wood",
+      "display": "wood",
+      "definitionEn": "The hard part of a tree.",
+      "definitionZh": "木头。"
+    },
+    {
+      "key": "woods",
+      "display": "woods",
+      "definitionEn": "A place with many tall trees.",
+      "definitionZh": "树林。"
+    },
+    {
+      "key": "zebra",
+      "display": "zebra",
+      "definitionEn": "A wild animal with stripes.",
+      "definitionZh": "斑马。"
+    },
+    {
+      "key": "again",
+      "display": "again",
+      "definitionEn": "One more time.",
+      "definitionZh": "\u518d\u4e00\u6b21\u3002"
+    },
+    {
+      "key": "down",
+      "display": "down",
+      "definitionEn": "To a lower place.",
+      "definitionZh": "\u5411\u4e0b\u3002"
+    },
+    {
+      "key": "everyone",
+      "display": "everyone",
+      "definitionEn": "All the people in a group.",
+      "definitionZh": "\u6bcf\u4e2a\u4eba\uff1b\u5927\u5bb6\u3002"
+    },
+    {
+      "key": "fun",
+      "display": "fun",
+      "definitionEn": "Something that makes you happy and playful.",
+      "definitionZh": "\u597d\u73a9\u7684\u4e8b\u3002"
+    },
+    {
+      "key": "get",
+      "display": "get",
+      "definitionEn": "To take, receive, or become something.",
+      "definitionZh": "\u62ff\u5230\uff1b\u53d8\u5f97\u3002"
+    },
+    {
+      "key": "look",
+      "display": "look",
+      "definitionEn": "To use your eyes to see something.",
+      "definitionZh": "\u770b\u3002"
+    },
+    {
+      "key": "off",
+      "display": "off",
+      "definitionEn": "Away from a place or not on something.",
+      "definitionZh": "\u79bb\u5f00\uff1b\u5173\u6389\u3002"
+    },
+    {
+      "key": "one",
+      "display": "one",
+      "definitionEn": "The number 1.",
+      "definitionZh": "\u4e00\u3002"
+    },
+    {
+      "key": "see",
+      "display": "see",
+      "definitionEn": "To notice something with your eyes.",
+      "definitionZh": "\u770b\u89c1\u3002"
+    },
+    {
+      "key": "sit",
+      "display": "sit",
+      "definitionEn": "To rest with your bottom on a chair or the ground.",
+      "definitionZh": "\u5750\u4e0b\u3002"
+    },
+    {
+      "key": "up",
+      "display": "up",
+      "definitionEn": "To a higher place.",
+      "definitionZh": "\u5411\u4e0a\u3002"
+    },
+    {
+      "key": "zoo",
+      "display": "zoo",
+      "definitionEn": "A place to see many wild animals.",
+      "definitionZh": "动物园。"
+    },
+    {
+      "key": "zookeeper",
+      "display": "zookeeper",
+      "definitionEn": "A person looking after animals.",
+      "definitionZh": "动物园管理员。"
+    }
+  ]
+}

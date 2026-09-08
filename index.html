@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, user-scalable=no"
+    />
+    <meta name="theme-color" content="#F97316" />
+    <meta
+      name="apple-mobile-web-app-status-bar-style"
+      content="black-translucent"
+    />
+    <link rel="icon" type="image/png" href="./icon-192.png" />
+    <link rel="manifest" href="./manifest.json" />
+    <link rel="apple-touch-icon" href="./apple-touch-icon.png" />
+    <title>Oxford Reading Tree</title>
+    <script>
+      (() => {
+        const search = new URLSearchParams(window.location.search);
+        const bootDebugEnabled = search.get('boot-debug') === '1';
+
+        if (!bootDebugEnabled) {
+          window.__ORT_BOOT_DEBUG__ = () => {};
+          return;
+        }
+
+        const entries = [];
+        let panel;
+        let list;
+
+        function ensurePanel() {
+          if (panel) {
+            return;
+          }
+
+          panel = document.createElement('aside');
+          panel.setAttribute('data-ort-boot-debug', 'true');
+          panel.style.position = 'fixed';
+          panel.style.left = '0';
+          panel.style.right = '0';
+          panel.style.bottom = '0';
+          panel.style.maxHeight = '45vh';
+          panel.style.overflow = 'auto';
+          panel.style.zIndex = '2147483647';
+          panel.style.background = 'rgba(17, 24, 39, 0.96)';
+          panel.style.color = '#F9FAFB';
+          panel.style.font = '12px/1.5 ui-monospace, SFMono-Regular, Menlo, monospace';
+          panel.style.padding = '12px';
+          panel.style.whiteSpace = 'pre-wrap';
+          panel.style.boxShadow = '0 -8px 24px rgba(0, 0, 0, 0.28)';
+
+          const title = document.createElement('div');
+          title.textContent = 'ORT Boot Debug';
+          title.style.fontWeight = '700';
+          title.style.marginBottom = '8px';
+          panel.appendChild(title);
+
+          list = document.createElement('div');
+          panel.appendChild(list);
+
+          document.body.appendChild(panel);
+          for (const entry of entries) {
+            appendEntry(entry);
+          }
+        }
+
+        function appendEntry(entry) {
+          if (!list) {
+            return;
+          }
+
+          const row = document.createElement('div');
+          row.textContent = entry;
+          row.style.marginBottom = '4px';
+          list.appendChild(row);
+          panel.scrollTop = panel.scrollHeight;
+        }
+
+        function formatMessage(value) {
+          if (value instanceof Error) {
+            return value.stack || value.message;
+          }
+
+          if (typeof value === 'string') {
+            return value;
+          }
+
+          try {
+            return JSON.stringify(value);
+          } catch {
+            return String(value);
+          }
+        }
+
+        function log(message) {
+          const entry = `${new Date().toISOString()} ${formatMessage(message)}`;
+          entries.push(entry);
+          appendEntry(entry);
+        }
+
+        window.__ORT_BOOT_DEBUG__ = log;
+        window.addEventListener('DOMContentLoaded', ensurePanel, { once: true });
+        window.addEventListener('error', (event) => {
+          log({
+            type: 'window.error',
+            message: event.message,
+            source: event.filename,
+            line: event.lineno,
+            column: event.colno,
+          });
+        });
+        window.addEventListener('unhandledrejection', (event) => {
+          log({
+            type: 'unhandledrejection',
+            reason: formatMessage(event.reason),
+          });
+        });
+
+        log({
+          type: 'boot-debug-enabled',
+          href: window.location.href,
+          userAgent: navigator.userAgent,
+        });
+      })();
+    </script>
+    <script>
+      window.addEventListener('load', () => {
+        window.__ORT_BOOT_DEBUG__('window.load');
+        if ('serviceWorker' in navigator) {
+          navigator.serviceWorker.register('./sw.js', { updateViaCache: 'none' })
+            .then((registration) => {
+              window.__ORT_BOOT_DEBUG__({
+                type: 'service-worker-registered',
+                scope: registration.scope,
+              });
+            })
+            .catch((error) => {
+              window.__ORT_BOOT_DEBUG__({
+                type: 'service-worker-register-failed',
+                error: error.message,
+              });
+            });
+        } else {
+          window.__ORT_BOOT_DEBUG__('service-worker-unsupported');
+        }
+      });
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>
