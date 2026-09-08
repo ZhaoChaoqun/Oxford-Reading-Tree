@@ -23,6 +23,11 @@ fi
 id oxford >/dev/null 2>&1 || useradd --system --home-dir /nonexistent --shell /usr/sbin/nologin oxford
 id oxford-build >/dev/null 2>&1 || useradd --system --create-home --home-dir /var/lib/oxford-build --shell /usr/sbin/nologin oxford-build
 install -d -m 0755 /opt/oxford/releases
+install -d -o oxford-build -g oxford-build -m 0750 /opt/oxford/lfs
+if [[ ! -d /opt/oxford/lfs/objects && -d /opt/oxford/current/.git/lfs/objects ]]; then
+  cp -a /opt/oxford/current/.git/lfs/objects /opt/oxford/lfs/
+  chown -R oxford-build:oxford-build /opt/oxford/lfs
+fi
 RELEASE="/opt/oxford/releases/$COMMIT"
 if [[ ! -f "$RELEASE/.ready" ]]; then
   install -d -o oxford-build -g oxford-build -m 0755 "$RELEASE"
@@ -37,6 +42,7 @@ git fetch --depth 1 origin "$2"
 GIT_LFS_SKIP_SMUDGE=1 git checkout --detach "$2"
 test "$(git rev-parse HEAD)" = "$2"
 git lfs install --local
+git config lfs.storage /opt/oxford/lfs
 git lfs pull
 npm ci --no-audit --no-fund
 OXFORD_MEDIA_DIR="$PWD" node scripts/verify-media.mjs

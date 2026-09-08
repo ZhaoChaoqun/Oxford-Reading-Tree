@@ -1,9 +1,26 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { mkdtemp, mkdir, writeFile, rm, readFile } from 'node:fs/promises';
+import { mkdtemp, mkdir, writeFile, rm, readFile, symlink } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
+import { fileURLToPath } from 'node:url';
+import { execFile } from 'node:child_process';
+import { promisify } from 'node:util';
 import { createProductionMediaServer, loadCatalog } from './production-media.mjs';
+
+test('CLI entrypoints execute through the production current-release symlink', async (t) => {
+  const directory = await mkdtemp(join(tmpdir(), 'ort-entrypoint-'));
+  t.after(() => rm(directory, { recursive: true, force: true }));
+  await symlink(fileURLToPath(new URL('..', import.meta.url)), join(directory, 'current'), 'dir');
+  const env = { ...process.env };
+  delete env.OXFORD_MEDIA_DIR;
+  for (const name of ['production-media.mjs', 'verify-media.mjs']) {
+    await assert.rejects(
+      promisify(execFile)(process.execPath, [join(directory, 'current', 'scripts', name)], { env }),
+      (error) => error.code === 1 && error.stderr.includes('OXFORD_MEDIA_DIR is required'),
+    );
+  }
+});
 
 test('production server exposes only catalog media, not repository files or SPA fallbacks', async (t) => {
   const directory = await mkdtemp(join(tmpdir(), 'ort-production-'));

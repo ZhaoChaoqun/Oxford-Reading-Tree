@@ -1,6 +1,7 @@
 export function createResourceResolver({
   primaryUrl, fallbackUrl, localBaseUrl = '', timeout = 3000,
   getCached, setCached, fetchImpl = globalThis.fetch, now = Date.now,
+  isOffline = () => globalThis.navigator?.onLine === false,
 }) {
   const staleAfter = 5 * 60 * 1000;
   let resolvedBaseUrl = null;
@@ -25,6 +26,8 @@ export function createResourceResolver({
 
   async function resolve() {
     if (localBaseUrl) {
+      // Let the service worker serve previously downloaded media when offline.
+      if (isOffline()) return localBaseUrl;
       if (!await probe(localBaseUrl, timeout)) {
         throw new Error('Cannot reach the local library. Retry or ask the administrator to check the media service and OXFORD_MEDIA_DIR.');
       }
@@ -66,7 +69,7 @@ export function createResourceResolver({
 
   return {
     resolveBaseUrl,
-    getCachedBaseUrl: () => resolvedBaseUrl ?? (localBaseUrl ? null : getCached()) ?? null,
+    getCachedBaseUrl: () => resolvedBaseUrl ?? (localBaseUrl ? (isOffline() ? localBaseUrl : null) : getCached()) ?? null,
     isStale: () => now() - resolvedAt >= staleAfter,
   };
 }

@@ -37,7 +37,7 @@ export async function verifyMedia(directory) {
   return { available, missing, bytes };
 }
 
-if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
+if (process.argv[1] && import.meta.url === pathToFileURL(await realpath(process.argv[1])).href) {
   if (!process.env.OXFORD_MEDIA_DIR) throw new Error('OXFORD_MEDIA_DIR is required.');
   console.log(JSON.stringify(await verifyMedia(process.env.OXFORD_MEDIA_DIR)));
 }

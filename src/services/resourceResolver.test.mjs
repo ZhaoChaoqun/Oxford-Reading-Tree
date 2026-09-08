@@ -27,6 +27,22 @@ test('local mode ignores the old NAS cache and probes only the local server', as
   assert.deepEqual(resolver.writes, []);
 });
 
+test('offline reload can access same-origin cached media without hiding online server failures', async () => {
+  let offline = true;
+  const resolver = setup({
+    localBaseUrl: '/__local-media',
+    isOffline: () => offline,
+    getCached: () => 'https://old-nas.test',
+    fetchImpl: async () => ({ ok: false }),
+  });
+  assert.equal(resolver.getCachedBaseUrl(), '/__local-media');
+  assert.equal(await resolver.resolveBaseUrl(), '/__local-media');
+  offline = false;
+  assert.equal(resolver.getCachedBaseUrl(), null);
+  await assert.rejects(resolver.resolveBaseUrl(true), /Cannot reach the local library/);
+  assert.deepEqual(resolver.writes, []);
+});
+
 test('failed local probe rejects without falling back to NAS, then can retry', async () => {
   let reachable = false;
   const resolver = setup({

@@ -61,8 +61,9 @@ successful Run Command submission for a successful deployment.
 The installer requires root to manage packages and services, but npm/build
 scripts run as `oxford-build`, and the web media service runs as `oxford` with
 read-only filesystem sandboxing. Deployment is serialized with `flock`.
-Completed releases are immutable and retained for rollback. Each new release
-downloads LFS files, which counts against GitHub LFS bandwidth allowances.
+Completed releases are immutable and retained for rollback. Releases reuse
+verified LFS objects in `/opt/oxford/lfs`; newly downloaded objects count against
+GitHub LFS bandwidth allowances.
 
 ## Network boundary
 
