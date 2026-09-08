@@ -26,7 +26,7 @@ export function createResourceResolver({
   async function resolve() {
     if (localBaseUrl) {
       if (!await probe(localBaseUrl, timeout)) {
-        throw new Error('Cannot reach the local library. Check OXFORD_MEDIA_DIR and restart the development server.');
+        throw new Error('Cannot reach the local library. Retry or ask the administrator to check the media service and OXFORD_MEDIA_DIR.');
       }
       resolvedBaseUrl = localBaseUrl;
       resolvedAt = now();

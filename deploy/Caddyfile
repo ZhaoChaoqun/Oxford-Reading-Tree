@@ -1,0 +1,21 @@
+{$OXFORD_HOST} {
+	encode zstd gzip
+	header {
+		X-Content-Type-Options nosniff
+		Referrer-Policy strict-origin-when-cross-origin
+		Strict-Transport-Security "max-age=31536000"
+	}
+	@private path_regexp private (^|/)\.
+	handle @private {
+		respond "Not found" 404
+	}
+	@media path /__local-media /__local-media/*
+	handle @media {
+		reverse_proxy 127.0.0.1:3000
+	}
+	handle {
+		root * /opt/oxford/current/dist
+		header Cache-Control "no-cache"
+		file_server
+	}
+}

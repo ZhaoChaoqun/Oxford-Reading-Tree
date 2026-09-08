@@ -140,7 +140,7 @@ export function createLocalMediaMiddleware({ directory, files, logger = console 
         reply(key === 'probe.txt' ? 503 : 404, 'Local media is missing. Check OXFORD_MEDIA_DIR and the downloaded files.');
       } else {
         logger.error(`[local-media] ${error.message}`);
-        reply(500, 'Unable to read local media. Check the development server log.');
+        reply(500, 'Unable to read local media. Check the media server log.');
       }
     } finally {
       await handle?.close();

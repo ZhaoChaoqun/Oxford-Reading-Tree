@@ -81,6 +81,18 @@ self.addEventListener('fetch', (event) => {
 
   const url = new URL(request.url);
 
+  // Same-origin library files must retain media Range/cache semantics.
+  if (url.origin === self.location.origin && url.pathname.startsWith('/__local-media/')) {
+    if (url.pathname.endsWith('.pdf') || url.pathname.endsWith('.mp3')) {
+      event.respondWith(bookResourceStrategy(request, url));
+    } else if (url.pathname.endsWith('.mp4')) {
+      event.respondWith(videoResourceStrategy(request, url));
+    } else {
+      event.respondWith(fetch(request));
+    }
+    return;
+  }
+
   // App shell: same-origin non-NAS requests (HTML, JS, CSS, icons)
   if (url.origin === self.location.origin) {
     event.respondWith(appShellStrategy(request));
@@ -177,7 +189,9 @@ async function bookResourceStrategy(request, url) {
   try {
     const response = await fetch(request);
     if (response.ok) {
-      await storeWithQuotaCheck(cacheName, request, response.clone());
+      if (response.status === 200) {
+        await storeWithQuotaCheck(cacheName, request, response.clone());
+      }
     }
     return response;
   } catch {

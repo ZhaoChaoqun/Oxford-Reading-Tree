@@ -85,9 +85,17 @@ npm run preview -- --host 127.0.0.1
 ```
 
 The build output is written to `dist/`. `OXFORD_MEDIA_DIR` applies **only to
-the development server**: production builds and preview retain the original
-external-storage/NAS behavior and do not bundle the library media. Removing
-the local setting and restarting Vite also restores NAS mode.
+the development server**. By default production builds and preview retain the
+original external-storage/NAS behavior and do not bundle the library media.
+Removing the local setting and restarting Vite also restores NAS mode.
+
+For production hosting with this repository's media, build with
+`OXFORD_SAME_ORIGIN_MEDIA=1 npm run build` and serve `/__local-media` using
+`OXFORD_MEDIA_DIR=/absolute/media/root node scripts/production-media.mjs`.
+The media process binds only to loopback; Caddy serves only `dist/` and proxies
+the catalog media endpoints over HTTPS. Do not expose the repository root or
+use Vite's dev/preview server as a production web server.
+See [Azure deployment](docs/azure-deployment.md) for installation and operation.
 
 Metadata tooling and its optional dependencies are documented in
 [book-metadata-tool/README.md](book-metadata-tool/README.md). Generated tooling

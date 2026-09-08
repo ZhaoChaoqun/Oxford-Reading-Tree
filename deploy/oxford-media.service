@@ -1,0 +1,30 @@
+[Unit]
+Description=Oxford Reading Tree catalog media service
+After=network.target
+
+[Service]
+Type=simple
+User=oxford
+Group=oxford
+WorkingDirectory=/opt/oxford/current
+Environment=NODE_ENV=production
+Environment=OXFORD_MEDIA_DIR=/opt/oxford/current
+Environment=PORT=3000
+ExecStart=/usr/bin/node /opt/oxford/current/scripts/production-media.mjs
+Restart=on-failure
+RestartSec=3
+TimeoutStopSec=15
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=true
+ProtectKernelTunables=true
+ProtectKernelModules=true
+ProtectControlGroups=true
+RestrictSUIDSGID=true
+RestrictAddressFamilies=AF_UNIX AF_INET AF_INET6
+CapabilityBoundingSet=
+UMask=0027
+
+[Install]
+WantedBy=multi-user.target

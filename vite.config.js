@@ -43,6 +43,10 @@ function injectSwVersion() {
 
 export default defineConfig(({ command, mode, isPreview }) => {
   const env = loadEnv(mode, __dirname, 'OXFORD_');
+  if (env.OXFORD_SAME_ORIGIN_MEDIA && !['0', '1'].includes(env.OXFORD_SAME_ORIGIN_MEDIA)) {
+    throw new Error('OXFORD_SAME_ORIGIN_MEDIA must be 0 or 1.');
+  }
+  const sameOriginMedia = env.OXFORD_SAME_ORIGIN_MEDIA === '1';
   const mediaDirectory = command === 'serve' && !isPreview ? env.OXFORD_MEDIA_DIR : '';
   const mediaPlugins = mediaDirectory ? [localMediaPlugin(
     resolve(__dirname, mediaDirectory),
@@ -56,7 +60,7 @@ export default defineConfig(({ command, mode, isPreview }) => {
     base: './',
     plugins: [react(), injectSwVersion(), ...mediaPlugins],
     define: {
-      'import.meta.env.VITE_LOCAL_MEDIA_BASE_URL': JSON.stringify(mediaDirectory ? LOCAL_MEDIA_BASE : ''),
+      'import.meta.env.VITE_LOCAL_MEDIA_BASE_URL': JSON.stringify(mediaDirectory || sameOriginMedia ? LOCAL_MEDIA_BASE : ''),
     },
     resolve: {
       alias: {
