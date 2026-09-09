@@ -4,6 +4,10 @@
 Source links identify the original NAS resources; their continued availability is not guaranteed.
 See [README](README.md) for Git LFS download instructions and rights information.
 
+The separate [reading companion index](Companions/README.md) covers 72 L1/L2 books
+with 144 companion PDFs and 72 editable Markdown files; these are not included
+in the original-media totals above.
+
 ## L1
 
 | Title | Type | Repository file | Bytes | Source |

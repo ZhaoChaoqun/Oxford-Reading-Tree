@@ -18,6 +18,11 @@ transcripts, and sticker assets are included at the repository root.
   URLs, and availability for all 536 listed resources.
 - `L1/` through `L9/`: books and audio, named by book title.
 - `Videos/Family-Stage-1/` through `Videos/Family-Stage-6/`: videos, named by episode.
+- [Reading companions](Companions/README.md): 72 L1/L2 books, each with an A4
+  landscape co-reading PDF (7 mm margins), a paper-saving portrait PDF, and
+  corrected editable Markdown. These **144 PDFs + 72 Markdown files** are
+  counted separately from the original media above; this archive does not add
+  companion access to the app.
 
 Only the available PDF, MP3, and MP4 files listed in the source manifest are
 included as library media. Personal additions and temporary files are excluded.

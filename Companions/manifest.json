@@ -1,0 +1,1841 @@
+{
+  "schemaVersion": 1,
+  "versionDate": "2026-09-09",
+  "pathBase": "repository-root",
+  "formats": {
+    "landscape": {
+      "paper": "A4",
+      "orientation": "landscape",
+      "marginMm": 7,
+      "fullPhysicalOpenings": true,
+      "versionDate": "2026-09-09"
+    },
+    "portrait": {
+      "paper": "A4",
+      "orientation": "portrait",
+      "maxGroupsPerPage": 2,
+      "fullPhysicalOpenings": true,
+      "versionDate": "2026-09-08"
+    },
+    "text": {
+      "format": "Markdown",
+      "editorialPolicy": "corrected",
+      "matches": "landscape"
+    }
+  },
+  "totals": {
+    "books": 72,
+    "levels": {
+      "L1": 36,
+      "L2": 36
+    },
+    "pdfFiles": 144,
+    "markdownFiles": 72,
+    "landscapePages": 1109,
+    "portraitPages": 568,
+    "pdfBytes": 478551844,
+    "markdownBytes": 425108
+  },
+  "books": [
+    {
+      "id": "1-25",
+      "level": "L1",
+      "title": "Hide And Seek",
+      "bookPath": "L1/Hide And Seek.pdf",
+      "audioPath": "L1/Hide And Seek.mp3",
+      "textPath": "Companions/L1/Hide And Seek/companion.md",
+      "landscapePath": "Companions/L1/Hide And Seek/landscape.pdf",
+      "portraitPath": "Companions/L1/Hide And Seek/portrait.pdf",
+      "pageCounts": {
+        "landscape": 7,
+        "portrait": 4
+      },
+      "sha256": {
+        "landscape": "73a8ad607f0767a1e4ee68f3c343026f7b0af523ef8223cc6667d4870e9b3fc8",
+        "portrait": "401a64dd538945062fb121a1d82a0ca2e8477dad370c632c6932c38c44598198",
+        "text": "18906124b69f57b644a4b1d392c27af44e60328f5c443dd8daa4d3e0c5861bfb"
+      },
+      "byteSizes": {
+        "landscape": 2806775,
+        "portrait": 2464696,
+        "text": 8627
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "1-26",
+      "level": "L1",
+      "title": "Look At Me",
+      "bookPath": "L1/Look At Me.pdf",
+      "audioPath": "L1/Look At Me.mp3",
+      "textPath": "Companions/L1/Look At Me/companion.md",
+      "landscapePath": "Companions/L1/Look At Me/landscape.pdf",
+      "portraitPath": "Companions/L1/Look At Me/portrait.pdf",
+      "pageCounts": {
+        "landscape": 7,
+        "portrait": 4
+      },
+      "sha256": {
+        "landscape": "6a31a26402b7eae9c7c60d746119cec3152d0f698bcb56dab61466969b27e827",
+        "portrait": "f00067c453054e9c72eeacb821ab469bc52dda117468bafe651c3c485146882e",
+        "text": "abad7346a379d3d03e97aa5b24d8d321d77a35fb7209b5ca4ce135a10eefe781"
+      },
+      "byteSizes": {
+        "landscape": 2285141,
+        "portrait": 2238894,
+        "text": 2919
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "1-27",
+      "level": "L1",
+      "title": "Go Away Floppy",
+      "bookPath": "L1/Go Away Floppy.pdf",
+      "audioPath": "L1/Go Away Floppy.mp3",
+      "textPath": "Companions/L1/Go Away Floppy/companion.md",
+      "landscapePath": "Companions/L1/Go Away Floppy/landscape.pdf",
+      "portraitPath": "Companions/L1/Go Away Floppy/portrait.pdf",
+      "pageCounts": {
+        "landscape": 11,
+        "portrait": 6
+      },
+      "sha256": {
+        "landscape": "8c9349c923037ba179fa59ccbbb220bc4e9e5216745d2ab798b094932f50f8ef",
+        "portrait": "d7e66dfdff59c0f9f0854863ac6626c5887f8686dcc5523e9d59658fcc5479c2",
+        "text": "bbf8bffa3377d43f1e0b2392408e1b99aa184d7b99dca9c0e3b7212edb7fef76"
+      },
+      "byteSizes": {
+        "landscape": 2465854,
+        "portrait": 2288060,
+        "text": 6152
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "1-28",
+      "level": "L1",
+      "title": "Reds And Blues",
+      "bookPath": "L1/Reds And Blues.pdf",
+      "audioPath": "L1/Reds And Blues.mp3",
+      "textPath": "Companions/L1/Reds And Blues/companion.md",
+      "landscapePath": "Companions/L1/Reds And Blues/landscape.pdf",
+      "portraitPath": "Companions/L1/Reds And Blues/portrait.pdf",
+      "pageCounts": {
+        "landscape": 11,
+        "portrait": 6
+      },
+      "sha256": {
+        "landscape": "7ebecaaa37685f4a09bb7998ca6ed9a7d83d4e7276a26bf581978a031aafde93",
+        "portrait": "7857b3d646e879be192a78989a22cb3fbfc3a823b7173843d39a42a19ba3accf",
+        "text": "5199a56c9b2506fba1ec1ce0073c47574405a489190dc61a8c72242997b89f76"
+      },
+      "byteSizes": {
+        "landscape": 2294747,
+        "portrait": 2270834,
+        "text": 4048
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "1-29",
+      "level": "L1",
+      "title": "Big Feet",
+      "bookPath": "L1/Big Feet.pdf",
+      "audioPath": "L1/Big Feet.mp3",
+      "textPath": "Companions/L1/Big Feet/companion.md",
+      "landscapePath": "Companions/L1/Big Feet/landscape.pdf",
+      "portraitPath": "Companions/L1/Big Feet/portrait.pdf",
+      "pageCounts": {
+        "landscape": 6,
+        "portrait": 3
+      },
+      "sha256": {
+        "landscape": "19ea17be71cabdb0108af6fdb2bbd0c2dcbe38a6b01cc327ddf7f043c6e97efa",
+        "portrait": "7d4e3161fb0c687b49d603d92f960024a924b18dbf2570832034da56be5431f3",
+        "text": "d8418b37b425a5101300fdf827440ddae0f102ad945164fcd67e8ac08ff865e3"
+      },
+      "byteSizes": {
+        "landscape": 2094326,
+        "portrait": 2029222,
+        "text": 2735
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "1-30",
+      "level": "L1",
+      "title": "Kipper's Diary",
+      "bookPath": "L1/Kipper's Diary.pdf",
+      "audioPath": "L1/Kipper's Diary.mp3",
+      "textPath": "Companions/L1/Kipper's Diary/companion.md",
+      "landscapePath": "Companions/L1/Kipper's Diary/landscape.pdf",
+      "portraitPath": "Companions/L1/Kipper's Diary/portrait.pdf",
+      "pageCounts": {
+        "landscape": 10,
+        "portrait": 4
+      },
+      "sha256": {
+        "landscape": "dc79037cd9bc108b386a400e2633c94d6f2c0b89efe61524129fd7daeb51e48b",
+        "portrait": "f07e24c57b08629eedbf6384ce15aa0f2408db6cf8debd1a51c7dc365b85aa50",
+        "text": "dd961f8ce6d41a2abaa0b05a71f6fe95894db2059de07716036698a76373766f"
+      },
+      "byteSizes": {
+        "landscape": 1907638,
+        "portrait": 1799783,
+        "text": 5706
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "1-31",
+      "level": "L1",
+      "title": "What Dogs Like",
+      "bookPath": "L1/What Dogs Like.pdf",
+      "audioPath": "L1/What Dogs Like.mp3",
+      "textPath": "Companions/L1/What Dogs Like/companion.md",
+      "landscapePath": "Companions/L1/What Dogs Like/landscape.pdf",
+      "portraitPath": "Companions/L1/What Dogs Like/portrait.pdf",
+      "pageCounts": {
+        "landscape": 18,
+        "portrait": 8
+      },
+      "sha256": {
+        "landscape": "ee5e4f5c82346ecb544ddf6d2b847e6745b3cf368196d06da10ed7bd81e0c231",
+        "portrait": "6c31f9303491c647b1bdfff950856870c77cd735734f33f6c13cff9e7cea60da",
+        "text": "a172a4bcd50f0d473f46e3dd377007080af65b0b882774cf67fe539af0ac6097"
+      },
+      "byteSizes": {
+        "landscape": 2450188,
+        "portrait": 2348133,
+        "text": 7260
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "1-32",
+      "level": "L1",
+      "title": "Presents For Dad",
+      "bookPath": "L1/Presents For Dad.pdf",
+      "audioPath": "L1/Presents For Dad.mp3",
+      "textPath": "Companions/L1/Presents For Dad/companion.md",
+      "landscapePath": "Companions/L1/Presents For Dad/landscape.pdf",
+      "portraitPath": "Companions/L1/Presents For Dad/portrait.pdf",
+      "pageCounts": {
+        "landscape": 10,
+        "portrait": 5
+      },
+      "sha256": {
+        "landscape": "2a8b0629806fc0e45318911bc18a59802937d4636d9c7cfe9bf275001cc3d272",
+        "portrait": "d986af3385d1c9cf1df41eaf964178e4edab26c617804dffa3f635c4622287ea",
+        "text": "47ed12812de47430915cd709a407acaeb506dae876f0c568626fd155dec7f840"
+      },
+      "byteSizes": {
+        "landscape": 2602476,
+        "portrait": 2469112,
+        "text": 5402
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "1-33",
+      "level": "L1",
+      "title": "Top Dog",
+      "bookPath": "L1/Top Dog.pdf",
+      "audioPath": "L1/Top Dog.mp3",
+      "textPath": "Companions/L1/Top Dog/companion.md",
+      "landscapePath": "Companions/L1/Top Dog/landscape.pdf",
+      "portraitPath": "Companions/L1/Top Dog/portrait.pdf",
+      "pageCounts": {
+        "landscape": 11,
+        "portrait": 6
+      },
+      "sha256": {
+        "landscape": "7f80ac1c4888ec9239413d0d9ea3a010ffe9226cc77f0afd67790e04f7dd5f36",
+        "portrait": "8f6e9a360c62f436eaa7780c446986df162f7d593308b3a857f38653b19b2a1a",
+        "text": "17da9ae3caffac00e9aa13076581dea6a2805bd2e4fd4f07d1714d463028d3c7"
+      },
+      "byteSizes": {
+        "landscape": 2905903,
+        "portrait": 2832209,
+        "text": 4991
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "1-34",
+      "level": "L1",
+      "title": "Look After Me",
+      "bookPath": "L1/Look After Me.pdf",
+      "audioPath": "L1/Look After Me.mp3",
+      "textPath": "Companions/L1/Look After Me/companion.md",
+      "landscapePath": "Companions/L1/Look After Me/landscape.pdf",
+      "portraitPath": "Companions/L1/Look After Me/portrait.pdf",
+      "pageCounts": {
+        "landscape": 10,
+        "portrait": 5
+      },
+      "sha256": {
+        "landscape": "eef30ccafd38bc8cef49668543e5ee11ece1d0a0aa715c0c24b30cd75a56d6f2",
+        "portrait": "de9683acd7094e9e1e56e1f46d5d40f7caf25613fdee895f4e6d7b47c904912d",
+        "text": "65ad9593b6585e88b785ba844c7903d513264c10ec1c455ced4a02502a8eedb1"
+      },
+      "byteSizes": {
+        "landscape": 2579403,
+        "portrait": 2402113,
+        "text": 5437
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "1-35",
+      "level": "L1",
+      "title": "Go On Mum",
+      "bookPath": "L1/Go On Mum.pdf",
+      "audioPath": "L1/Go On Mum.mp3",
+      "textPath": "Companions/L1/Go On Mum/companion.md",
+      "landscapePath": "Companions/L1/Go On Mum/landscape.pdf",
+      "portraitPath": "Companions/L1/Go On Mum/portrait.pdf",
+      "pageCounts": {
+        "landscape": 8,
+        "portrait": 4
+      },
+      "sha256": {
+        "landscape": "c06177f4b8e9349066bd35bff6f47da1aee39a7d89336206d5d781bfe0dadf1a",
+        "portrait": "0eb9391f6fcbd595f943249e6e677d426479533d9e03464b424c340c397dfc0a",
+        "text": "d383a83f807ec6d48a62d1cdefbc28b55290c97aff0a1c6d777d67aafdff6808"
+      },
+      "byteSizes": {
+        "landscape": 3111712,
+        "portrait": 2977320,
+        "text": 5555
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "1-36",
+      "level": "L1",
+      "title": "Go Away Cat",
+      "bookPath": "L1/Go Away Cat.pdf",
+      "audioPath": "L1/Go Away Cat.mp3",
+      "textPath": "Companions/L1/Go Away Cat/companion.md",
+      "landscapePath": "Companions/L1/Go Away Cat/landscape.pdf",
+      "portraitPath": "Companions/L1/Go Away Cat/portrait.pdf",
+      "pageCounts": {
+        "landscape": 7,
+        "portrait": 4
+      },
+      "sha256": {
+        "landscape": "6a992de2b98dc136a01069259cfcc64c219f4b60e1bf29e8ac4389334abc5949",
+        "portrait": "e4e3703a7ca880f256198802ed177c419a3d458762a1f1ed00e493c5efdb65b8",
+        "text": "24e13b2219a43d5d466d8d3a17b991b4d6d37228afcfeb140e79b1064b5ccdfd"
+      },
+      "byteSizes": {
+        "landscape": 2377168,
+        "portrait": 2284990,
+        "text": 3535
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "1-37",
+      "level": "L1",
+      "title": "The Sand Castle",
+      "bookPath": "L1/The Sand Castle.pdf",
+      "audioPath": "L1/The Sand Castle.mp3",
+      "textPath": "Companions/L1/The Sand Castle/companion.md",
+      "landscapePath": "Companions/L1/The Sand Castle/landscape.pdf",
+      "portraitPath": "Companions/L1/The Sand Castle/portrait.pdf",
+      "pageCounts": {
+        "landscape": 11,
+        "portrait": 5
+      },
+      "sha256": {
+        "landscape": "c984fe5c99db21a018a75cf5c8a759c77a1dc084637b0e473aadb254f52bad54",
+        "portrait": "9c9f06a27cb5c151c8ad664d4885c57f84883f13c062fea5884b7f560feb52b4",
+        "text": "daff63f198d238bb877214a92847f197b953393fd64e05cc8096b1de9e24510b"
+      },
+      "byteSizes": {
+        "landscape": 3606098,
+        "portrait": 3432025,
+        "text": 7004
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "1-38",
+      "level": "L1",
+      "title": "Floppy's Bone",
+      "bookPath": "L1/Floppy's Bone.pdf",
+      "audioPath": "L1/Floppy's Bone.mp3",
+      "textPath": "Companions/L1/Floppy's Bone/companion.md",
+      "landscapePath": "Companions/L1/Floppy's Bone/landscape.pdf",
+      "portraitPath": "Companions/L1/Floppy's Bone/portrait.pdf",
+      "pageCounts": {
+        "landscape": 11,
+        "portrait": 6
+      },
+      "sha256": {
+        "landscape": "5e71ed6dfad551ce725602643ee78cc86072a9709fee4d85d10b9f6f9aa7475d",
+        "portrait": "d7593e55763a869dc087f6a83bccd83f386522c5b699fa5ea81c6b78472fb987",
+        "text": "ef7c049b6ac1b6ddc8253f5e6c0197029d49f7af806188646af14c2b2c27f923"
+      },
+      "byteSizes": {
+        "landscape": 3984825,
+        "portrait": 3907349,
+        "text": 5888
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "1-39",
+      "level": "L1",
+      "title": "The Box Of Treasure",
+      "bookPath": "L1/The Box Of Treasure.pdf",
+      "audioPath": "L1/The Box Of Treasure.mp3",
+      "textPath": "Companions/L1/The Box Of Treasure/companion.md",
+      "landscapePath": "Companions/L1/The Box Of Treasure/landscape.pdf",
+      "portraitPath": "Companions/L1/The Box Of Treasure/portrait.pdf",
+      "pageCounts": {
+        "landscape": 16,
+        "portrait": 8
+      },
+      "sha256": {
+        "landscape": "c074339b966ff85d2da31ebeed04de038462e93847334217bea8a216131bb38d",
+        "portrait": "8c80eaaaf7814acc6d5b683248223182c4ac6912103b6e50a290407f6e3e935d",
+        "text": "0969ae51af5b52ca5ac8ae5cc7bf887cf78975d0cee5b1a355a44ed1afa49ec1"
+      },
+      "byteSizes": {
+        "landscape": 2865027,
+        "portrait": 2835045,
+        "text": 5975
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "1-40",
+      "level": "L1",
+      "title": "Hook A Duck",
+      "bookPath": "L1/Hook A Duck.pdf",
+      "audioPath": "L1/Hook A Duck.mp3",
+      "textPath": "Companions/L1/Hook A Duck/companion.md",
+      "landscapePath": "Companions/L1/Hook A Duck/landscape.pdf",
+      "portraitPath": "Companions/L1/Hook A Duck/portrait.pdf",
+      "pageCounts": {
+        "landscape": 15,
+        "portrait": 8
+      },
+      "sha256": {
+        "landscape": "be9da9c88654f13ad80aad4627b8d0c58d01bfb12d16faf5c16ea60b53de92bc",
+        "portrait": "68d8fba67b989a1f8c2af74f328215c7c06d45d0de11f711aeb887df480e8bf6",
+        "text": "1cad07f1a73ad7b21ce919eb5bd505fa84be5d5f62d2c9c7beae575a234d57b7"
+      },
+      "byteSizes": {
+        "landscape": 3568246,
+        "portrait": 3527293,
+        "text": 5366
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "1-41",
+      "level": "L1",
+      "title": "Chip's Robot",
+      "bookPath": "L1/Chip's Robot.pdf",
+      "audioPath": "L1/Chip's Robot.mp3",
+      "textPath": "Companions/L1/Chip's Robot/companion.md",
+      "landscapePath": "Companions/L1/Chip's Robot/landscape.pdf",
+      "portraitPath": "Companions/L1/Chip's Robot/portrait.pdf",
+      "pageCounts": {
+        "landscape": 13,
+        "portrait": 7
+      },
+      "sha256": {
+        "landscape": "4d1cf5563620c2509df4227e68d1c35aadf0496679188db3ba6bee48e1b9ab84",
+        "portrait": "e76f3d1aca9a6f7250ac5ac285dc5a77c260389b8d6f0060472e1de9518a6575",
+        "text": "2fbb13738e8d8168491d909dde59668f65a09805f76d12081dcf4af67ccfb6eb"
+      },
+      "byteSizes": {
+        "landscape": 2749307,
+        "portrait": 2631336,
+        "text": 5682
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "1-42",
+      "level": "L1",
+      "title": "One Wheel",
+      "bookPath": "L1/One Wheel.pdf",
+      "audioPath": "L1/One Wheel.mp3",
+      "textPath": "Companions/L1/One Wheel/companion.md",
+      "landscapePath": "Companions/L1/One Wheel/landscape.pdf",
+      "portraitPath": "Companions/L1/One Wheel/portrait.pdf",
+      "pageCounts": {
+        "landscape": 15,
+        "portrait": 8
+      },
+      "sha256": {
+        "landscape": "bd5afde261b76e147c83e4460c282c33c2c109b5d18eda13fa8fba5fe2d8b5ef",
+        "portrait": "587bc0ce088c9e5578ffbba3828fb242dce9792d1a37596b0dbb676d76aedcae",
+        "text": "1dcd1e10c67c10121be04f402dc9b6c928641a7d426ac415ffa73a92c4fa617f"
+      },
+      "byteSizes": {
+        "landscape": 3383661,
+        "portrait": 3355726,
+        "text": 6103
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "1-43",
+      "level": "L1",
+      "title": "The Ice Cream",
+      "bookPath": "L1/The Ice Cream.pdf",
+      "audioPath": "L1/The Ice Cream.mp3",
+      "textPath": "Companions/L1/The Ice Cream/companion.md",
+      "landscapePath": "Companions/L1/The Ice Cream/landscape.pdf",
+      "portraitPath": "Companions/L1/The Ice Cream/portrait.pdf",
+      "pageCounts": {
+        "landscape": 12,
+        "portrait": 6
+      },
+      "sha256": {
+        "landscape": "8ee7805dbb8091d1e02e9ab23013378ad27fbf144aa124198bf7a8a6ebccc5ed",
+        "portrait": "8cb223672f7be7336d93009eb91cf182db041627938af565b97a962709d57c96",
+        "text": "594fc47e3ab668a98c6fc5806d8cd5b665909f49c90e3bd08aa9ace13030c953"
+      },
+      "byteSizes": {
+        "landscape": 2561296,
+        "portrait": 2483788,
+        "text": 5227
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "1-44",
+      "level": "L1",
+      "title": "Can You See Me",
+      "bookPath": "L1/Can You See Me.pdf",
+      "audioPath": "L1/Can You See Me.mp3",
+      "textPath": "Companions/L1/Can You See Me/companion.md",
+      "landscapePath": "Companions/L1/Can You See Me/landscape.pdf",
+      "portraitPath": "Companions/L1/Can You See Me/portrait.pdf",
+      "pageCounts": {
+        "landscape": 6,
+        "portrait": 3
+      },
+      "sha256": {
+        "landscape": "4692a610adf4e2dac366a551ecd40addbb850170b4601ee1743da9aabd87c4c3",
+        "portrait": "6384853a0a212f5c1e821851b043820f2ce7261cc9f8ac3995695166c77c0c94",
+        "text": "8a9246c9fa58d41084a414ee13141876f6712a5e47faaed5edcf078eb05c4571"
+      },
+      "byteSizes": {
+        "landscape": 2819560,
+        "portrait": 2748761,
+        "text": 3149
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "1-45",
+      "level": "L1",
+      "title": "Good Dog",
+      "bookPath": "L1/Good Dog.pdf",
+      "audioPath": "L1/Good Dog.mp3",
+      "textPath": "Companions/L1/Good Dog/companion.md",
+      "landscapePath": "Companions/L1/Good Dog/landscape.pdf",
+      "portraitPath": "Companions/L1/Good Dog/portrait.pdf",
+      "pageCounts": {
+        "landscape": 14,
+        "portrait": 7
+      },
+      "sha256": {
+        "landscape": "ef07644cba32596b7bfd09321c86fc7b8f7afab3bedc57569287dcb3ec2f489d",
+        "portrait": "a5b85b0d5dd4297421951efca8fe5104e445e786c84ae0858f5b1437c3a9a1ce",
+        "text": "ff1dacdc1bd75fa0d9e9018730b09a998fba3dccb4686ef5cf5f32872e18a68a"
+      },
+      "byteSizes": {
+        "landscape": 2674442,
+        "portrait": 2596051,
+        "text": 4878
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "1-46",
+      "level": "L1",
+      "title": "What A Din",
+      "bookPath": "L1/What A Din.pdf",
+      "audioPath": "L1/What A Din.mp3",
+      "textPath": "Companions/L1/What A Din/companion.md",
+      "landscapePath": "Companions/L1/What A Din/landscape.pdf",
+      "portraitPath": "Companions/L1/What A Din/portrait.pdf",
+      "pageCounts": {
+        "landscape": 9,
+        "portrait": 4
+      },
+      "sha256": {
+        "landscape": "b48e1cc6e97a122daefe1b11a5d6a68a40d625b451d0fc55242e82cae8e515d4",
+        "portrait": "7032e3fcd06c5f927be49123bc67e1ab572c38be0a66f266e8dc24735c305c54",
+        "text": "b85a23b78a00a3c4179ec71c30a65baf2da280cd93f12e9fff7dbc0d92c6602c"
+      },
+      "byteSizes": {
+        "landscape": 2546387,
+        "portrait": 2442075,
+        "text": 4877
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "1-47",
+      "level": "L1",
+      "title": "See Me Skip",
+      "bookPath": "L1/See Me Skip.pdf",
+      "audioPath": "L1/See Me Skip.mp3",
+      "textPath": "Companions/L1/See Me Skip/companion.md",
+      "landscapePath": "Companions/L1/See Me Skip/landscape.pdf",
+      "portraitPath": "Companions/L1/See Me Skip/portrait.pdf",
+      "pageCounts": {
+        "landscape": 9,
+        "portrait": 5
+      },
+      "sha256": {
+        "landscape": "12303529a82a9e75a085695a914da9fae34f897999983fd292d5b0bb036d027e",
+        "portrait": "617b6c3dcd88171dce9752c68e81cd496574c178177492a556dd9acb5e26b47a",
+        "text": "7dc72f94957824a87cef936cfc76c75adebcd1d937cf9bb5ea5dc11ebea081bb"
+      },
+      "byteSizes": {
+        "landscape": 2526726,
+        "portrait": 2412215,
+        "text": 4071
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "1-48",
+      "level": "L1",
+      "title": "The Mud Pie",
+      "bookPath": "L1/The Mud Pie.pdf",
+      "audioPath": "L1/The Mud Pie.mp3",
+      "textPath": "Companions/L1/The Mud Pie/companion.md",
+      "landscapePath": "Companions/L1/The Mud Pie/landscape.pdf",
+      "portraitPath": "Companions/L1/The Mud Pie/portrait.pdf",
+      "pageCounts": {
+        "landscape": 11,
+        "portrait": 5
+      },
+      "sha256": {
+        "landscape": "a5da06258ea3a3caa7b10c94fef2b1d5eed9aa4ecf4bd17761d4a389b70f1a7d",
+        "portrait": "7579ea3818621714f6131151bf29586650dcb900acc3373907e760ef46909711",
+        "text": "52eec907b6e55de6f03452660dae88f24bd01f77167980f65e94ff37c509d5c1"
+      },
+      "byteSizes": {
+        "landscape": 2750626,
+        "portrait": 2687547,
+        "text": 4987
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "1-49",
+      "level": "L1",
+      "title": "The Headache",
+      "bookPath": "L1/The Headache.pdf",
+      "audioPath": "L1/The Headache.mp3",
+      "textPath": "Companions/L1/The Headache/companion.md",
+      "landscapePath": "Companions/L1/The Headache/landscape.pdf",
+      "portraitPath": "Companions/L1/The Headache/portrait.pdf",
+      "pageCounts": {
+        "landscape": 11,
+        "portrait": 6
+      },
+      "sha256": {
+        "landscape": "e61ab21845a92038121fe7046b6b3e228771ac079b75a0918167664b833e207c",
+        "portrait": "05e2605ef0819e3edd101e76a39b90e731f4fc37824aa0fb20e598cde5d557a3",
+        "text": "2557fd4838b66785ed4fb65c20043cbf6fc5b763e67c783e828e079ac1c9f787"
+      },
+      "byteSizes": {
+        "landscape": 2041686,
+        "portrait": 1888017,
+        "text": 6351
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "1-50",
+      "level": "L1",
+      "title": "At The Park",
+      "bookPath": "L1/At The Park.pdf",
+      "audioPath": "L1/At The Park.mp3",
+      "textPath": "Companions/L1/At The Park/companion.md",
+      "landscapePath": "Companions/L1/At The Park/landscape.pdf",
+      "portraitPath": "Companions/L1/At The Park/portrait.pdf",
+      "pageCounts": {
+        "landscape": 11,
+        "portrait": 6
+      },
+      "sha256": {
+        "landscape": "ba2207e242d216e78fd8caa77f32f53718e9608bb36c82d7c91842122fa00bb2",
+        "portrait": "9c1d8b2701f1ca64aaf46bc61d81b2cfeabeaff553e3901bc844eb3bfe0e1e63",
+        "text": "96204b393039f6093ebd3d1aaaeaeba9eeb064e5c40659a5b8b917ac7c028af5"
+      },
+      "byteSizes": {
+        "landscape": 2175764,
+        "portrait": 2053411,
+        "text": 6609
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "1-51",
+      "level": "L1",
+      "title": "Fancy Dress",
+      "bookPath": "L1/Fancy Dress.pdf",
+      "audioPath": "L1/Fancy Dress.mp3",
+      "textPath": "Companions/L1/Fancy Dress/companion.md",
+      "landscapePath": "Companions/L1/Fancy Dress/landscape.pdf",
+      "portraitPath": "Companions/L1/Fancy Dress/portrait.pdf",
+      "pageCounts": {
+        "landscape": 13,
+        "portrait": 6
+      },
+      "sha256": {
+        "landscape": "fe3222e34e1ee813315b27032e3ddcdd3baebdfcc0ff997e119c3a01a127b903",
+        "portrait": "3f6af0d774aab72607b35a934861be2f255ebcd9cf431ccd43ad3fbbb90f78b9",
+        "text": "751e00e2f6fd9fac78431037ea97a75dd9982068c6ed6178e93a5303279a66c4"
+      },
+      "byteSizes": {
+        "landscape": 1742756,
+        "portrait": 1686452,
+        "text": 4321
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "1-52",
+      "level": "L1",
+      "title": "Push",
+      "bookPath": "L1/Push.pdf",
+      "audioPath": "L1/Push.mp3",
+      "textPath": "Companions/L1/Push/companion.md",
+      "landscapePath": "Companions/L1/Push/landscape.pdf",
+      "portraitPath": "Companions/L1/Push/portrait.pdf",
+      "pageCounts": {
+        "landscape": 7,
+        "portrait": 4
+      },
+      "sha256": {
+        "landscape": "ae2ddc76b57365468282797001fd3d74f8efe38385ee4d78cb6dfda68e7e4b19",
+        "portrait": "94a0b24341a358175d18f6d5df97bda50cd8bfc2701e2c2ac3c645def3d876b5",
+        "text": "cebd50d879014df27f074c3151fdd3e06bd3ab7f3e4550c6dea8ad97113ad41d"
+      },
+      "byteSizes": {
+        "landscape": 2065218,
+        "portrait": 1985816,
+        "text": 3906
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "1-53",
+      "level": "L1",
+      "title": "Good Old Mum",
+      "bookPath": "L1/Good Old Mum.pdf",
+      "audioPath": "L1/Good Old Mum.mp3",
+      "textPath": "Companions/L1/Good Old Mum/companion.md",
+      "landscapePath": "Companions/L1/Good Old Mum/landscape.pdf",
+      "portraitPath": "Companions/L1/Good Old Mum/portrait.pdf",
+      "pageCounts": {
+        "landscape": 9,
+        "portrait": 4
+      },
+      "sha256": {
+        "landscape": "d2650ef7769be32b213e02fba0018d6b5033007c2424c82f9bcdbdcb93800af2",
+        "portrait": "98cf1151188dde6690cf96f4331dcba38da9df930fc08992456bb349dae20978",
+        "text": "3af7aff6fd0c23e134aa2a4bcb974ceefba44587cb55ecc67ca5d682849d3bc1"
+      },
+      "byteSizes": {
+        "landscape": 1768120,
+        "portrait": 1615967,
+        "text": 4311
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "1-54",
+      "level": "L1",
+      "title": "The Pet Shop",
+      "bookPath": "L1/The Pet Shop.pdf",
+      "audioPath": "L1/The Pet Shop.mp3",
+      "textPath": "Companions/L1/The Pet Shop/companion.md",
+      "landscapePath": "Companions/L1/The Pet Shop/landscape.pdf",
+      "portraitPath": "Companions/L1/The Pet Shop/portrait.pdf",
+      "pageCounts": {
+        "landscape": 6,
+        "portrait": 3
+      },
+      "sha256": {
+        "landscape": "0d7986bd9b01e4e6606d19038bdce401b5a410c194597de69e52a4f8754536bb",
+        "portrait": "ec8735604ecf68e1ace0506ba53a8962e73b09a1f0d5a810a21cde0ff07044c6",
+        "text": "3a0d138b86cc80808c392e9bcfcaf2bf5cce6103482a028b11682a693114084e"
+      },
+      "byteSizes": {
+        "landscape": 1997749,
+        "portrait": 1915206,
+        "text": 3079
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "1-55",
+      "level": "L1",
+      "title": "What A Mess",
+      "bookPath": "L1/What A Mess.pdf",
+      "audioPath": "L1/What A Mess.mp3",
+      "textPath": "Companions/L1/What A Mess/companion.md",
+      "landscapePath": "Companions/L1/What A Mess/landscape.pdf",
+      "portraitPath": "Companions/L1/What A Mess/portrait.pdf",
+      "pageCounts": {
+        "landscape": 11,
+        "portrait": 6
+      },
+      "sha256": {
+        "landscape": "6840522387fa59cd680e1deaec3a21888a6271400d88a5f7500b013d8b3d2cf2",
+        "portrait": "509d95861a00c1a598fd0238f99c8ed88a68a117efc0f1392b19db1ae7bec5e8",
+        "text": "eea96ad4bf6bb805e9e2344720606a2ed4d80549b17b2af4c3db4d1f91e85d58"
+      },
+      "byteSizes": {
+        "landscape": 1869676,
+        "portrait": 1791185,
+        "text": 4674
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "1-56",
+      "level": "L1",
+      "title": "Making Faces",
+      "bookPath": "L1/Making Faces.pdf",
+      "audioPath": "L1/Making Faces.mp3",
+      "textPath": "Companions/L1/Making Faces/companion.md",
+      "landscapePath": "Companions/L1/Making Faces/landscape.pdf",
+      "portraitPath": "Companions/L1/Making Faces/portrait.pdf",
+      "pageCounts": {
+        "landscape": 10,
+        "portrait": 5
+      },
+      "sha256": {
+        "landscape": "f451678f01ceab9b3abb7a197503e60af85d14e2f003fcc289c5e6ada9e32c00",
+        "portrait": "1ff9c5bd2dadc83a0eae45966c961d970a0286b749865bf5aecfd39a12d4bdf0",
+        "text": "e4f816a7223a18e53a33d3c86aaa97fa647ef9a934f7028b1065d9ea740f44a7"
+      },
+      "byteSizes": {
+        "landscape": 2210060,
+        "portrait": 2052480,
+        "text": 5394
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "1-57",
+      "level": "L1",
+      "title": "The Journey",
+      "bookPath": "L1/The Journey.pdf",
+      "audioPath": "L1/The Journey.mp3",
+      "textPath": "Companions/L1/The Journey/companion.md",
+      "landscapePath": "Companions/L1/The Journey/landscape.pdf",
+      "portraitPath": "Companions/L1/The Journey/portrait.pdf",
+      "pageCounts": {
+        "landscape": 12,
+        "portrait": 6
+      },
+      "sha256": {
+        "landscape": "7554c00f8daab0e59d02b19f4a827a4344976e7372870e3ac5f6bf4fdd59bde5",
+        "portrait": "72c2f9064abb33c54c7841e441347d1bf6194b93778b2496ac06a3fb73b93301",
+        "text": "76b90b250eb82ccd2b8fbf01d2d2d70bf7285c2b8ef02461914e16d928dd83bc"
+      },
+      "byteSizes": {
+        "landscape": 2084745,
+        "portrait": 2018076,
+        "text": 5642
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "1-58",
+      "level": "L1",
+      "title": "Goal",
+      "bookPath": "L1/Goal.pdf",
+      "audioPath": "L1/Goal.mp3",
+      "textPath": "Companions/L1/Goal/companion.md",
+      "landscapePath": "Companions/L1/Goal/landscape.pdf",
+      "portraitPath": "Companions/L1/Goal/portrait.pdf",
+      "pageCounts": {
+        "landscape": 11,
+        "portrait": 6
+      },
+      "sha256": {
+        "landscape": "94a7772530ade927c26233d8c64c802254ae98d13f4b3a056c60463ae7bbe449",
+        "portrait": "c8ffe1e04bd485eb69bf6440421b60b6aae5cd0313bc621c8a78daf7ea99ad77",
+        "text": "30862ef04eedfcc1fa0be4a8e3852666341efbd182015b0570ea630356d1eab3"
+      },
+      "byteSizes": {
+        "landscape": 2331300,
+        "portrait": 2308798,
+        "text": 4515
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "1-59",
+      "level": "L1",
+      "title": "Who Did That",
+      "bookPath": "L1/Who Did That.pdf",
+      "audioPath": "L1/Who Did That.mp3",
+      "textPath": "Companions/L1/Who Did That/companion.md",
+      "landscapePath": "Companions/L1/Who Did That/landscape.pdf",
+      "portraitPath": "Companions/L1/Who Did That/portrait.pdf",
+      "pageCounts": {
+        "landscape": 13,
+        "portrait": 7
+      },
+      "sha256": {
+        "landscape": "a350094f4559dc4e7b107e4d93cc9ca063779a0812805a070ee15054694766fa",
+        "portrait": "fdb115e1b88446fa9dbeb88d929e40176b9309ec7a406206021be9a999bff642",
+        "text": "4d6e6fd7d098b6219b3a74fd1e864a30338200f9040b772d4a1c53d9b1bf954e"
+      },
+      "byteSizes": {
+        "landscape": 1774866,
+        "portrait": 1636485,
+        "text": 6568
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "1-60",
+      "level": "L1",
+      "title": "Shopping",
+      "bookPath": "L1/Shopping.pdf",
+      "audioPath": "L1/Shopping.mp3",
+      "textPath": "Companions/L1/Shopping/companion.md",
+      "landscapePath": "Companions/L1/Shopping/landscape.pdf",
+      "portraitPath": "Companions/L1/Shopping/portrait.pdf",
+      "pageCounts": {
+        "landscape": 16,
+        "portrait": 8
+      },
+      "sha256": {
+        "landscape": "1de389fcf35bff7e0c6ff25d420d740f768c544d2553d20f95713f1567de8531",
+        "portrait": "414ada77a898aa079436d263698bc5ce3d796d4932184a65075388c7bb009d94",
+        "text": "14afc476b1045133784dbf5032a93aa2dca183254ba4703a20a8ba0b76263722"
+      },
+      "byteSizes": {
+        "landscape": 2643929,
+        "portrait": 2492783,
+        "text": 7522
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "2-01",
+      "level": "L2",
+      "title": "The Toys Party",
+      "bookPath": "L2/The Toys Party.pdf",
+      "audioPath": "L2/The Toys Party.mp3",
+      "textPath": "Companions/L2/The Toys Party/companion.md",
+      "landscapePath": "Companions/L2/The Toys Party/landscape.pdf",
+      "portraitPath": "Companions/L2/The Toys Party/portrait.pdf",
+      "pageCounts": {
+        "landscape": 20,
+        "portrait": 10
+      },
+      "sha256": {
+        "landscape": "5a2ceaf653d239c915aecfd42a89c6824bc9d4b29f0af7c886a324848a0b536a",
+        "portrait": "c2a7c4546b0d0aace7b2d2ac9489f476f7e65e6b02123ada17059de23fceb0f5",
+        "text": "b89df0e7cfb07967c4a8223f57bc1960722f6b03dbf221bee70c5403111ba8c6"
+      },
+      "byteSizes": {
+        "landscape": 4610572,
+        "portrait": 4522051,
+        "text": 7468
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "2-02",
+      "level": "L2",
+      "title": "New Trainers",
+      "bookPath": "L2/New Trainers.pdf",
+      "audioPath": "L2/New Trainers.mp3",
+      "textPath": "Companions/L2/New Trainers/companion.md",
+      "landscapePath": "Companions/L2/New Trainers/landscape.pdf",
+      "portraitPath": "Companions/L2/New Trainers/portrait.pdf",
+      "pageCounts": {
+        "landscape": 20,
+        "portrait": 10
+      },
+      "sha256": {
+        "landscape": "d744fd2b46a859de3ca141238b6612e9c8893b194b2996eb4b967f16681caa07",
+        "portrait": "5259b8e4336417850a44ed4c842599f1d09d9f6a2ef0dc267b82591248803787",
+        "text": "ea6ef83532a772bd6e1a880d9ea506438fcacaf14fe153ecbcc1ca086f24669a"
+      },
+      "byteSizes": {
+        "landscape": 5004551,
+        "portrait": 4929125,
+        "text": 6403
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "2-03",
+      "level": "L2",
+      "title": "A New Dog",
+      "bookPath": "L2/A New Dog.pdf",
+      "audioPath": "L2/A New Dog.mp3",
+      "textPath": "Companions/L2/A New Dog/companion.md",
+      "landscapePath": "Companions/L2/A New Dog/landscape.pdf",
+      "portraitPath": "Companions/L2/A New Dog/portrait.pdf",
+      "pageCounts": {
+        "landscape": 44,
+        "portrait": 21
+      },
+      "sha256": {
+        "landscape": "69bbe4b7db9ef9520b686af3b848458cc65c5582d916323736df7a86cd25d26d",
+        "portrait": "456cc40728dd278b9268ea42bb5da6948e8e1ba87b79d7ac7715c79a1bf52b21",
+        "text": "da67ac356363e3e7e239c62a90fb7c1ee201b946d805eb6356b110d3283bd4d6"
+      },
+      "byteSizes": {
+        "landscape": 5217502,
+        "portrait": 5126353,
+        "text": 12031
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "2-04",
+      "level": "L2",
+      "title": "What A Bad Dog",
+      "bookPath": "L2/What A Bad Dog.pdf",
+      "audioPath": "L2/What A Bad Dog.mp3",
+      "textPath": "Companions/L2/What A Bad Dog/companion.md",
+      "landscapePath": "Companions/L2/What A Bad Dog/landscape.pdf",
+      "portraitPath": "Companions/L2/What A Bad Dog/portrait.pdf",
+      "pageCounts": {
+        "landscape": 19,
+        "portrait": 10
+      },
+      "sha256": {
+        "landscape": "3ea5ca3df712a7b6d1369fbcfc8580f9688eb0fe1512d97a7f0551a5ccf6eb20",
+        "portrait": "69106bcfe08a5847f0ef717d4614b6fa29bde3387b1aabe52307ba54531fb6d8",
+        "text": "862d06c94b001730eb3f334a2eaabe1943f7a1b528d35aa56ee60097bea9a808"
+      },
+      "byteSizes": {
+        "landscape": 5051903,
+        "portrait": 5023268,
+        "text": 6332
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "2-05",
+      "level": "L2",
+      "title": "The Go-Kart",
+      "bookPath": "L2/The Go-Kart.pdf",
+      "audioPath": "L2/The Go-Kart.mp3",
+      "textPath": "Companions/L2/The Go-Kart/companion.md",
+      "landscapePath": "Companions/L2/The Go-Kart/landscape.pdf",
+      "portraitPath": "Companions/L2/The Go-Kart/portrait.pdf",
+      "pageCounts": {
+        "landscape": 17,
+        "portrait": 8
+      },
+      "sha256": {
+        "landscape": "a435a4dfa9df6377c638638822ddbfcdb46a3cad167619c2b060ff8e783df811",
+        "portrait": "da1bcfea6f4930038ffbb38138b533c6eed44947dde77b28cc62161136b62137",
+        "text": "be08919abf2e70aa2a72fb2ff405d2c4b9e629ee13fd8dad6505ce0904b7bc14"
+      },
+      "byteSizes": {
+        "landscape": 5055234,
+        "portrait": 4985866,
+        "text": 5911
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "2-06",
+      "level": "L2",
+      "title": "The Dream",
+      "bookPath": "L2/The Dream.pdf",
+      "audioPath": "L2/The Dream.mp3",
+      "textPath": "Companions/L2/The Dream/companion.md",
+      "landscapePath": "Companions/L2/The Dream/landscape.pdf",
+      "portraitPath": "Companions/L2/The Dream/portrait.pdf",
+      "pageCounts": {
+        "landscape": 19,
+        "portrait": 10
+      },
+      "sha256": {
+        "landscape": "2b44c07da6131a76f0bbd67e99b30b74c902dff05c289b35e53863549c1368ef",
+        "portrait": "606216a497adf48d7244aa567005bf6e99254df4697c5f33306b61c48ef5b220",
+        "text": "8f3c50d90757c1e2e83a49936421f7c01e44d5c1b7a010e65570fff3bb577843"
+      },
+      "byteSizes": {
+        "landscape": 4678190,
+        "portrait": 4648718,
+        "text": 5794
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "2-07",
+      "level": "L2",
+      "title": "Floppy's Bath",
+      "bookPath": "L2/Floppy's Bath.pdf",
+      "audioPath": "L2/Floppy's Bath.mp3",
+      "textPath": "Companions/L2/Floppy's Bath/companion.md",
+      "landscapePath": "Companions/L2/Floppy's Bath/landscape.pdf",
+      "portraitPath": "Companions/L2/Floppy's Bath/portrait.pdf",
+      "pageCounts": {
+        "landscape": 19,
+        "portrait": 10
+      },
+      "sha256": {
+        "landscape": "db500ce68a542ead4ba93232d179a90d0b73dd5c7f73c2b18855140ad8080dd6",
+        "portrait": "2904b900cde0cd7b88c6de0024a4f77cccbb6611e2c8843b5887a6f1dcec0225",
+        "text": "d16ea6e79c175eceb58a56723afb68512cb2af1283595ad503654fdc4a45353e"
+      },
+      "byteSizes": {
+        "landscape": 4169316,
+        "portrait": 4138005,
+        "text": 5979
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "2-08",
+      "level": "L2",
+      "title": "The Babysitter",
+      "bookPath": "L2/The Babysitter.pdf",
+      "audioPath": "L2/The Babysitter.mp3",
+      "textPath": "Companions/L2/The Babysitter/companion.md",
+      "landscapePath": "Companions/L2/The Babysitter/landscape.pdf",
+      "portraitPath": "Companions/L2/The Babysitter/portrait.pdf",
+      "pageCounts": {
+        "landscape": 19,
+        "portrait": 10
+      },
+      "sha256": {
+        "landscape": "35c79c7f4c7e88f8c3d8db9653cbe06caf16ceac2fc31732e33f0c60163b2764",
+        "portrait": "796e52f6d8cb4203d6dba7774cc4b89b175cf9e07661661fb8ef384e9280bfc0",
+        "text": "d184be0cf15f9cc40da9b5ac017353de8c11429c2bdd785b7246f78b5b609f12"
+      },
+      "byteSizes": {
+        "landscape": 4569427,
+        "portrait": 4540173,
+        "text": 5940
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "2-09",
+      "level": "L2",
+      "title": "The Water Fight",
+      "bookPath": "L2/The Water Fight.pdf",
+      "audioPath": "L2/The Water Fight.mp3",
+      "textPath": "Companions/L2/The Water Fight/companion.md",
+      "landscapePath": "Companions/L2/The Water Fight/landscape.pdf",
+      "portraitPath": "Companions/L2/The Water Fight/portrait.pdf",
+      "pageCounts": {
+        "landscape": 19,
+        "portrait": 10
+      },
+      "sha256": {
+        "landscape": "41cb5d082223a8e3a76d4a0a76def387472abd14de5128279ed5d395b8bc3fbf",
+        "portrait": "fea0d587f0fa9bf10ea5f53d62a281e22c3a5739a64ae03f2c2beaa9b4dcbdce",
+        "text": "6dfbf83fec7c3cbd6e7c25a92c88af675c57da318044714c24ef1e08f03c09e8"
+      },
+      "byteSizes": {
+        "landscape": 4663651,
+        "portrait": 4635347,
+        "text": 6247
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "2-10",
+      "level": "L2",
+      "title": "Kipper's Balloon",
+      "bookPath": "L2/Kipper's Balloon.pdf",
+      "audioPath": "L2/Kipper's Balloon.mp3",
+      "textPath": "Companions/L2/Kipper's Balloon/companion.md",
+      "landscapePath": "Companions/L2/Kipper's Balloon/landscape.pdf",
+      "portraitPath": "Companions/L2/Kipper's Balloon/portrait.pdf",
+      "pageCounts": {
+        "landscape": 21,
+        "portrait": 11
+      },
+      "sha256": {
+        "landscape": "784939ec43d617a3dc0ac5c5a7ce4af10bfb6d9bb51382c552ea494ebe3996e5",
+        "portrait": "29d30fdfe92df489c4896baa5e95c2d7c4c575016262b4ecd2492fffdd9c500e",
+        "text": "aee9efe9abf5d68ad72f21a4038259486f65a80555067e0b9398e9ea8d5c1b61"
+      },
+      "byteSizes": {
+        "landscape": 4239450,
+        "portrait": 4207934,
+        "text": 5776
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "2-11",
+      "level": "L2",
+      "title": "Spots",
+      "bookPath": "L2/Spots.pdf",
+      "audioPath": "L2/Spots.mp3",
+      "textPath": "Companions/L2/Spots/companion.md",
+      "landscapePath": "Companions/L2/Spots/landscape.pdf",
+      "portraitPath": "Companions/L2/Spots/portrait.pdf",
+      "pageCounts": {
+        "landscape": 19,
+        "portrait": 10
+      },
+      "sha256": {
+        "landscape": "7f4d96beebc87c9e088a2d43cb1956316b2988cfac18e20d3dbacaa5c1992049",
+        "portrait": "8e3e544b2d3f1f11303a2b5c5b1c54b1953b60508e28718e174002c9b0aa4ef4",
+        "text": "f5744a99efb610a04ececcbb3b528a9e56f6537180b8c777e619edcd8f5f2f47"
+      },
+      "byteSizes": {
+        "landscape": 4565042,
+        "portrait": 4534477,
+        "text": 5399
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "2-12",
+      "level": "L2",
+      "title": "Kipper's Birthday",
+      "bookPath": "L2/Kipper's Birthday.pdf",
+      "audioPath": "L2/Kipper's Birthday.mp3",
+      "textPath": "Companions/L2/Kipper's Birthday/companion.md",
+      "landscapePath": "Companions/L2/Kipper's Birthday/landscape.pdf",
+      "portraitPath": "Companions/L2/Kipper's Birthday/portrait.pdf",
+      "pageCounts": {
+        "landscape": 21,
+        "portrait": 11
+      },
+      "sha256": {
+        "landscape": "b8c47c5c80bb6e2e88005dbef45f1c32b3d7afad8e683b70ab2474ff937cdbb1",
+        "portrait": "86ea83728ff540d3b74b5e676fd277256a37fd2c311dfb648ee38ee12ee3be0c",
+        "text": "81c5995893572a4b6bc623068f24b65856d783ded5995b9e52f80f9b7013347f"
+      },
+      "byteSizes": {
+        "landscape": 4969090,
+        "portrait": 4938419,
+        "text": 6291
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "2-13",
+      "level": "L2",
+      "title": "Kipper's Laces",
+      "bookPath": "L2/Kipper's Laces.pdf",
+      "audioPath": "L2/Kipper's Laces.mp3",
+      "textPath": "Companions/L2/Kipper's Laces/companion.md",
+      "landscapePath": "Companions/L2/Kipper's Laces/landscape.pdf",
+      "portraitPath": "Companions/L2/Kipper's Laces/portrait.pdf",
+      "pageCounts": {
+        "landscape": 19,
+        "portrait": 10
+      },
+      "sha256": {
+        "landscape": "b3e2fb52a06b57ab6cf643883c937a73b468c7290a1d51af96db3b8fd842551e",
+        "portrait": "3dffb34d356b04c6368b3b345d5b853d9a06ce8107aff37dbc40eb7474ec9e9b",
+        "text": "e58eb55172e0730770c5221d8445441c02cf5e7cc75a07f6afbf47a9a3ddd839"
+      },
+      "byteSizes": {
+        "landscape": 4549195,
+        "portrait": 4478111,
+        "text": 7248
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "2-14",
+      "level": "L2",
+      "title": "The Wobbly Tooth",
+      "bookPath": "L2/The Wobbly Tooth.pdf",
+      "audioPath": "L2/The Wobbly Tooth.mp3",
+      "textPath": "Companions/L2/The Wobbly Tooth/companion.md",
+      "landscapePath": "Companions/L2/The Wobbly Tooth/landscape.pdf",
+      "portraitPath": "Companions/L2/The Wobbly Tooth/portrait.pdf",
+      "pageCounts": {
+        "landscape": 19,
+        "portrait": 10
+      },
+      "sha256": {
+        "landscape": "4d0119188c974926dcbc220539ee8e0f8325f141ed42a8dfb796e118fe0198e2",
+        "portrait": "adde9802a82083d3368eb26a09e7f889d12139a3ead54ec2506564c7146c078d",
+        "text": "8103ff9b81208d117d6cea36bea262d54b688836630956a500b64bb01db29606"
+      },
+      "byteSizes": {
+        "landscape": 3693381,
+        "portrait": 3664457,
+        "text": 5754
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "2-15",
+      "level": "L2",
+      "title": "The Foggy Day",
+      "bookPath": "L2/The Foggy Day.pdf",
+      "audioPath": "L2/The Foggy Day.mp3",
+      "textPath": "Companions/L2/The Foggy Day/companion.md",
+      "landscapePath": "Companions/L2/The Foggy Day/landscape.pdf",
+      "portraitPath": "Companions/L2/The Foggy Day/portrait.pdf",
+      "pageCounts": {
+        "landscape": 19,
+        "portrait": 10
+      },
+      "sha256": {
+        "landscape": "bf6b5acd795528704d64cf44567d4bea4ec1c8e1a6561bdf8d97b8ef8d411b06",
+        "portrait": "b9bccde1c913e5d51bd7c80a501dae7e4149748c0d8fb855812772e39680f90b",
+        "text": "cb863c1475ce1323d5a04e057d3a3f25306dc25fd6fe7651dac7df307aef14b6"
+      },
+      "byteSizes": {
+        "landscape": 3297368,
+        "portrait": 3232296,
+        "text": 7172
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "2-16",
+      "level": "L2",
+      "title": "Biff's Aeroplane",
+      "bookPath": "L2/Biff's Aeroplane.pdf",
+      "audioPath": "L2/Biff's Aeroplane.mp3",
+      "textPath": "Companions/L2/Biff's Aeroplane/companion.md",
+      "landscapePath": "Companions/L2/Biff's Aeroplane/landscape.pdf",
+      "portraitPath": "Companions/L2/Biff's Aeroplane/portrait.pdf",
+      "pageCounts": {
+        "landscape": 20,
+        "portrait": 10
+      },
+      "sha256": {
+        "landscape": "94657ecccd6e3cd36bbec4509ddcc2df0ba3368f07e70bffe104626a81e0eee9",
+        "portrait": "b660936148c8e977a272edd21e3d5e3d677529372cd44261e11a41c2fef764ab",
+        "text": "b4928fb3d28a07a94eb133200682c6008940502edc25921b7266ce4a90be0556"
+      },
+      "byteSizes": {
+        "landscape": 4221910,
+        "portrait": 4190598,
+        "text": 7006
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "2-17",
+      "level": "L2",
+      "title": "Floppy The Hero",
+      "bookPath": "L2/Floppy The Hero.pdf",
+      "audioPath": "L2/Floppy The Hero.mp3",
+      "textPath": "Companions/L2/Floppy The Hero/companion.md",
+      "landscapePath": "Companions/L2/Floppy The Hero/landscape.pdf",
+      "portraitPath": "Companions/L2/Floppy The Hero/portrait.pdf",
+      "pageCounts": {
+        "landscape": 19,
+        "portrait": 10
+      },
+      "sha256": {
+        "landscape": "5ba728fe259cd93356ccf12a33e7c90560ee427446d9b97a590f4937d6ba9302",
+        "portrait": "0a3b77ab99fcc1d9470e524f2e1243fa421c26f8f6cf0a6c886f3572ea2e8b5c",
+        "text": "dbfbf490d85e89ca142c463683149642457138fb85833dbc83caf3b6cc369304"
+      },
+      "byteSizes": {
+        "landscape": 4804195,
+        "portrait": 4774504,
+        "text": 6684
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "2-18",
+      "level": "L2",
+      "title": "The Chase",
+      "bookPath": "L2/The Chase.pdf",
+      "audioPath": "L2/The Chase.mp3",
+      "textPath": "Companions/L2/The Chase/companion.md",
+      "landscapePath": "Companions/L2/The Chase/landscape.pdf",
+      "portraitPath": "Companions/L2/The Chase/portrait.pdf",
+      "pageCounts": {
+        "landscape": 19,
+        "portrait": 10
+      },
+      "sha256": {
+        "landscape": "204bbffba561c6e08f33833939e30aedab77c4d687fc65c75fd7fce4adbd7360",
+        "portrait": "3a73cd2c503542c72fb39c7dbeb3328ec7124eb0e70c8f5456a9543e01fcf895",
+        "text": "f8b78e05abbbd4a220e8f9225cd3892c92d984b527dba9a50aba13eb7c1acf07"
+      },
+      "byteSizes": {
+        "landscape": 5241896,
+        "portrait": 5210486,
+        "text": 6559
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "2-19",
+      "level": "L2",
+      "title": "The Big Egg",
+      "bookPath": "L2/The Big Egg.pdf",
+      "audioPath": "L2/The Big Egg.mp3",
+      "textPath": "Companions/L2/The Big Egg/companion.md",
+      "landscapePath": "Companions/L2/The Big Egg/landscape.pdf",
+      "portraitPath": "Companions/L2/The Big Egg/portrait.pdf",
+      "pageCounts": {
+        "landscape": 22,
+        "portrait": 11
+      },
+      "sha256": {
+        "landscape": "aafd631db7cf08fab86354a8d125ae95303b60429301fb5e41deb89e4dca97cb",
+        "portrait": "fa97d323b4ebdba61b84176ea22727706fce68c67fa97f08b4e549e90b20bc64",
+        "text": "67fe351345b908b5f2cf57bcbed2a49c07720bdfea2c5cad88bc9d44e8220a0d"
+      },
+      "byteSizes": {
+        "landscape": 4819378,
+        "portrait": 4785514,
+        "text": 6632
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "2-20",
+      "level": "L2",
+      "title": "Poor Floppy",
+      "bookPath": "L2/Poor Floppy.pdf",
+      "audioPath": "L2/Poor Floppy.mp3",
+      "textPath": "Companions/L2/Poor Floppy/companion.md",
+      "landscapePath": "Companions/L2/Poor Floppy/landscape.pdf",
+      "portraitPath": "Companions/L2/Poor Floppy/portrait.pdf",
+      "pageCounts": {
+        "landscape": 19,
+        "portrait": 10
+      },
+      "sha256": {
+        "landscape": "3756fa5050255f8f91839388c5c6a67e19aa9fe0b49523c1bd20d065ffab37db",
+        "portrait": "1c788c53125dd5ba4babe62eb4ad936b10a02e0c8fc6688b01f94addc40d068f",
+        "text": "c5a0612d076e620705403fc94a82a0dddb08c34719006cd2778df386d1031373"
+      },
+      "byteSizes": {
+        "landscape": 4161264,
+        "portrait": 4130807,
+        "text": 6120
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "2-21",
+      "level": "L2",
+      "title": "Put It Back",
+      "bookPath": "L2/Put It Back.pdf",
+      "audioPath": "L2/Put It Back.mp3",
+      "textPath": "Companions/L2/Put It Back/companion.md",
+      "landscapePath": "Companions/L2/Put It Back/landscape.pdf",
+      "portraitPath": "Companions/L2/Put It Back/portrait.pdf",
+      "pageCounts": {
+        "landscape": 19,
+        "portrait": 10
+      },
+      "sha256": {
+        "landscape": "c69acf3699593741ff5399ae8df28458276e6672a26d9f8b5107a692e80eff4c",
+        "portrait": "f97309b9f93de2435cf38de946ae53a8af3cf32f05a1a644d90bb0e59dc9ce6c",
+        "text": "e77a2a9df2cdfa39c781b9441aa8b6ffec6df46f7a5d8643ed30576db029c3d9"
+      },
+      "byteSizes": {
+        "landscape": 4304458,
+        "portrait": 4275119,
+        "text": 5859
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "2-22",
+      "level": "L2",
+      "title": "In A Bit",
+      "bookPath": "L2/In A Bit.pdf",
+      "audioPath": "L2/In A Bit.mp3",
+      "textPath": "Companions/L2/In A Bit/companion.md",
+      "landscapePath": "Companions/L2/In A Bit/landscape.pdf",
+      "portraitPath": "Companions/L2/In A Bit/portrait.pdf",
+      "pageCounts": {
+        "landscape": 19,
+        "portrait": 10
+      },
+      "sha256": {
+        "landscape": "19df7f91e1d2d095cf4c0218f613f3925c16a156ab54c53e24002a32ef3503b4",
+        "portrait": "042e819708f7fc38fa58205c7e695e566ce8ab9e24bf6f144cc2c84daf2dbd5f",
+        "text": "3b2e1c1a2622c0890cfd5cea3c9f24df9089ba959e4554a5a8ee389fa4e2e6db"
+      },
+      "byteSizes": {
+        "landscape": 4048490,
+        "portrait": 4017881,
+        "text": 7069
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "2-23",
+      "level": "L2",
+      "title": "A Present For Mom",
+      "bookPath": "L2/A Present For Mom.pdf",
+      "audioPath": "L2/A Present For Mom.mp3",
+      "textPath": "Companions/L2/A Present For Mom/companion.md",
+      "landscapePath": "Companions/L2/A Present For Mom/landscape.pdf",
+      "portraitPath": "Companions/L2/A Present For Mom/portrait.pdf",
+      "pageCounts": {
+        "landscape": 19,
+        "portrait": 10
+      },
+      "sha256": {
+        "landscape": "73cf36698c92f0c05b815ffd265e0441958602f82e8559e71e3321f500c6b842",
+        "portrait": "b0fdd7d55cab013246105f322bfc2782ce94a1928344d63ad1f85ddf97c191e1",
+        "text": "23d8b4e8993c76258619d0bb11f7a4e0ca7a6a23be78ca786ac645769e44b200"
+      },
+      "byteSizes": {
+        "landscape": 4047180,
+        "portrait": 4033534,
+        "text": 5181
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "2-24",
+      "level": "L2",
+      "title": "The Hole In The Sand",
+      "bookPath": "L2/The Hole In The Sand.pdf",
+      "audioPath": "L2/The Hole In The Sand.mp3",
+      "textPath": "Companions/L2/The Hole In The Sand/companion.md",
+      "landscapePath": "Companions/L2/The Hole In The Sand/landscape.pdf",
+      "portraitPath": "Companions/L2/The Hole In The Sand/portrait.pdf",
+      "pageCounts": {
+        "landscape": 19,
+        "portrait": 10
+      },
+      "sha256": {
+        "landscape": "7e9542d91065fb7b1eb3b53d9fd935a9da0ff17a88832229908c87195a86ee00",
+        "portrait": "33f55b22b7edcc8d94e2495b32b0982d07c9c7cf633e95aed1b3e3e5225cd8f7",
+        "text": "614a98834bfb129c8b88182362607410614deceef5456ddba8bb65dd06b8172c"
+      },
+      "byteSizes": {
+        "landscape": 4321682,
+        "portrait": 4293046,
+        "text": 5710
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "2-25",
+      "level": "L2",
+      "title": "Monkey Tricks",
+      "bookPath": "L2/Monkey Tricks.pdf",
+      "audioPath": "L2/Monkey Tricks.mp3",
+      "textPath": "Companions/L2/Monkey Tricks/companion.md",
+      "landscapePath": "Companions/L2/Monkey Tricks/landscape.pdf",
+      "portraitPath": "Companions/L2/Monkey Tricks/portrait.pdf",
+      "pageCounts": {
+        "landscape": 19,
+        "portrait": 10
+      },
+      "sha256": {
+        "landscape": "df0b4363da46122d4403a21ba3312a40890ae7e525d77658580e230b701df6e8",
+        "portrait": "22ebe25456b92025cf808389376754f0cb2e2ea7a3cbea08dbe50d4fd32185ef",
+        "text": "07ed6cc9f48b694a164ff4e4de754c6be6e74962bf9aa0560e7ab4d35f35b3e8"
+      },
+      "byteSizes": {
+        "landscape": 3907386,
+        "portrait": 3877691,
+        "text": 6766
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "2-26",
+      "level": "L2",
+      "title": "Hey Presto",
+      "bookPath": "L2/Hey Presto.pdf",
+      "audioPath": "L2/Hey Presto.mp3",
+      "textPath": "Companions/L2/Hey Presto/companion.md",
+      "landscapePath": "Companions/L2/Hey Presto/landscape.pdf",
+      "portraitPath": "Companions/L2/Hey Presto/portrait.pdf",
+      "pageCounts": {
+        "landscape": 19,
+        "portrait": 10
+      },
+      "sha256": {
+        "landscape": "84934b3b3a50300549edf706bfa3bb151804e4343e632edb3874bce8f20db144",
+        "portrait": "f865768bb098a1c1171d2229d478acc03f568512f904c929e78d0acb7d8359e8",
+        "text": "5e11bbf2cd97bea39dc8663e579540f5e6a67d742d6e6df75de3dd191b955cde"
+      },
+      "byteSizes": {
+        "landscape": 3059168,
+        "portrait": 2990354,
+        "text": 7464
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "2-27",
+      "level": "L2",
+      "title": "It's The Weather",
+      "bookPath": "L2/It's The Weather.pdf",
+      "audioPath": "L2/It's The Weather.mp3",
+      "textPath": "Companions/L2/It's The Weather/companion.md",
+      "landscapePath": "Companions/L2/It's The Weather/landscape.pdf",
+      "portraitPath": "Companions/L2/It's The Weather/portrait.pdf",
+      "pageCounts": {
+        "landscape": 21,
+        "portrait": 10
+      },
+      "sha256": {
+        "landscape": "cf130e320fda2a32692a4fb90d93a59a6944670463408a09101ffe884290ae45",
+        "portrait": "2fad8014327f3fdb3e183eb988ea624a572f4b827a7d4f69b358932e86be962c",
+        "text": "37aed81ddfe3ff6bf3908fd1a003495142593482d6d082f9a390c699586b11f4"
+      },
+      "byteSizes": {
+        "landscape": 3855558,
+        "portrait": 3786722,
+        "text": 7374
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "2-28",
+      "level": "L2",
+      "title": "Naughty Children",
+      "bookPath": "L2/Naughty Children.pdf",
+      "audioPath": "L2/Naughty Children.mp3",
+      "textPath": "Companions/L2/Naughty Children/companion.md",
+      "landscapePath": "Companions/L2/Naughty Children/landscape.pdf",
+      "portraitPath": "Companions/L2/Naughty Children/portrait.pdf",
+      "pageCounts": {
+        "landscape": 19,
+        "portrait": 10
+      },
+      "sha256": {
+        "landscape": "8d7539fe58a35b4559e72a032a06dae78ca9e1b6d89e02d8d493713b05276fc8",
+        "portrait": "3fc163008cef1b3025eb050493a2e77de27198cc0da6d45d2be470801b39057f",
+        "text": "f8630292448aabdfc7dbed2b08a5b21f0cf503a8768819c2cbde41f98499640e"
+      },
+      "byteSizes": {
+        "landscape": 3935739,
+        "portrait": 3905138,
+        "text": 6719
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "2-29",
+      "level": "L2",
+      "title": "A Sinking Feeling",
+      "bookPath": "L2/A Sinking Feeling.pdf",
+      "audioPath": "L2/A Sinking Feeling.mp3",
+      "textPath": "Companions/L2/A Sinking Feeling/companion.md",
+      "landscapePath": "Companions/L2/A Sinking Feeling/landscape.pdf",
+      "portraitPath": "Companions/L2/A Sinking Feeling/portrait.pdf",
+      "pageCounts": {
+        "landscape": 21,
+        "portrait": 11
+      },
+      "sha256": {
+        "landscape": "9c58fda3a011b6016ba1040ac5da0f5237def51092e131b33491af67cd4d04fa",
+        "portrait": "d62568a8694b80953b0f95261a36bd19d044e19693444090fec8cc34691649ac",
+        "text": "342e32511a296df42fa6267c135043f7fd4fd593fd945729850402aed6e9ad5e"
+      },
+      "byteSizes": {
+        "landscape": 3333609,
+        "portrait": 3301774,
+        "text": 5877
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "2-30",
+      "level": "L2",
+      "title": "Creepy Crawly",
+      "bookPath": "L2/Creepy Crawly.pdf",
+      "audioPath": "L2/Creepy Crawly.mp3",
+      "textPath": "Companions/L2/Creepy Crawly/companion.md",
+      "landscapePath": "Companions/L2/Creepy Crawly/landscape.pdf",
+      "portraitPath": "Companions/L2/Creepy Crawly/portrait.pdf",
+      "pageCounts": {
+        "landscape": 19,
+        "portrait": 10
+      },
+      "sha256": {
+        "landscape": "50d1b02785dc8ccc194ad4d2290a75c50fcf1d6c83088f12260c4ad41ea31877",
+        "portrait": "10e3c5b5e3c590d7c0167bfaa4ca65f410a8759343b9d6a777082c12a958f97b",
+        "text": "9ad197d977afa2fa5451a0b6218d75b7d1002e5d08b1412b236c946357fa77cc"
+      },
+      "byteSizes": {
+        "landscape": 3194113,
+        "portrait": 3163332,
+        "text": 6757
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "2-31",
+      "level": "L2",
+      "title": "What Is It",
+      "bookPath": "L2/What Is It.pdf",
+      "audioPath": "L2/What Is It.mp3",
+      "textPath": "Companions/L2/What Is It/companion.md",
+      "landscapePath": "Companions/L2/What Is It/landscape.pdf",
+      "portraitPath": "Companions/L2/What Is It/portrait.pdf",
+      "pageCounts": {
+        "landscape": 12,
+        "portrait": 6
+      },
+      "sha256": {
+        "landscape": "952a68ef900f0f3d0c018df8eacd2111b29640416ca4741efb66176d78ea4909",
+        "portrait": "830f05a7045dd317e48e1a7282728a722d6646bfa8a47563b4cca36e341975da",
+        "text": "e95d6b98b75af2ac9df7b1cd5c757a4ddd6be59244eb539aa9ff94a7b175462f"
+      },
+      "byteSizes": {
+        "landscape": 3436654,
+        "portrait": 3417543,
+        "text": 4040
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "2-32",
+      "level": "L2",
+      "title": "The Lost Puppy",
+      "bookPath": "L2/The Lost Puppy.pdf",
+      "audioPath": "L2/The Lost Puppy.mp3",
+      "textPath": "Companions/L2/The Lost Puppy/companion.md",
+      "landscapePath": "Companions/L2/The Lost Puppy/landscape.pdf",
+      "portraitPath": "Companions/L2/The Lost Puppy/portrait.pdf",
+      "pageCounts": {
+        "landscape": 21,
+        "portrait": 11
+      },
+      "sha256": {
+        "landscape": "ed563ee4a38773a5a963cf5829db0c6bc09f34b4877d0671a53aa0e4ef4c0b82",
+        "portrait": "7d6bc36df0878bedd7277328e93b7f163898355d7edda07d9741ddd72503ce9b",
+        "text": "d9e8f4e7b98575f5a089fc3aa6cea72ab3fbb9ef8ff692adda81b4a29eeededd"
+      },
+      "byteSizes": {
+        "landscape": 3827686,
+        "portrait": 3794470,
+        "text": 6693
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "2-33",
+      "level": "L2",
+      "title": "New Trees",
+      "bookPath": "L2/New Trees.pdf",
+      "audioPath": "L2/New Trees.mp3",
+      "textPath": "Companions/L2/New Trees/companion.md",
+      "landscapePath": "Companions/L2/New Trees/landscape.pdf",
+      "portraitPath": "Companions/L2/New Trees/portrait.pdf",
+      "pageCounts": {
+        "landscape": 21,
+        "portrait": 10
+      },
+      "sha256": {
+        "landscape": "a776a6f12e92bc9e2bf8287d442f9744362f4a9351c021cef31f34e828ab363a",
+        "portrait": "bcf1e245298bc30f614fbe287dc0b7e10573691df54fd22f4638ca6f10a37759",
+        "text": "372caa2363702f4f07eed5b2d11e13bebd72a63c8c47a25525b1f9f033f8d5a6"
+      },
+      "byteSizes": {
+        "landscape": 3975873,
+        "portrait": 3883767,
+        "text": 7749
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "2-34",
+      "level": "L2",
+      "title": "Up And Down",
+      "bookPath": "L2/Up And Down.pdf",
+      "audioPath": "L2/Up And Down.mp3",
+      "textPath": "Companions/L2/Up And Down/companion.md",
+      "landscapePath": "Companions/L2/Up And Down/landscape.pdf",
+      "portraitPath": "Companions/L2/Up And Down/portrait.pdf",
+      "pageCounts": {
+        "landscape": 20,
+        "portrait": 10
+      },
+      "sha256": {
+        "landscape": "7cc36ae646a7429ef39f95e05886bf6b1cfa6dd223949fb757adbc2601d2caaf",
+        "portrait": "1c6b82aa2bb9b2f2822441af01c64b8f18f71827f75483b11974ea4b3831a75e",
+        "text": "f94bafda61293f6fe40ffde396a991ab7b0d5f535d988b6e891b58cc08c2e17b"
+      },
+      "byteSizes": {
+        "landscape": 3424793,
+        "portrait": 3357602,
+        "text": 6133
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "2-35",
+      "level": "L2",
+      "title": "The Little Dragon",
+      "bookPath": "L2/The Little Dragon.pdf",
+      "audioPath": "L2/The Little Dragon.mp3",
+      "textPath": "Companions/L2/The Little Dragon/companion.md",
+      "landscapePath": "Companions/L2/The Little Dragon/landscape.pdf",
+      "portraitPath": "Companions/L2/The Little Dragon/portrait.pdf",
+      "pageCounts": {
+        "landscape": 19,
+        "portrait": 10
+      },
+      "sha256": {
+        "landscape": "3bb9f126a28bc18b2201374db53b7f4af15f7a3c2d44d86800b944bdd5aebeb0",
+        "portrait": "a11a03947ac7831b0429774e201b76250094d0f49164c52a166a26bb74014249",
+        "text": "324bcee59c82c946049f15725071f32a0e6faf8b05c5159a0e5850f7c9df7ff6"
+      },
+      "byteSizes": {
+        "landscape": 3186875,
+        "portrait": 3156609,
+        "text": 7281
+      },
+      "versionDate": "2026-09-09"
+    },
+    {
+      "id": "2-36",
+      "level": "L2",
+      "title": "The Band",
+      "bookPath": "L2/The Band.pdf",
+      "audioPath": "L2/The Band.mp3",
+      "textPath": "Companions/L2/The Band/companion.md",
+      "landscapePath": "Companions/L2/The Band/landscape.pdf",
+      "portraitPath": "Companions/L2/The Band/portrait.pdf",
+      "pageCounts": {
+        "landscape": 21,
+        "portrait": 10
+      },
+      "sha256": {
+        "landscape": "857de589d45e14126cb851548752c6ecfd12df961559d11bf9831fac8d0830e5",
+        "portrait": "0b9193d3d25963443b3cb1a95c87711fdaae77d2c5f122e9101c7de8680d4bfb",
+        "text": "368ca67aaff803a2805258a3f6b122c98996f9184e04b30bdf1154e91e90f241"
+      },
+      "byteSizes": {
+        "landscape": 3853935,
+        "portrait": 3772385,
+        "text": 7224
+      },
+      "versionDate": "2026-09-09"
+    }
+  ]
+}
