@@ -2,9 +2,9 @@
 
 ## 先进入故事：有人藏，有人找
 
-封面（原PDF第1页）；参考视频 00:15—00:28
+封面（原PDF第1页）；00:15—00:28
 
-**原书原句**
+**原句**
 
 Hide and Seek
 
@@ -12,23 +12,17 @@ Hide and Seek
 
 朗读：书名自然读一遍；说到躲藏时略轻，说到寻找时看向远处男孩。
 
-**伴读旁白**
-
 Look at Biff. She's hiding.
 
 看Biff，她藏起来了。
 
 指图：指近处门边、戴蝴蝶结的女孩。
 
-**伴读旁白**
-
 Wilf is looking for her.
 
 Wilf在找她。
 
 指图：再指远处穿橙色衣服的男孩。
-
-**伴读旁白**
 
 Let's see where everyone is hiding.
 
@@ -40,9 +34,9 @@ Let's see where everyone is hiding.
 
 ## 先看藏身处，留一点悬念
 
-正文第1页（原PDF第3页）；参考视频 00:42—02:28
+正文第1页（原PDF第3页）；00:42—02:28
 
-**原书原句**
+**原句**
 
 Can you see us?
 
@@ -50,15 +44,11 @@ Can you see us?
 
 朗读：像藏起来的人轻轻问Wilf，句尾稍上扬；不是要求宝宝立刻回答。
 
-**伴读旁白**
-
 Wilf isn't looking. The others are hiding.
 
 Wilf还没看，其他人都藏起来了。
 
 指图：先指面向围栏的Wilf。
-
-**伴读旁白**
 
 Someone's hiding under the wheelbarrow.
 
@@ -66,15 +56,11 @@ Someone's hiding under the wheelbarrow.
 
 指图：指车下面露出的脸；留一点时间看。
 
-**伴读旁白**
-
 Someone's hiding in the shed.
 
 有人藏在小屋里。
 
 指图：指窗边盆栽后面的人。
-
-**伴读旁白**
 
 And someone's up in the tree!
 
@@ -88,10 +74,9 @@ And someone's up in the tree!
 
 ## 露出的线索 · 先找到Chip
 
-正文第2、3页（原PDF第4、5页）；参考视频 01:30—01:43；02:26—02:43
-参考视频 02:26—02:55
+正文第2、3页（原PDF第4、5页）；01:30—02:55
 
-**原书原句**
+**原句**
 
 Can you see me?
 
@@ -99,15 +84,11 @@ Can you see me?
 
 朗读：轻声、带期待，读完短暂停一下就看右页；这句和右页的回答是一组。
 
-**伴读旁白**
-
 Look! Some yellow hair!
 
 看！露出一点黄头发！
 
 指图：在读原句前或后，轻点箱口的头发。
-
-**伴读旁白**
 
 Someone's in the box.
 
@@ -115,7 +96,7 @@ Someone's in the box.
 
 指图：只指出藏身处，不打开或遮挡画面。
 
-**原书原句**
+**原句**
 
 Yes, I can see you.
 
@@ -123,23 +104,17 @@ Yes, I can see you.
 
 朗读：替Wilf回答，Yes后稍停，后半句带发现同伴的笑意。
 
-**伴读旁白**
-
 It's Chip! He's under the wheelbarrow.
 
 是Chip！他在手推车下面。
 
 指图：从抬起来的车斗指到绿衣男孩的脸。
 
-**伴读旁白**
-
 Wilf found Chip!
 
 Wilf找到Chip啦！
 
 指图：指两个人，一起看他们的表情。
-
-**伴读旁白**
 
 Who's next?
 
@@ -154,10 +129,9 @@ Chip被找到后加入寻找；后面不再只有Wilf一个人在找，原文的
 
 ## 继续找 · 发现小屋里的Biff
 
-正文第4、5页（原PDF第6、7页）；参考视频 02:49—03:09；箱子变化依据原PDF
-参考视频 02:49—03:09
+正文第4、5页（原PDF第6、7页）；02:49—03:09
 
-**原书原句**
+**原句**
 
 Can you see me?
 
@@ -165,15 +139,11 @@ Can you see me?
 
 朗读：继续用熟悉的轻声问句，不必每页换一种夸张声音。
 
-**伴读旁白**
-
 Look at the box again.
 
 再看看这个箱子。
 
 指图：先看箱口，再移向接缝。
-
-**伴读旁白**
 
 We can see some hair—and two hands!
 
@@ -181,7 +151,7 @@ We can see some hair—and two hands!
 
 指图：说到hands时才点小手，让变化落在画面上。
 
-**原书原句**
+**原句**
 
 Yes, we can see you.
 
@@ -189,23 +159,17 @@ Yes, we can see you.
 
 朗读：读we时指两个男孩，读you时指窗里的女孩，语气轻快。
 
-**伴读旁白**
-
 There's Biff! She's in the shed.
 
 Biff在这里！她在小屋里。
 
 指图：指窗里举着手的Biff。
 
-**伴读旁白**
-
 Wilf and Chip can both see her.
 
 Wilf和Chip都看见她了。
 
 指图：依次点窗外的两个男孩。
-
-**伴读旁白**
 
 Now, who else is hiding?
 
@@ -220,10 +184,9 @@ Now, who else is hiding?
 
 ## Kipper藏不住了 · 爸爸还在树上
 
-正文第6、7页（原PDF第8、9页）；参考视频 03:10—03:25；箱子变化依据原PDF
-参考视频 03:14—03:35
+正文第6、7页（原PDF第8、9页）；03:10—03:35
 
-**原书原句**
+**原句**
 
 Can you see me?
 
@@ -231,15 +194,11 @@ Can you see me?
 
 朗读：像Kipper带着笑在问：人都露出来了，还问看不看得到。先给宝宝看图，再读也可以。
 
-**伴读旁白**
-
 Oh! The box has opened up!
 
 哎呀！箱子散开啦！
 
 指图：指向摊开的纸箱边。
-
-**伴读旁白**
 
 There's Kipper! We can see all of him.
 
@@ -247,7 +206,7 @@ There's Kipper! We can see all of him.
 
 指图：从露出的头看到伸开的手脚。
 
-**原书原句**
+**原句**
 
 Yes, we can see you.
 
@@ -255,15 +214,11 @@ Yes, we can see you.
 
 朗读：像其他孩子在回答刚才的Kipper，带着笑读；不要一看到爸爸就换了对话对象。
 
-**伴读旁白**
-
 Kipper was in the box. We found him!
 
 Kipper刚才藏在箱子里，我们找到他啦！
 
 指图：先接完箱子这一条线，必要时轻指左页。
-
-**伴读旁白**
 
 But look up here—Dad's in the tree!
 
@@ -278,9 +233,9 @@ But look up here—Dad's in the tree!
 
 ## 爸爸藏在树上，却在车里被看见
 
-正文第8页（原PDF第10页）；参考视频 03:29—03:58
+正文第8页（原PDF第10页）；03:29—03:58
 
-**原书原句**
+**原句**
 
 We can all see Dad.
 
@@ -288,23 +243,17 @@ We can all see Dad.
 
 朗读：all稍强调；说到Dad时指爸爸，带笑意落句。先让宝宝看见结局。
 
-**伴读旁白**
-
 Dad's in the wheelbarrow now!
 
 爸爸现在在手推车里啦！
 
 指图：指车斗里的爸爸。
 
-**伴读旁白**
-
 He was up in the tree. Now he's down here.
 
 他刚才还在树上，现在到这里来啦。
 
 指图：指树枝，再指车斗；或回看前一页。
-
-**伴读旁白**
 
 Everyone can see him!
 
@@ -318,13 +267,11 @@ Everyone can see him!
 
 ## 再看一眼：把人和藏身处连起来
 
-正文第1页（原PDF第3页）；04:24—06:09；按23月龄降低输出要求
+正文第1页（原PDF第3页）；04:24—06:09
 
-**视频画面提示**
+**提示**
 
 这页不是必读。宝宝读完还想看，才回到花园全景，顺着他指的人物选一句；不要求说完整句，也不逐项问完。
-
-**伴读旁白**
 
 Chip was under the wheelbarrow.
 
@@ -332,23 +279,17 @@ Chip刚才藏在手推车下面。
 
 指图：指车下露出的脸。
 
-**伴读旁白**
-
 Biff was in the shed.
 
 Biff刚才藏在小屋里。
 
 指图：指窗边。
 
-**伴读旁白**
-
 Kipper was in the box.
 
 Kipper刚才藏在箱子里。
 
 指图：指纸箱。
-
-**伴读旁白**
 
 Dad was in the tree.
 

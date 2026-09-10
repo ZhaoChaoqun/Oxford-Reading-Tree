@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "versionDate": "2026-09-09",
+  "versionDate": "2026-09-10",
   "pathBase": "repository-root",
   "formats": {
     "landscape": {
@@ -8,7 +8,11 @@
       "orientation": "landscape",
       "marginMm": 7,
       "fullPhysicalOpenings": true,
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10",
+      "simpleLayout": true,
+      "spokenEnglishPt": 12,
+      "spokenChinesePt": 10.2,
+      "timeReferences": "section-ranges-only"
     },
     "portrait": {
       "paper": "A4",
@@ -31,10 +35,10 @@
     },
     "pdfFiles": 144,
     "markdownFiles": 72,
-    "landscapePages": 1109,
+    "landscapePages": 1080,
     "portraitPages": 568,
-    "pdfBytes": 478551844,
-    "markdownBytes": 425108
+    "pdfBytes": 474806140,
+    "markdownBytes": 307783
   },
   "books": [
     {
@@ -51,16 +55,16 @@
         "portrait": 4
       },
       "sha256": {
-        "landscape": "73a8ad607f0767a1e4ee68f3c343026f7b0af523ef8223cc6667d4870e9b3fc8",
+        "landscape": "ffa53a3c9f2b54df3dad80f04e444742942e02e178cffb2a1f2ed5d883091489",
         "portrait": "401a64dd538945062fb121a1d82a0ca2e8477dad370c632c6932c38c44598198",
-        "text": "18906124b69f57b644a4b1d392c27af44e60328f5c443dd8daa4d3e0c5861bfb"
+        "text": "1a9d83e65924bc4724b03428112317d02e713ff9a328da5708e456f8f4b73a55"
       },
       "byteSizes": {
-        "landscape": 2806775,
+        "landscape": 2671701,
         "portrait": 2464696,
-        "text": 8627
+        "text": 7796
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "1-26",
@@ -76,16 +80,16 @@
         "portrait": 4
       },
       "sha256": {
-        "landscape": "6a31a26402b7eae9c7c60d746119cec3152d0f698bcb56dab61466969b27e827",
+        "landscape": "683e49c3c409de0fe674a11a6abddf686a1562fb3daf2a704736ff0acb6ca6c7",
         "portrait": "f00067c453054e9c72eeacb821ab469bc52dda117468bafe651c3c485146882e",
-        "text": "abad7346a379d3d03e97aa5b24d8d321d77a35fb7209b5ca4ce135a10eefe781"
+        "text": "be71208e0b838503487feac827d670f69b35dba28481ee058cacf8fbcaae2b88"
       },
       "byteSizes": {
-        "landscape": 2285141,
+        "landscape": 2258985,
         "portrait": 2238894,
-        "text": 2919
+        "text": 1958
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "1-27",
@@ -101,16 +105,16 @@
         "portrait": 6
       },
       "sha256": {
-        "landscape": "8c9349c923037ba179fa59ccbbb220bc4e9e5216745d2ab798b094932f50f8ef",
+        "landscape": "214f39251828878482f3f8bf0fb235b85130a25aabf7416a98b994042b562fc0",
         "portrait": "d7e66dfdff59c0f9f0854863ac6626c5887f8686dcc5523e9d59658fcc5479c2",
-        "text": "bbf8bffa3377d43f1e0b2392408e1b99aa184d7b99dca9c0e3b7212edb7fef76"
+        "text": "1679f1cbd249d0f7b9e6e32c715a742facd1dc3a7806d4307a82569ac617654f"
       },
       "byteSizes": {
-        "landscape": 2465854,
+        "landscape": 2338371,
         "portrait": 2288060,
-        "text": 6152
+        "text": 4910
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "1-28",
@@ -126,16 +130,16 @@
         "portrait": 6
       },
       "sha256": {
-        "landscape": "7ebecaaa37685f4a09bb7998ca6ed9a7d83d4e7276a26bf581978a031aafde93",
+        "landscape": "355965aec2ff045f6ff109fd3e806a3327c19bc1ce2950a4081e3c0a962eed16",
         "portrait": "7857b3d646e879be192a78989a22cb3fbfc3a823b7173843d39a42a19ba3accf",
-        "text": "5199a56c9b2506fba1ec1ce0073c47574405a489190dc61a8c72242997b89f76"
+        "text": "08cf97a0142fb73cc83274b47d4a17de651bc4472a947cdbe43eba583b25c703"
       },
       "byteSizes": {
-        "landscape": 2294747,
+        "landscape": 2279060,
         "portrait": 2270834,
-        "text": 4048
+        "text": 2800
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "1-29",
@@ -151,16 +155,16 @@
         "portrait": 3
       },
       "sha256": {
-        "landscape": "19ea17be71cabdb0108af6fdb2bbd0c2dcbe38a6b01cc327ddf7f043c6e97efa",
+        "landscape": "206b039ce74977e506d93e14919e37e8a5ec7c178497718b42f395f5430c2f38",
         "portrait": "7d4e3161fb0c687b49d603d92f960024a924b18dbf2570832034da56be5431f3",
-        "text": "d8418b37b425a5101300fdf827440ddae0f102ad945164fcd67e8ac08ff865e3"
+        "text": "8eb2a750f72224526301324995327148ad2b8561ee2bdf0054929a22819afa9b"
       },
       "byteSizes": {
-        "landscape": 2094326,
+        "landscape": 2064099,
         "portrait": 2029222,
-        "text": 2735
+        "text": 2573
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "1-30",
@@ -172,20 +176,20 @@
       "landscapePath": "Companions/L1/Kipper's Diary/landscape.pdf",
       "portraitPath": "Companions/L1/Kipper's Diary/portrait.pdf",
       "pageCounts": {
-        "landscape": 10,
+        "landscape": 8,
         "portrait": 4
       },
       "sha256": {
-        "landscape": "dc79037cd9bc108b386a400e2633c94d6f2c0b89efe61524129fd7daeb51e48b",
+        "landscape": "cf47f80f1d8bc11e256c0a711be6f25eb312f87323cf428e14986eca20a12923",
         "portrait": "f07e24c57b08629eedbf6384ce15aa0f2408db6cf8debd1a51c7dc365b85aa50",
-        "text": "dd961f8ce6d41a2abaa0b05a71f6fe95894db2059de07716036698a76373766f"
+        "text": "caa00ba7c012515b559d8fb064eab8a6a51a819103cd20abcd6cbbfefa102bea"
       },
       "byteSizes": {
-        "landscape": 1907638,
+        "landscape": 1832571,
         "portrait": 1799783,
-        "text": 5706
+        "text": 3825
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "1-31",
@@ -197,20 +201,20 @@
       "landscapePath": "Companions/L1/What Dogs Like/landscape.pdf",
       "portraitPath": "Companions/L1/What Dogs Like/portrait.pdf",
       "pageCounts": {
-        "landscape": 18,
+        "landscape": 13,
         "portrait": 8
       },
       "sha256": {
-        "landscape": "ee5e4f5c82346ecb544ddf6d2b847e6745b3cf368196d06da10ed7bd81e0c231",
+        "landscape": "c364ed2b16d08a05a6807ad5ad1446bcd91c17ffccd774ce889519f1d4670f3c",
         "portrait": "6c31f9303491c647b1bdfff950856870c77cd735734f33f6c13cff9e7cea60da",
-        "text": "a172a4bcd50f0d473f46e3dd377007080af65b0b882774cf67fe539af0ac6097"
+        "text": "1b626a89f75863e896788187eb980706896cdcc8fd0a3c76d3eeee4579797aca"
       },
       "byteSizes": {
-        "landscape": 2450188,
+        "landscape": 2357662,
         "portrait": 2348133,
-        "text": 7260
+        "text": 4809
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "1-32",
@@ -226,16 +230,16 @@
         "portrait": 5
       },
       "sha256": {
-        "landscape": "2a8b0629806fc0e45318911bc18a59802937d4636d9c7cfe9bf275001cc3d272",
+        "landscape": "419ce89301a551a84d4d577c50c6449338a7543614648089c1d51de1e4af5b7f",
         "portrait": "d986af3385d1c9cf1df41eaf964178e4edab26c617804dffa3f635c4622287ea",
-        "text": "47ed12812de47430915cd709a407acaeb506dae876f0c568626fd155dec7f840"
+        "text": "a368182472d9394228f684ce117e1f4135cc7b709360f796f0bb199154647480"
       },
       "byteSizes": {
-        "landscape": 2602476,
+        "landscape": 2498859,
         "portrait": 2469112,
-        "text": 5402
+        "text": 4286
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "1-33",
@@ -251,16 +255,16 @@
         "portrait": 6
       },
       "sha256": {
-        "landscape": "7f80ac1c4888ec9239413d0d9ea3a010ffe9226cc77f0afd67790e04f7dd5f36",
+        "landscape": "8a0500749221017718807408559a2f0af878205f18506800b4288ef490f4d604",
         "portrait": "8f6e9a360c62f436eaa7780c446986df162f7d593308b3a857f38653b19b2a1a",
-        "text": "17da9ae3caffac00e9aa13076581dea6a2805bd2e4fd4f07d1714d463028d3c7"
+        "text": "fac25fa80a2f1ba34c1cfb49a71280abf1aea130cb05ee0b16a518149e04ef88"
       },
       "byteSizes": {
-        "landscape": 2905903,
+        "landscape": 2841465,
         "portrait": 2832209,
-        "text": 4991
+        "text": 3311
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "1-34",
@@ -276,16 +280,16 @@
         "portrait": 5
       },
       "sha256": {
-        "landscape": "eef30ccafd38bc8cef49668543e5ee11ece1d0a0aa715c0c24b30cd75a56d6f2",
+        "landscape": "5d6fb023303107f98c90fd9a5d1621c5883e65e8329ed59cc723d6c6540d8ca7",
         "portrait": "de9683acd7094e9e1e56e1f46d5d40f7caf25613fdee895f4e6d7b47c904912d",
-        "text": "65ad9593b6585e88b785ba844c7903d513264c10ec1c455ced4a02502a8eedb1"
+        "text": "0fb7b63a349dbf5e698a175e72b03524c2a877c090521c544928c0aaaced68e6"
       },
       "byteSizes": {
-        "landscape": 2579403,
+        "landscape": 2449731,
         "portrait": 2402113,
-        "text": 5437
+        "text": 4283
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "1-35",
@@ -301,16 +305,16 @@
         "portrait": 4
       },
       "sha256": {
-        "landscape": "c06177f4b8e9349066bd35bff6f47da1aee39a7d89336206d5d781bfe0dadf1a",
+        "landscape": "585f500fb54ec8bb3e12fc99da03ea5fd37ac99a7496f242b5e7b0754265de91",
         "portrait": "0eb9391f6fcbd595f943249e6e677d426479533d9e03464b424c340c397dfc0a",
-        "text": "d383a83f807ec6d48a62d1cdefbc28b55290c97aff0a1c6d777d67aafdff6808"
+        "text": "595b3b0ce9747e8f0f96930f5d7785ab36fd7383a4de16e1be6d5076dee33e7f"
       },
       "byteSizes": {
-        "landscape": 3111712,
+        "landscape": 2982720,
         "portrait": 2977320,
-        "text": 5555
+        "text": 4139
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "1-36",
@@ -326,16 +330,16 @@
         "portrait": 4
       },
       "sha256": {
-        "landscape": "6a992de2b98dc136a01069259cfcc64c219f4b60e1bf29e8ac4389334abc5949",
+        "landscape": "2ae723172187ae1dbe5e8e4de89e9fb6f73e369229d93b769f346207ee257af1",
         "portrait": "e4e3703a7ca880f256198802ed177c419a3d458762a1f1ed00e493c5efdb65b8",
-        "text": "24e13b2219a43d5d466d8d3a17b991b4d6d37228afcfeb140e79b1064b5ccdfd"
+        "text": "6eced7331450310c0500f145f1460534801421662a8e2b37769195fc16135846"
       },
       "byteSizes": {
-        "landscape": 2377168,
+        "landscape": 2305307,
         "portrait": 2284990,
-        "text": 3535
+        "text": 2304
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "1-37",
@@ -347,20 +351,20 @@
       "landscapePath": "Companions/L1/The Sand Castle/landscape.pdf",
       "portraitPath": "Companions/L1/The Sand Castle/portrait.pdf",
       "pageCounts": {
-        "landscape": 11,
+        "landscape": 10,
         "portrait": 5
       },
       "sha256": {
-        "landscape": "c984fe5c99db21a018a75cf5c8a759c77a1dc084637b0e473aadb254f52bad54",
+        "landscape": "fa3a4a4a73d7698369086ed1fc4f2e4a71ca5c579e49ed669669472f03284e39",
         "portrait": "9c9f06a27cb5c151c8ad664d4885c57f84883f13c062fea5884b7f560feb52b4",
-        "text": "daff63f198d238bb877214a92847f197b953393fd64e05cc8096b1de9e24510b"
+        "text": "0b5238be4cd6b7b80c476b8ddc7f25f4d8c525a7a3c8d57447ab3d38d66bb362"
       },
       "byteSizes": {
-        "landscape": 3606098,
+        "landscape": 3471173,
         "portrait": 3432025,
-        "text": 7004
+        "text": 5428
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "1-38",
@@ -376,16 +380,16 @@
         "portrait": 6
       },
       "sha256": {
-        "landscape": "5e71ed6dfad551ce725602643ee78cc86072a9709fee4d85d10b9f6f9aa7475d",
+        "landscape": "09dd494b398a200dcb5c771654127bc81e11621a7133cb68d5a814999d72ba4e",
         "portrait": "d7593e55763a869dc087f6a83bccd83f386522c5b699fa5ea81c6b78472fb987",
-        "text": "ef7c049b6ac1b6ddc8253f5e6c0197029d49f7af806188646af14c2b2c27f923"
+        "text": "67c685baf12765d8dea21c517733d0856de750dcc5efbdb90e7b29560cfd63e1"
       },
       "byteSizes": {
-        "landscape": 3984825,
+        "landscape": 3948800,
         "portrait": 3907349,
-        "text": 5888
+        "text": 4696
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "1-39",
@@ -401,16 +405,16 @@
         "portrait": 8
       },
       "sha256": {
-        "landscape": "c074339b966ff85d2da31ebeed04de038462e93847334217bea8a216131bb38d",
+        "landscape": "8bb5f09491afb1413b82d5e4541b415ccaf523aeb88974e583e97be6abfc51e3",
         "portrait": "8c80eaaaf7814acc6d5b683248223182c4ac6912103b6e50a290407f6e3e935d",
-        "text": "0969ae51af5b52ca5ac8ae5cc7bf887cf78975d0cee5b1a355a44ed1afa49ec1"
+        "text": "aa78ff3a5923f5320cb497359b73256b756fe4715db6025450c008a7ea8decfb"
       },
       "byteSizes": {
-        "landscape": 2865027,
+        "landscape": 2848163,
         "portrait": 2835045,
-        "text": 5975
+        "text": 4079
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "1-40",
@@ -426,16 +430,16 @@
         "portrait": 8
       },
       "sha256": {
-        "landscape": "be9da9c88654f13ad80aad4627b8d0c58d01bfb12d16faf5c16ea60b53de92bc",
+        "landscape": "e34c6708d9494395a1dfa6a9a5f93eb46f7f06e1d64d24a9fce83c078822181c",
         "portrait": "68d8fba67b989a1f8c2af74f328215c7c06d45d0de11f711aeb887df480e8bf6",
-        "text": "1cad07f1a73ad7b21ce919eb5bd505fa84be5d5f62d2c9c7beae575a234d57b7"
+        "text": "441fe691cb1018ba68b2d3aab81be00ceb4fc10c0d14c9a64886323c4095241e"
       },
       "byteSizes": {
-        "landscape": 3568246,
+        "landscape": 3541947,
         "portrait": 3527293,
-        "text": 5366
+        "text": 3614
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "1-41",
@@ -451,16 +455,16 @@
         "portrait": 7
       },
       "sha256": {
-        "landscape": "4d1cf5563620c2509df4227e68d1c35aadf0496679188db3ba6bee48e1b9ab84",
+        "landscape": "1eb257df8540efc7a1eca11a0274d7d05408dab44b40863f1dbeadda54b606a7",
         "portrait": "e76f3d1aca9a6f7250ac5ac285dc5a77c260389b8d6f0060472e1de9518a6575",
-        "text": "2fbb13738e8d8168491d909dde59668f65a09805f76d12081dcf4af67ccfb6eb"
+        "text": "6caab8ee804eba282326b53fa38bfbc18c267ee5d281a5a17fd3b4ae0afe22b8"
       },
       "byteSizes": {
-        "landscape": 2749307,
+        "landscape": 2683990,
         "portrait": 2631336,
-        "text": 5682
+        "text": 4758
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "1-42",
@@ -476,16 +480,16 @@
         "portrait": 8
       },
       "sha256": {
-        "landscape": "bd5afde261b76e147c83e4460c282c33c2c109b5d18eda13fa8fba5fe2d8b5ef",
+        "landscape": "24a5f11260e3485eb5aaa0486a426aca1b37fb1aeeb14dfc8082a606f589cbf5",
         "portrait": "587bc0ce088c9e5578ffbba3828fb242dce9792d1a37596b0dbb676d76aedcae",
-        "text": "1dcd1e10c67c10121be04f402dc9b6c928641a7d426ac415ffa73a92c4fa617f"
+        "text": "06d88797f7c01a3f98a83ba2165af85cf96817432a6dc0339c27bb0cf6fc073c"
       },
       "byteSizes": {
-        "landscape": 3383661,
+        "landscape": 3366914,
         "portrait": 3355726,
-        "text": 6103
+        "text": 4015
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "1-43",
@@ -501,16 +505,16 @@
         "portrait": 6
       },
       "sha256": {
-        "landscape": "8ee7805dbb8091d1e02e9ab23013378ad27fbf144aa124198bf7a8a6ebccc5ed",
+        "landscape": "e3fd69813fef9f5e26207006c048508daca67eaa531df40561d2ab58ea7711e1",
         "portrait": "8cb223672f7be7336d93009eb91cf182db041627938af565b97a962709d57c96",
-        "text": "594fc47e3ab668a98c6fc5806d8cd5b665909f49c90e3bd08aa9ace13030c953"
+        "text": "caaf65e436e51bf15ec9379eda7e32906036a6b2c672745d3a917d7d44fc02c4"
       },
       "byteSizes": {
-        "landscape": 2561296,
+        "landscape": 2494908,
         "portrait": 2483788,
-        "text": 5227
+        "text": 3499
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "1-44",
@@ -526,16 +530,16 @@
         "portrait": 3
       },
       "sha256": {
-        "landscape": "4692a610adf4e2dac366a551ecd40addbb850170b4601ee1743da9aabd87c4c3",
+        "landscape": "5c1bfd9c9488401b5dd19a73ab87b5af5b5f65847605741591cf8484193ca45f",
         "portrait": "6384853a0a212f5c1e821851b043820f2ce7261cc9f8ac3995695166c77c0c94",
-        "text": "8a9246c9fa58d41084a414ee13141876f6712a5e47faaed5edcf078eb05c4571"
+        "text": "33718f562e3facde4b849ac3bae4471cd7959debf87bd303b85ff0c99915ee26"
       },
       "byteSizes": {
-        "landscape": 2819560,
+        "landscape": 2790869,
         "portrait": 2748761,
-        "text": 3149
+        "text": 2933
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "1-45",
@@ -551,16 +555,16 @@
         "portrait": 7
       },
       "sha256": {
-        "landscape": "ef07644cba32596b7bfd09321c86fc7b8f7afab3bedc57569287dcb3ec2f489d",
+        "landscape": "e56858598b73fa73fcc366e39eb6c8a6ada5b2035927fa6782ebea1c6f3f0fd8",
         "portrait": "a5b85b0d5dd4297421951efca8fe5104e445e786c84ae0858f5b1437c3a9a1ce",
-        "text": "ff1dacdc1bd75fa0d9e9018730b09a998fba3dccb4686ef5cf5f32872e18a68a"
+        "text": "37fa84c186c9ea92db97af78d5a05afe5d38ebc030aee50f5cb000ff60a20707"
       },
       "byteSizes": {
-        "landscape": 2674442,
+        "landscape": 2635043,
         "portrait": 2596051,
-        "text": 4878
+        "text": 3535
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "1-46",
@@ -572,20 +576,20 @@
       "landscapePath": "Companions/L1/What A Din/landscape.pdf",
       "portraitPath": "Companions/L1/What A Din/portrait.pdf",
       "pageCounts": {
-        "landscape": 9,
+        "landscape": 8,
         "portrait": 4
       },
       "sha256": {
-        "landscape": "b48e1cc6e97a122daefe1b11a5d6a68a40d625b451d0fc55242e82cae8e515d4",
+        "landscape": "541c20e63a0ea8a983724aa99037b5cc94f0107651254322b364b2d5c9e8d606",
         "portrait": "7032e3fcd06c5f927be49123bc67e1ab572c38be0a66f266e8dc24735c305c54",
-        "text": "b85a23b78a00a3c4179ec71c30a65baf2da280cd93f12e9fff7dbc0d92c6602c"
+        "text": "bc656dbf76ea3e34a71da5b4a56e4ba2bd38043ef50cac076018751cd6f4fd4d"
       },
       "byteSizes": {
-        "landscape": 2546387,
+        "landscape": 2482357,
         "portrait": 2442075,
-        "text": 4877
+        "text": 3143
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "1-47",
@@ -601,16 +605,16 @@
         "portrait": 5
       },
       "sha256": {
-        "landscape": "12303529a82a9e75a085695a914da9fae34f897999983fd292d5b0bb036d027e",
+        "landscape": "a9d344c21447d01eba9f135c3cf517c3060427d63bb2a63b1f0b5390bb1e30c7",
         "portrait": "617b6c3dcd88171dce9752c68e81cd496574c178177492a556dd9acb5e26b47a",
-        "text": "7dc72f94957824a87cef936cfc76c75adebcd1d937cf9bb5ea5dc11ebea081bb"
+        "text": "d55cc774c3eae2d6bd9db4c05071c3557591192a89d307980ce93450e059b7b8"
       },
       "byteSizes": {
-        "landscape": 2526726,
+        "landscape": 2450635,
         "portrait": 2412215,
-        "text": 4071
+        "text": 2982
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "1-48",
@@ -622,20 +626,20 @@
       "landscapePath": "Companions/L1/The Mud Pie/landscape.pdf",
       "portraitPath": "Companions/L1/The Mud Pie/portrait.pdf",
       "pageCounts": {
-        "landscape": 11,
+        "landscape": 10,
         "portrait": 5
       },
       "sha256": {
-        "landscape": "a5da06258ea3a3caa7b10c94fef2b1d5eed9aa4ecf4bd17761d4a389b70f1a7d",
+        "landscape": "1bfe4bdf34405f3ae117ac2a9b41bb1e9f4504a4f264e8ab0878afe53a236c85",
         "portrait": "7579ea3818621714f6131151bf29586650dcb900acc3373907e760ef46909711",
-        "text": "52eec907b6e55de6f03452660dae88f24bd01f77167980f65e94ff37c509d5c1"
+        "text": "7581ba3b5797273e890b102edeefa927d796ecba20481e3c9235f729c09bc743"
       },
       "byteSizes": {
-        "landscape": 2750626,
+        "landscape": 2682269,
         "portrait": 2687547,
-        "text": 4987
+        "text": 2962
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "1-49",
@@ -647,20 +651,20 @@
       "landscapePath": "Companions/L1/The Headache/landscape.pdf",
       "portraitPath": "Companions/L1/The Headache/portrait.pdf",
       "pageCounts": {
-        "landscape": 11,
+        "landscape": 9,
         "portrait": 6
       },
       "sha256": {
-        "landscape": "e61ab21845a92038121fe7046b6b3e228771ac079b75a0918167664b833e207c",
+        "landscape": "eb683286d068ab0b5d6ca2ef19b605929ea9f0c3788ff88e3694339b41583988",
         "portrait": "05e2605ef0819e3edd101e76a39b90e731f4fc37824aa0fb20e598cde5d557a3",
-        "text": "2557fd4838b66785ed4fb65c20043cbf6fc5b763e67c783e828e079ac1c9f787"
+        "text": "bc10dcb1e742b321dfbe293c3703da8089ac936b68d0dcbd218ecc0dec4a867e"
       },
       "byteSizes": {
-        "landscape": 2041686,
+        "landscape": 1916170,
         "portrait": 1888017,
-        "text": 6351
+        "text": 4474
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "1-50",
@@ -676,16 +680,16 @@
         "portrait": 6
       },
       "sha256": {
-        "landscape": "ba2207e242d216e78fd8caa77f32f53718e9608bb36c82d7c91842122fa00bb2",
+        "landscape": "9d13c8c46939ca8ed993143704d32641698be3c9f98e016cac82691aa0424e0c",
         "portrait": "9c1d8b2701f1ca64aaf46bc61d81b2cfeabeaff553e3901bc844eb3bfe0e1e63",
-        "text": "96204b393039f6093ebd3d1aaaeaeba9eeb064e5c40659a5b8b917ac7c028af5"
+        "text": "dbf2bfa47864b5744f4511f09a142404e5d8799e795f2567a02d962809788594"
       },
       "byteSizes": {
-        "landscape": 2175764,
+        "landscape": 2078950,
         "portrait": 2053411,
-        "text": 6609
+        "text": 4961
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "1-51",
@@ -697,20 +701,20 @@
       "landscapePath": "Companions/L1/Fancy Dress/landscape.pdf",
       "portraitPath": "Companions/L1/Fancy Dress/portrait.pdf",
       "pageCounts": {
-        "landscape": 13,
+        "landscape": 12,
         "portrait": 6
       },
       "sha256": {
-        "landscape": "fe3222e34e1ee813315b27032e3ddcdd3baebdfcc0ff997e119c3a01a127b903",
+        "landscape": "0893fa5c4c9ece8082112a470b08abd0307776070220067d5bb2d84ec56b9153",
         "portrait": "3f6af0d774aab72607b35a934861be2f255ebcd9cf431ccd43ad3fbbb90f78b9",
-        "text": "751e00e2f6fd9fac78431037ea97a75dd9982068c6ed6178e93a5303279a66c4"
+        "text": "bb38bd1ff6014fcb0c72cc07bf4772dfed36adddc45d1de22a3389c99b94c0d5"
       },
       "byteSizes": {
-        "landscape": 1742756,
+        "landscape": 1681954,
         "portrait": 1686452,
-        "text": 4321
+        "text": 2794
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "1-52",
@@ -726,16 +730,16 @@
         "portrait": 4
       },
       "sha256": {
-        "landscape": "ae2ddc76b57365468282797001fd3d74f8efe38385ee4d78cb6dfda68e7e4b19",
+        "landscape": "2e54f7aa18eae57643d66b0d9b459e0c8c2d8e7da4b90fa406df822555bd30c7",
         "portrait": "94a0b24341a358175d18f6d5df97bda50cd8bfc2701e2c2ac3c645def3d876b5",
-        "text": "cebd50d879014df27f074c3151fdd3e06bd3ab7f3e4550c6dea8ad97113ad41d"
+        "text": "ae0bcd312774a1a71be49fdd8cee339139186915bb9f96f385f07ae0e4165b46"
       },
       "byteSizes": {
-        "landscape": 2065218,
+        "landscape": 1975547,
         "portrait": 1985816,
-        "text": 3906
+        "text": 2826
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "1-53",
@@ -747,20 +751,20 @@
       "landscapePath": "Companions/L1/Good Old Mum/landscape.pdf",
       "portraitPath": "Companions/L1/Good Old Mum/portrait.pdf",
       "pageCounts": {
-        "landscape": 9,
+        "landscape": 8,
         "portrait": 4
       },
       "sha256": {
-        "landscape": "d2650ef7769be32b213e02fba0018d6b5033007c2424c82f9bcdbdcb93800af2",
+        "landscape": "480724ed84025158f150ebee1d041b8121f23d8e32b80226aed0b6a1223a57c4",
         "portrait": "98cf1151188dde6690cf96f4331dcba38da9df930fc08992456bb349dae20978",
-        "text": "3af7aff6fd0c23e134aa2a4bcb974ceefba44587cb55ecc67ca5d682849d3bc1"
+        "text": "ba7a92fff1094dc8198d90b67c5de1d368467b5877351bc8985641410df03078"
       },
       "byteSizes": {
-        "landscape": 1768120,
+        "landscape": 1656120,
         "portrait": 1615967,
-        "text": 4311
+        "text": 3378
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "1-54",
@@ -776,16 +780,16 @@
         "portrait": 3
       },
       "sha256": {
-        "landscape": "0d7986bd9b01e4e6606d19038bdce401b5a410c194597de69e52a4f8754536bb",
+        "landscape": "54daeeef7fcf971d2072e07b44ac72545839e3aae5dbe0fc5b827e0aa32b9541",
         "portrait": "ec8735604ecf68e1ace0506ba53a8962e73b09a1f0d5a810a21cde0ff07044c6",
-        "text": "3a0d138b86cc80808c392e9bcfcaf2bf5cce6103482a028b11682a693114084e"
+        "text": "6257641c84894342ebc9c8722a414df2d5ade8ad426d415dface9e1e6ff22993"
       },
       "byteSizes": {
-        "landscape": 1997749,
+        "landscape": 1949772,
         "portrait": 1915206,
-        "text": 3079
+        "text": 2579
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "1-55",
@@ -801,16 +805,16 @@
         "portrait": 6
       },
       "sha256": {
-        "landscape": "6840522387fa59cd680e1deaec3a21888a6271400d88a5f7500b013d8b3d2cf2",
+        "landscape": "09f5936e1787f4add1e742e1ec1197f3dee879c0ba3a21620141dac5c3dae775",
         "portrait": "509d95861a00c1a598fd0238f99c8ed88a68a117efc0f1392b19db1ae7bec5e8",
-        "text": "eea96ad4bf6bb805e9e2344720606a2ed4d80549b17b2af4c3db4d1f91e85d58"
+        "text": "109541d1e826d1e26a1006e61c08bf4a16b808e88dc673e6a85ec65919c50129"
       },
       "byteSizes": {
-        "landscape": 1869676,
+        "landscape": 1800820,
         "portrait": 1791185,
-        "text": 4674
+        "text": 2994
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "1-56",
@@ -826,16 +830,16 @@
         "portrait": 5
       },
       "sha256": {
-        "landscape": "f451678f01ceab9b3abb7a197503e60af85d14e2f003fcc289c5e6ada9e32c00",
+        "landscape": "21bf840df2de4d77ce76c25caf9e17f1ccf0dc750ab0d728fa6c9c6fd0397a29",
         "portrait": "1ff9c5bd2dadc83a0eae45966c961d970a0286b749865bf5aecfd39a12d4bdf0",
-        "text": "e4f816a7223a18e53a33d3c86aaa97fa647ef9a934f7028b1065d9ea740f44a7"
+        "text": "116815437b611551949603723106ef185015917dc44c8482e0525bcf3fe9a791"
       },
       "byteSizes": {
-        "landscape": 2210060,
+        "landscape": 2097144,
         "portrait": 2052480,
-        "text": 5394
+        "text": 4086
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "1-57",
@@ -847,20 +851,20 @@
       "landscapePath": "Companions/L1/The Journey/landscape.pdf",
       "portraitPath": "Companions/L1/The Journey/portrait.pdf",
       "pageCounts": {
-        "landscape": 12,
+        "landscape": 11,
         "portrait": 6
       },
       "sha256": {
-        "landscape": "7554c00f8daab0e59d02b19f4a827a4344976e7372870e3ac5f6bf4fdd59bde5",
+        "landscape": "b79cab1a75b3d91a9ad944581b808eb7285f6998cbeda0e36dba1f9a7c03c49f",
         "portrait": "72c2f9064abb33c54c7841e441347d1bf6194b93778b2496ac06a3fb73b93301",
-        "text": "76b90b250eb82ccd2b8fbf01d2d2d70bf7285c2b8ef02461914e16d928dd83bc"
+        "text": "a59d886fb1a0b0b9cb0a319ae513e9e9ce470706dcac2134a69c6ef05b2a3b7f"
       },
       "byteSizes": {
-        "landscape": 2084745,
+        "landscape": 2032502,
         "portrait": 2018076,
-        "text": 5642
+        "text": 3655
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "1-58",
@@ -876,16 +880,16 @@
         "portrait": 6
       },
       "sha256": {
-        "landscape": "94a7772530ade927c26233d8c64c802254ae98d13f4b3a056c60463ae7bbe449",
+        "landscape": "0d5394a73c84139d787f3f3bfd4e38517bedc664aa8b9cb638bd6898f0982f3d",
         "portrait": "c8ffe1e04bd485eb69bf6440421b60b6aae5cd0313bc621c8a78daf7ea99ad77",
-        "text": "30862ef04eedfcc1fa0be4a8e3852666341efbd182015b0570ea630356d1eab3"
+        "text": "5669f233544b2107aed759e5c28446e9bd4fd0330a951c75bbfdbf7ed6c0cb0a"
       },
       "byteSizes": {
-        "landscape": 2331300,
+        "landscape": 2315436,
         "portrait": 2308798,
-        "text": 4515
+        "text": 2955
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "1-59",
@@ -901,16 +905,16 @@
         "portrait": 7
       },
       "sha256": {
-        "landscape": "a350094f4559dc4e7b107e4d93cc9ca063779a0812805a070ee15054694766fa",
+        "landscape": "d86cd3917cdce48702a88f1fcab5a4a8959265c10415bc1f9c10541a1c6cab2f",
         "portrait": "fdb115e1b88446fa9dbeb88d929e40176b9309ec7a406206021be9a999bff642",
-        "text": "4d6e6fd7d098b6219b3a74fd1e864a30338200f9040b772d4a1c53d9b1bf954e"
+        "text": "4fe2850f07e9167f77e6f00aa1dd524203b2e5d6a962f004dea8a17c794c307e"
       },
       "byteSizes": {
-        "landscape": 1774866,
+        "landscape": 1662336,
         "portrait": 1636485,
-        "text": 6568
+        "text": 4840
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "1-60",
@@ -922,20 +926,20 @@
       "landscapePath": "Companions/L1/Shopping/landscape.pdf",
       "portraitPath": "Companions/L1/Shopping/portrait.pdf",
       "pageCounts": {
-        "landscape": 16,
+        "landscape": 13,
         "portrait": 8
       },
       "sha256": {
-        "landscape": "1de389fcf35bff7e0c6ff25d420d740f768c544d2553d20f95713f1567de8531",
+        "landscape": "b1291db178a693c71f70c631b408813fcd05f953b8a6a5f78eaa58c8188ba145",
         "portrait": "414ada77a898aa079436d263698bc5ce3d796d4932184a65075388c7bb009d94",
-        "text": "14afc476b1045133784dbf5032a93aa2dca183254ba4703a20a8ba0b76263722"
+        "text": "07e9c79948f6a6b64c9b212323b5de2b190c8a65cd4ec0bb790e8b2f467149d7"
       },
       "byteSizes": {
-        "landscape": 2643929,
+        "landscape": 2522014,
         "portrait": 2492783,
-        "text": 7522
+        "text": 5335
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "2-01",
@@ -947,20 +951,20 @@
       "landscapePath": "Companions/L2/The Toys Party/landscape.pdf",
       "portraitPath": "Companions/L2/The Toys Party/portrait.pdf",
       "pageCounts": {
-        "landscape": 20,
+        "landscape": 19,
         "portrait": 10
       },
       "sha256": {
-        "landscape": "5a2ceaf653d239c915aecfd42a89c6824bc9d4b29f0af7c886a324848a0b536a",
+        "landscape": "ff37e3ec7a25939645158beae749cc7273b67cd168a896b3ed96372230f9f7fc",
         "portrait": "c2a7c4546b0d0aace7b2d2ac9489f476f7e65e6b02123ada17059de23fceb0f5",
-        "text": "b89df0e7cfb07967c4a8223f57bc1960722f6b03dbf221bee70c5403111ba8c6"
+        "text": "955a96dea0a7009fba763235b8d4d01a4c4aff3845bae37d247b48fde060a980"
       },
       "byteSizes": {
-        "landscape": 4610572,
+        "landscape": 4552984,
         "portrait": 4522051,
-        "text": 7468
+        "text": 4993
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "2-02",
@@ -972,20 +976,20 @@
       "landscapePath": "Companions/L2/New Trainers/landscape.pdf",
       "portraitPath": "Companions/L2/New Trainers/portrait.pdf",
       "pageCounts": {
-        "landscape": 20,
+        "landscape": 19,
         "portrait": 10
       },
       "sha256": {
-        "landscape": "d744fd2b46a859de3ca141238b6612e9c8893b194b2996eb4b967f16681caa07",
+        "landscape": "0b107142cc348fb8464f19b6b153a6ed7b26d9f7676f549eae01fdcd87948aa6",
         "portrait": "5259b8e4336417850a44ed4c842599f1d09d9f6a2ef0dc267b82591248803787",
-        "text": "ea6ef83532a772bd6e1a880d9ea506438fcacaf14fe153ecbcc1ca086f24669a"
+        "text": "6d4ba7a6f96be7c3f677eb170351e85ae1a3533ec2f052c0600540d1414ff8d5"
       },
       "byteSizes": {
-        "landscape": 5004551,
+        "landscape": 4941561,
         "portrait": 4929125,
-        "text": 6403
+        "text": 4333
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "2-03",
@@ -997,20 +1001,20 @@
       "landscapePath": "Companions/L2/A New Dog/landscape.pdf",
       "portraitPath": "Companions/L2/A New Dog/portrait.pdf",
       "pageCounts": {
-        "landscape": 44,
+        "landscape": 42,
         "portrait": 21
       },
       "sha256": {
-        "landscape": "69bbe4b7db9ef9520b686af3b848458cc65c5582d916323736df7a86cd25d26d",
+        "landscape": "5e127bf57ce1c8f3eecaa5503cb64fe7575415d8d5111ea93108660a269298df",
         "portrait": "456cc40728dd278b9268ea42bb5da6948e8e1ba87b79d7ac7715c79a1bf52b21",
-        "text": "da67ac356363e3e7e239c62a90fb7c1ee201b946d805eb6356b110d3283bd4d6"
+        "text": "665abb023e89f46405b3b4e2f3dfe2c4d0afa579ec6e33e7beb20992e775472c"
       },
       "byteSizes": {
-        "landscape": 5217502,
+        "landscape": 5141491,
         "portrait": 5126353,
-        "text": 12031
+        "text": 7795
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "2-04",
@@ -1026,16 +1030,16 @@
         "portrait": 10
       },
       "sha256": {
-        "landscape": "3ea5ca3df712a7b6d1369fbcfc8580f9688eb0fe1512d97a7f0551a5ccf6eb20",
+        "landscape": "ffec1535fae3ed7a63a700935128c18044bad7425c063ae3f5b7eb9f41d292ff",
         "portrait": "69106bcfe08a5847f0ef717d4614b6fa29bde3387b1aabe52307ba54531fb6d8",
-        "text": "862d06c94b001730eb3f334a2eaabe1943f7a1b528d35aa56ee60097bea9a808"
+        "text": "1640895272b0db3d03cdd5e363a350d089de6e560abbcd6d5ca858c4f5cac119"
       },
       "byteSizes": {
-        "landscape": 5051903,
+        "landscape": 5034504,
         "portrait": 5023268,
-        "text": 6332
+        "text": 4172
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "2-05",
@@ -1047,20 +1051,20 @@
       "landscapePath": "Companions/L2/The Go-Kart/landscape.pdf",
       "portraitPath": "Companions/L2/The Go-Kart/portrait.pdf",
       "pageCounts": {
-        "landscape": 17,
+        "landscape": 16,
         "portrait": 8
       },
       "sha256": {
-        "landscape": "a435a4dfa9df6377c638638822ddbfcdb46a3cad167619c2b060ff8e783df811",
+        "landscape": "6389229e11161d5d227bcb236435e1f5342547e956830a815a97304f3494030f",
         "portrait": "da1bcfea6f4930038ffbb38138b533c6eed44947dde77b28cc62161136b62137",
-        "text": "be08919abf2e70aa2a72fb2ff405d2c4b9e629ee13fd8dad6505ce0904b7bc14"
+        "text": "b6a350fe61ed8afc263ccae68750a0ec16e24570197041f1edcd6aafeb7f9890"
       },
       "byteSizes": {
-        "landscape": 5055234,
+        "landscape": 4995652,
         "portrait": 4985866,
-        "text": 5911
+        "text": 3943
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "2-06",
@@ -1076,16 +1080,16 @@
         "portrait": 10
       },
       "sha256": {
-        "landscape": "2b44c07da6131a76f0bbd67e99b30b74c902dff05c289b35e53863549c1368ef",
+        "landscape": "5043733164c5a14f68038af4a071d13915c29a688a5e811ecaf37ab0206edc65",
         "portrait": "606216a497adf48d7244aa567005bf6e99254df4697c5f33306b61c48ef5b220",
-        "text": "8f3c50d90757c1e2e83a49936421f7c01e44d5c1b7a010e65570fff3bb577843"
+        "text": "ffc14f9ee084c4ff9f654bf802fdb3d5f487de657a4bb293ba2ee1ecab09a82c"
       },
       "byteSizes": {
-        "landscape": 4678190,
+        "landscape": 4660943,
         "portrait": 4648718,
-        "text": 5794
+        "text": 3898
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "2-07",
@@ -1101,16 +1105,16 @@
         "portrait": 10
       },
       "sha256": {
-        "landscape": "db500ce68a542ead4ba93232d179a90d0b73dd5c7f73c2b18855140ad8080dd6",
+        "landscape": "1f9a8adc7f5747189d81238d6df60aa190f37d22455c7674a7781769d1748661",
         "portrait": "2904b900cde0cd7b88c6de0024a4f77cccbb6611e2c8843b5887a6f1dcec0225",
-        "text": "d16ea6e79c175eceb58a56723afb68512cb2af1283595ad503654fdc4a45353e"
+        "text": "860fd9b18357ae8a380b74ccd3f18263aee462516c257f9da115c499f57201b6"
       },
       "byteSizes": {
-        "landscape": 4169316,
+        "landscape": 4152349,
         "portrait": 4138005,
-        "text": 5979
+        "text": 4707
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "2-08",
@@ -1126,16 +1130,16 @@
         "portrait": 10
       },
       "sha256": {
-        "landscape": "35c79c7f4c7e88f8c3d8db9653cbe06caf16ceac2fc31732e33f0c60163b2764",
+        "landscape": "c74cb98dd7cbcaf4b6fa73f838366254988548434796c2b990c6c2a96b0fc0b8",
         "portrait": "796e52f6d8cb4203d6dba7774cc4b89b175cf9e07661661fb8ef384e9280bfc0",
-        "text": "d184be0cf15f9cc40da9b5ac017353de8c11429c2bdd785b7246f78b5b609f12"
+        "text": "36e221a20953e3952f999af39e910163076c4d96e9b4149d2bedc38751d3ee85"
       },
       "byteSizes": {
-        "landscape": 4569427,
+        "landscape": 4552445,
         "portrait": 4540173,
-        "text": 5940
+        "text": 4620
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "2-09",
@@ -1151,16 +1155,16 @@
         "portrait": 10
       },
       "sha256": {
-        "landscape": "41cb5d082223a8e3a76d4a0a76def387472abd14de5128279ed5d395b8bc3fbf",
+        "landscape": "82e3b0749446de142a2d3a8c10912ea3aafd3d3ce540ce2fe8fd63f91fb210c5",
         "portrait": "fea0d587f0fa9bf10ea5f53d62a281e22c3a5739a64ae03f2c2beaa9b4dcbdce",
-        "text": "6dfbf83fec7c3cbd6e7c25a92c88af675c57da318044714c24ef1e08f03c09e8"
+        "text": "0a837d6330b1acf82bae4c80eba17177e9f39f86e7fed7d860508393018f27f3"
       },
       "byteSizes": {
-        "landscape": 4663651,
+        "landscape": 4646619,
         "portrait": 4635347,
-        "text": 6247
+        "text": 4903
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "2-10",
@@ -1176,16 +1180,16 @@
         "portrait": 11
       },
       "sha256": {
-        "landscape": "784939ec43d617a3dc0ac5c5a7ce4af10bfb6d9bb51382c552ea494ebe3996e5",
+        "landscape": "45f581db97e1dac557c711335e91a46ce52beaf56bd114e92902458f1817d15d",
         "portrait": "29d30fdfe92df489c4896baa5e95c2d7c4c575016262b4ecd2492fffdd9c500e",
-        "text": "aee9efe9abf5d68ad72f21a4038259486f65a80555067e0b9398e9ea8d5c1b61"
+        "text": "baaced3a9cda68ffc76f4fb019c200adb1414f04444e4ba20e27d50cb7f0a9f1"
       },
       "byteSizes": {
-        "landscape": 4239450,
+        "landscape": 4222723,
         "portrait": 4207934,
-        "text": 5776
+        "text": 4576
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "2-11",
@@ -1201,16 +1205,16 @@
         "portrait": 10
       },
       "sha256": {
-        "landscape": "7f4d96beebc87c9e088a2d43cb1956316b2988cfac18e20d3dbacaa5c1992049",
+        "landscape": "cf8f0deb9a65b1cf6207f937dd3abe3091809e129777c5a3ad81be5817d738e3",
         "portrait": "8e3e544b2d3f1f11303a2b5c5b1c54b1953b60508e28718e174002c9b0aa4ef4",
-        "text": "f5744a99efb610a04ececcbb3b528a9e56f6537180b8c777e619edcd8f5f2f47"
+        "text": "26f56f34ed8e5fb796364faf8f111644b558b6ab287a5dc217c77bbe14dd9b59"
       },
       "byteSizes": {
-        "landscape": 4565042,
+        "landscape": 4548161,
         "portrait": 4534477,
-        "text": 5399
+        "text": 4223
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "2-12",
@@ -1226,16 +1230,16 @@
         "portrait": 11
       },
       "sha256": {
-        "landscape": "b8c47c5c80bb6e2e88005dbef45f1c32b3d7afad8e683b70ab2474ff937cdbb1",
+        "landscape": "f83a16b26188c36c4302df75067240a42e0cc878428bada2c8629c0bbfcdaf0b",
         "portrait": "86ea83728ff540d3b74b5e676fd277256a37fd2c311dfb648ee38ee12ee3be0c",
-        "text": "81c5995893572a4b6bc623068f24b65856d783ded5995b9e52f80f9b7013347f"
+        "text": "8319a7843370f1ca392272e3277524d1d876593d766a14afb4aea03435d0240a"
       },
       "byteSizes": {
-        "landscape": 4969090,
+        "landscape": 4951882,
         "portrait": 4938419,
-        "text": 6291
+        "text": 5043
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "2-13",
@@ -1251,16 +1255,16 @@
         "portrait": 10
       },
       "sha256": {
-        "landscape": "b3e2fb52a06b57ab6cf643883c937a73b468c7290a1d51af96db3b8fd842551e",
+        "landscape": "6ab07206dbe8560cf72eee827c86b064d26c02ce64d25f0f339482413ccb34aa",
         "portrait": "3dffb34d356b04c6368b3b345d5b853d9a06ce8107aff37dbc40eb7474ec9e9b",
-        "text": "e58eb55172e0730770c5221d8445441c02cf5e7cc75a07f6afbf47a9a3ddd839"
+        "text": "30309014c8199d8abe021c72acca0c7084fe5fc0d6e4eea970ce3f8037a317e1"
       },
       "byteSizes": {
-        "landscape": 4549195,
+        "landscape": 4487807,
         "portrait": 4478111,
-        "text": 7248
+        "text": 4824
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "2-14",
@@ -1276,16 +1280,16 @@
         "portrait": 10
       },
       "sha256": {
-        "landscape": "4d0119188c974926dcbc220539ee8e0f8325f141ed42a8dfb796e118fe0198e2",
+        "landscape": "8c81795efe83769eb58b7d2f0a049dbbfc1323033f9ecac8857ecf70ba7ba985",
         "portrait": "adde9802a82083d3368eb26a09e7f889d12139a3ead54ec2506564c7146c078d",
-        "text": "8103ff9b81208d117d6cea36bea262d54b688836630956a500b64bb01db29606"
+        "text": "0aeb4f231fabfdb7df9472697a64cbf16d7d3f164a5d12ba62ace37a13ba1ebd"
       },
       "byteSizes": {
-        "landscape": 3693381,
+        "landscape": 3676490,
         "portrait": 3664457,
-        "text": 5754
+        "text": 4458
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "2-15",
@@ -1301,16 +1305,16 @@
         "portrait": 10
       },
       "sha256": {
-        "landscape": "bf6b5acd795528704d64cf44567d4bea4ec1c8e1a6561bdf8d97b8ef8d411b06",
+        "landscape": "fe3bfa6466a3b7a9c36905649048451601443ba9af3d15a969cf3c9aaef8f68f",
         "portrait": "b9bccde1c913e5d51bd7c80a501dae7e4149748c0d8fb855812772e39680f90b",
-        "text": "cb863c1475ce1323d5a04e057d3a3f25306dc25fd6fe7651dac7df307aef14b6"
+        "text": "a7df26e9104c87a51293b796d5ea9faea01032f4bb1bd6a307c15886e66a65ff"
       },
       "byteSizes": {
-        "landscape": 3297368,
+        "landscape": 3244139,
         "portrait": 3232296,
-        "text": 7172
+        "text": 4820
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "2-16",
@@ -1326,16 +1330,16 @@
         "portrait": 10
       },
       "sha256": {
-        "landscape": "94657ecccd6e3cd36bbec4509ddcc2df0ba3368f07e70bffe104626a81e0eee9",
+        "landscape": "be80db2da0b3ab85c6d6f2e808482a23f31121cbd02ea1c3be561da9c0c72e61",
         "portrait": "b660936148c8e977a272edd21e3d5e3d677529372cd44261e11a41c2fef764ab",
-        "text": "b4928fb3d28a07a94eb133200682c6008940502edc25921b7266ce4a90be0556"
+        "text": "0140af523eb842460f3f190b7203cd469f74e4e4968dbd9a423ac0bcdbe0813e"
       },
       "byteSizes": {
-        "landscape": 4221910,
+        "landscape": 4204230,
         "portrait": 4190598,
-        "text": 7006
+        "text": 4774
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "2-17",
@@ -1351,16 +1355,16 @@
         "portrait": 10
       },
       "sha256": {
-        "landscape": "5ba728fe259cd93356ccf12a33e7c90560ee427446d9b97a590f4937d6ba9302",
+        "landscape": "49b51bf55ef5f01d7d5db6b98ac2a2be1f067eb520b6638687eaf82c85e1f2ca",
         "portrait": "0a3b77ab99fcc1d9470e524f2e1243fa421c26f8f6cf0a6c886f3572ea2e8b5c",
-        "text": "dbfbf490d85e89ca142c463683149642457138fb85833dbc83caf3b6cc369304"
+        "text": "15e9ccc19481bb0010c5175940a6ee347953c2043e1f5522f7b73153a4f68fec"
       },
       "byteSizes": {
-        "landscape": 4804195,
+        "landscape": 4786775,
         "portrait": 4774504,
-        "text": 6684
+        "text": 4644
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "2-18",
@@ -1376,16 +1380,16 @@
         "portrait": 10
       },
       "sha256": {
-        "landscape": "204bbffba561c6e08f33833939e30aedab77c4d687fc65c75fd7fce4adbd7360",
+        "landscape": "2409add953d9810ca8c45029cd46364d3e89779bb5d8a66b50539e131c98ca1a",
         "portrait": "3a73cd2c503542c72fb39c7dbeb3328ec7124eb0e70c8f5456a9543e01fcf895",
-        "text": "f8b78e05abbbd4a220e8f9225cd3892c92d984b527dba9a50aba13eb7c1acf07"
+        "text": "397fe057c4f129fd7e9b48154b3ee4853da079197c481f8db6188a7147160088"
       },
       "byteSizes": {
-        "landscape": 5241896,
+        "landscape": 5224843,
         "portrait": 5210486,
-        "text": 6559
+        "text": 5143
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "2-19",
@@ -1401,16 +1405,16 @@
         "portrait": 11
       },
       "sha256": {
-        "landscape": "aafd631db7cf08fab86354a8d125ae95303b60429301fb5e41deb89e4dca97cb",
+        "landscape": "751d9a43411f76e4bcbcd28494d909073bc2591b104d6296ba321a1cf882d683",
         "portrait": "fa97d323b4ebdba61b84176ea22727706fce68c67fa97f08b4e549e90b20bc64",
-        "text": "67fe351345b908b5f2cf57bcbed2a49c07720bdfea2c5cad88bc9d44e8220a0d"
+        "text": "a9a4b449deabda10751c2fccf2240b9e7115ad4d8a2ff8794c7094ad860db906"
       },
       "byteSizes": {
-        "landscape": 4819378,
+        "landscape": 4801779,
         "portrait": 4785514,
-        "text": 6632
+        "text": 5144
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "2-20",
@@ -1426,16 +1430,16 @@
         "portrait": 10
       },
       "sha256": {
-        "landscape": "3756fa5050255f8f91839388c5c6a67e19aa9fe0b49523c1bd20d065ffab37db",
+        "landscape": "bc5f7527bea5f2388fc70f39185bcd1b2ebabd20ded2ed5ef0fb5799a6dcc24e",
         "portrait": "1c788c53125dd5ba4babe62eb4ad936b10a02e0c8fc6688b01f94addc40d068f",
-        "text": "c5a0612d076e620705403fc94a82a0dddb08c34719006cd2778df386d1031373"
+        "text": "a0f51e87eea13971c018a099b4c22a7e8200d82b10b71bcb39e8352940523f4b"
       },
       "byteSizes": {
-        "landscape": 4161264,
+        "landscape": 4144220,
         "portrait": 4130807,
-        "text": 6120
+        "text": 4752
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "2-21",
@@ -1451,16 +1455,16 @@
         "portrait": 10
       },
       "sha256": {
-        "landscape": "c69acf3699593741ff5399ae8df28458276e6672a26d9f8b5107a692e80eff4c",
+        "landscape": "b0fe7bf7959da87212ec670102e73a803486364daf54f0d72d28c5290b175261",
         "portrait": "f97309b9f93de2435cf38de946ae53a8af3cf32f05a1a644d90bb0e59dc9ce6c",
-        "text": "e77a2a9df2cdfa39c781b9441aa8b6ffec6df46f7a5d8643ed30576db029c3d9"
+        "text": "8c77596e08e633ba617bf89cde5fd1e975a9288c64fa32ca52b880285efcdbda"
       },
       "byteSizes": {
-        "landscape": 4304458,
+        "landscape": 4287545,
         "portrait": 4275119,
-        "text": 5859
+        "text": 4587
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "2-22",
@@ -1476,16 +1480,16 @@
         "portrait": 10
       },
       "sha256": {
-        "landscape": "19df7f91e1d2d095cf4c0218f613f3925c16a156ab54c53e24002a32ef3503b4",
+        "landscape": "1733cf98a7c89efdde3e963df6b1eb4265439e03b58364f2b58ede31caae3795",
         "portrait": "042e819708f7fc38fa58205c7e695e566ce8ab9e24bf6f144cc2c84daf2dbd5f",
-        "text": "3b2e1c1a2622c0890cfd5cea3c9f24df9089ba959e4554a5a8ee389fa4e2e6db"
+        "text": "007912b81aef9f0aa89c53898f0c3d9d306b4a7482322eea9c36298dc31f69a5"
       },
       "byteSizes": {
-        "landscape": 4048490,
+        "landscape": 4030345,
         "portrait": 4017881,
-        "text": 7069
+        "text": 5581
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "2-23",
@@ -1501,16 +1505,16 @@
         "portrait": 10
       },
       "sha256": {
-        "landscape": "73cf36698c92f0c05b815ffd265e0441958602f82e8559e71e3321f500c6b842",
+        "landscape": "3c65620c211a8b49f2e2700a16ab49e77020c93c2a0076372058aec7e7363b35",
         "portrait": "b0fdd7d55cab013246105f322bfc2782ce94a1928344d63ad1f85ddf97c191e1",
-        "text": "23d8b4e8993c76258619d0bb11f7a4e0ca7a6a23be78ca786ac645769e44b200"
+        "text": "99bdd1de7729476e2685dd4fe5f16f527d5b602d5608041d2ecee9b539896cd4"
       },
       "byteSizes": {
-        "landscape": 4047180,
+        "landscape": 4030633,
         "portrait": 4033534,
-        "text": 5181
+        "text": 4293
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "2-24",
@@ -1526,16 +1530,16 @@
         "portrait": 10
       },
       "sha256": {
-        "landscape": "7e9542d91065fb7b1eb3b53d9fd935a9da0ff17a88832229908c87195a86ee00",
+        "landscape": "3d76d6aa6131024e36d54186109aa0f966ccaf64013cbc17316f72160e67756f",
         "portrait": "33f55b22b7edcc8d94e2495b32b0982d07c9c7cf633e95aed1b3e3e5225cd8f7",
-        "text": "614a98834bfb129c8b88182362607410614deceef5456ddba8bb65dd06b8172c"
+        "text": "226b7c73b547568fc3b915546098741723016b766f2e11962e13980c5d3115ee"
       },
       "byteSizes": {
-        "landscape": 4321682,
+        "landscape": 4304782,
         "portrait": 4293046,
-        "text": 5710
+        "text": 4510
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "2-25",
@@ -1551,16 +1555,16 @@
         "portrait": 10
       },
       "sha256": {
-        "landscape": "df0b4363da46122d4403a21ba3312a40890ae7e525d77658580e230b701df6e8",
+        "landscape": "1536930e2006ebd983180ee44b5628f35f7997a6fc91307f2efdc53ba6a2ec9f",
         "portrait": "22ebe25456b92025cf808389376754f0cb2e2ea7a3cbea08dbe50d4fd32185ef",
-        "text": "07ed6cc9f48b694a164ff4e4de754c6be6e74962bf9aa0560e7ab4d35f35b3e8"
+        "text": "0d0ca152b325ef250741711db1b27265ac4e3253ffb304d85e3ca5a3d75e39d4"
       },
       "byteSizes": {
-        "landscape": 3907386,
+        "landscape": 3890296,
         "portrait": 3877691,
-        "text": 6766
+        "text": 5278
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "2-26",
@@ -1576,16 +1580,16 @@
         "portrait": 10
       },
       "sha256": {
-        "landscape": "84934b3b3a50300549edf706bfa3bb151804e4343e632edb3874bce8f20db144",
+        "landscape": "c1c89ca71ad46d1556f4ae80416cae5a92a769d4bd6904c953f0a2dba3187b17",
         "portrait": "f865768bb098a1c1171d2229d478acc03f568512f904c929e78d0acb7d8359e8",
-        "text": "5e11bbf2cd97bea39dc8663e579540f5e6a67d742d6e6df75de3dd191b955cde"
+        "text": "a106808acfd3131c616ea40b24b157ee8639f53bc1ef13e6cb217832ca545020"
       },
       "byteSizes": {
-        "landscape": 3059168,
+        "landscape": 3002229,
         "portrait": 2990354,
-        "text": 7464
+        "text": 5088
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "2-27",
@@ -1597,20 +1601,20 @@
       "landscapePath": "Companions/L2/It's The Weather/landscape.pdf",
       "portraitPath": "Companions/L2/It's The Weather/portrait.pdf",
       "pageCounts": {
-        "landscape": 21,
+        "landscape": 20,
         "portrait": 10
       },
       "sha256": {
-        "landscape": "cf130e320fda2a32692a4fb90d93a59a6944670463408a09101ffe884290ae45",
+        "landscape": "53fd353139349e959557d75008b3c185dc305aff2e6529978ffa690e7e254529",
         "portrait": "2fad8014327f3fdb3e183eb988ea624a572f4b827a7d4f69b358932e86be962c",
-        "text": "37aed81ddfe3ff6bf3908fd1a003495142593482d6d082f9a390c699586b11f4"
+        "text": "4b4cfb388c6e9403190a1d794b189246a2bd05227b02c52b849401f2cc2f3f5e"
       },
       "byteSizes": {
-        "landscape": 3855558,
+        "landscape": 3799856,
         "portrait": 3786722,
-        "text": 7374
+        "text": 4767
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "2-28",
@@ -1626,16 +1630,16 @@
         "portrait": 10
       },
       "sha256": {
-        "landscape": "8d7539fe58a35b4559e72a032a06dae78ca9e1b6d89e02d8d493713b05276fc8",
+        "landscape": "b8404a164ba61cbebf830f3bff21dfc761a31e610cd44cadf012c67b16522389",
         "portrait": "3fc163008cef1b3025eb050493a2e77de27198cc0da6d45d2be470801b39057f",
-        "text": "f8630292448aabdfc7dbed2b08a5b21f0cf503a8768819c2cbde41f98499640e"
+        "text": "409aa3bd563af5fb40fee46d72bc527c38f4e04d3cbae38f95363d4d6114489e"
       },
       "byteSizes": {
-        "landscape": 3935739,
+        "landscape": 3918269,
         "portrait": 3905138,
-        "text": 6719
+        "text": 4583
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "2-29",
@@ -1651,16 +1655,16 @@
         "portrait": 11
       },
       "sha256": {
-        "landscape": "9c58fda3a011b6016ba1040ac5da0f5237def51092e131b33491af67cd4d04fa",
+        "landscape": "3f01736ba5b739f21b21e7a11270a0675b0d5a1e88cd1789aa036f920e99db1a",
         "portrait": "d62568a8694b80953b0f95261a36bd19d044e19693444090fec8cc34691649ac",
-        "text": "342e32511a296df42fa6267c135043f7fd4fd593fd945729850402aed6e9ad5e"
+        "text": "f2d0e73727f422c0dfada9a3352178df99f07f4a7d2423f3b2958e1408694467"
       },
       "byteSizes": {
-        "landscape": 3333609,
+        "landscape": 3316286,
         "portrait": 3301774,
-        "text": 5877
+        "text": 4605
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "2-30",
@@ -1676,16 +1680,16 @@
         "portrait": 10
       },
       "sha256": {
-        "landscape": "50d1b02785dc8ccc194ad4d2290a75c50fcf1d6c83088f12260c4ad41ea31877",
+        "landscape": "5fde4b407b331096714d951b24949af9c73ac6780ef3b2e99543d0ba2a6693be",
         "portrait": "10e3c5b5e3c590d7c0167bfaa4ca65f410a8759343b9d6a777082c12a958f97b",
-        "text": "9ad197d977afa2fa5451a0b6218d75b7d1002e5d08b1412b236c946357fa77cc"
+        "text": "d1444125901960b35cb05c668e1adb8ba82c9a4880aaa64b0a566a183846126c"
       },
       "byteSizes": {
-        "landscape": 3194113,
+        "landscape": 3177001,
         "portrait": 3163332,
-        "text": 6757
+        "text": 5269
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "2-31",
@@ -1701,16 +1705,16 @@
         "portrait": 6
       },
       "sha256": {
-        "landscape": "952a68ef900f0f3d0c018df8eacd2111b29640416ca4741efb66176d78ea4909",
+        "landscape": "5b00858806e09bbd46ed08ba311280829faccb212fbb30dfd7b6746f402f8698",
         "portrait": "830f05a7045dd317e48e1a7282728a722d6646bfa8a47563b4cca36e341975da",
-        "text": "e95d6b98b75af2ac9df7b1cd5c757a4ddd6be59244eb539aa9ff94a7b175462f"
+        "text": "a0627dfc9b63daab7a505111a7c25aece082c654c909b58ec712dc79e2b46f3a"
       },
       "byteSizes": {
-        "landscape": 3436654,
+        "landscape": 3420558,
         "portrait": 3417543,
-        "text": 4040
+        "text": 2526
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "2-32",
@@ -1726,16 +1730,16 @@
         "portrait": 11
       },
       "sha256": {
-        "landscape": "ed563ee4a38773a5a963cf5829db0c6bc09f34b4877d0671a53aa0e4ef4c0b82",
+        "landscape": "3cd1ee6f1903a2b1677113a5365b171eb20c54308fc7876e50072159a7bd59e9",
         "portrait": "7d6bc36df0878bedd7277328e93b7f163898355d7edda07d9741ddd72503ce9b",
-        "text": "d9e8f4e7b98575f5a089fc3aa6cea72ab3fbb9ef8ff692adda81b4a29eeededd"
+        "text": "89eb519cd4ab63e81cbb8ee39e4d21db13f53a87182225b1558250d3eb85ddef"
       },
       "byteSizes": {
-        "landscape": 3827686,
+        "landscape": 3810182,
         "portrait": 3794470,
-        "text": 6693
+        "text": 5061
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "2-33",
@@ -1747,20 +1751,20 @@
       "landscapePath": "Companions/L2/New Trees/landscape.pdf",
       "portraitPath": "Companions/L2/New Trees/portrait.pdf",
       "pageCounts": {
-        "landscape": 21,
+        "landscape": 19,
         "portrait": 10
       },
       "sha256": {
-        "landscape": "a776a6f12e92bc9e2bf8287d442f9744362f4a9351c021cef31f34e828ab363a",
+        "landscape": "41f5149eb2eaa085bf3ff162e0ec95792d3157478a1f950f7da04e4071f60bd7",
         "portrait": "bcf1e245298bc30f614fbe287dc0b7e10573691df54fd22f4638ca6f10a37759",
-        "text": "372caa2363702f4f07eed5b2d11e13bebd72a63c8c47a25525b1f9f033f8d5a6"
+        "text": "98727c31332335d0a40a7ec9f6993ceba38c43cfde70d124eccaf0e604b5615d"
       },
       "byteSizes": {
-        "landscape": 3975873,
+        "landscape": 3915110,
         "portrait": 3883767,
-        "text": 7749
+        "text": 4891
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "2-34",
@@ -1772,20 +1776,20 @@
       "landscapePath": "Companions/L2/Up And Down/landscape.pdf",
       "portraitPath": "Companions/L2/Up And Down/portrait.pdf",
       "pageCounts": {
-        "landscape": 20,
+        "landscape": 19,
         "portrait": 10
       },
       "sha256": {
-        "landscape": "7cc36ae646a7429ef39f95e05886bf6b1cfa6dd223949fb757adbc2601d2caaf",
+        "landscape": "fbd4a527de34cca4f782b9f2ac5f49bafceb26e6fd5dda775d4464315de1d7fe",
         "portrait": "1c6b82aa2bb9b2f2822441af01c64b8f18f71827f75483b11974ea4b3831a75e",
-        "text": "f94bafda61293f6fe40ffde396a991ab7b0d5f535d988b6e891b58cc08c2e17b"
+        "text": "e7381010c141a93740ec49b48f55b1670c0d9901fe7b51d2e4a4dedf964a3c78"
       },
       "byteSizes": {
-        "landscape": 3424793,
+        "landscape": 3368249,
         "portrait": 3357602,
-        "text": 6133
+        "text": 4018
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "2-35",
@@ -1801,16 +1805,16 @@
         "portrait": 10
       },
       "sha256": {
-        "landscape": "3bb9f126a28bc18b2201374db53b7f4af15f7a3c2d44d86800b944bdd5aebeb0",
+        "landscape": "0c92f1238311a028f799848191ac8a1d9b8272ca2043a69490883ceddf556f8b",
         "portrait": "a11a03947ac7831b0429774e201b76250094d0f49164c52a166a26bb74014249",
-        "text": "324bcee59c82c946049f15725071f32a0e6faf8b05c5159a0e5850f7c9df7ff6"
+        "text": "143daf45d02f23378a092c5906ab2e4856009c0140652a8d1a396b14ed57cdf7"
       },
       "byteSizes": {
-        "landscape": 3186875,
+        "landscape": 3169317,
         "portrait": 3156609,
-        "text": 7281
+        "text": 4857
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     },
     {
       "id": "2-36",
@@ -1822,20 +1826,20 @@
       "landscapePath": "Companions/L2/The Band/landscape.pdf",
       "portraitPath": "Companions/L2/The Band/portrait.pdf",
       "pageCounts": {
-        "landscape": 21,
+        "landscape": 19,
         "portrait": 10
       },
       "sha256": {
-        "landscape": "857de589d45e14126cb851548752c6ecfd12df961559d11bf9831fac8d0830e5",
+        "landscape": "c621f8dea00a42785a3ad67fe31425b2fb746371e81bf51800c1f5811c60f363",
         "portrait": "0b9193d3d25963443b3cb1a95c87711fdaae77d2c5f122e9101c7de8680d4bfb",
-        "text": "368ca67aaff803a2805258a3f6b122c98996f9184e04b30bdf1154e91e90f241"
+        "text": "70fe06898e3f92c6eb1c695e20f0386c3f17ce79723ef8a7ceaa0806ce952e53"
       },
       "byteSizes": {
-        "landscape": 3853935,
+        "landscape": 3794792,
         "portrait": 3772385,
-        "text": 7224
+        "text": 4589
       },
-      "versionDate": "2026-09-09"
+      "versionDate": "2026-09-10"
     }
   ]
 }

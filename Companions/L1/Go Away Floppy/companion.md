@@ -2,43 +2,29 @@
 
 ## Floppy想玩球
 
-原PDF第1页；00:00—00:52
-
-**伴读字幕** 00:00
+原PDF第1页；00:00—00:25
 
 Hi there!
-
-**伴读字幕** 00:01
 
 Today's story is about Floppy.
 
 今天的故事是关于Floppy的。
 
-**伴读字幕** 00:05
-
 What do you think Floppy wants?
 
 你觉得Floppy想要什么？
-
-**伴读字幕** 00:08
 
 Floppy wants to play fetch.
 
 Floppy想玩捡球游戏。
 
-**伴读字幕** 00:12
-
 Many dogs like playing “fetch”.
 
 很多狗喜欢玩捡球游戏。
 
-**伴读字幕** 00:16
-
 People throw the ball as far as possible.
 
 人们把球扔得尽可能远。
-
-**伴读字幕** 00:20
 
 Then dogs run to get the ball back.
 
@@ -46,39 +32,27 @@ Then dogs run to get the ball back.
 
 ## Floppy想玩球（续）
 
-原PDF第1页；00:00—00:52
-
-**伴读字幕** 00:25
+原PDF第1页；00:25—00:52
 
 If Floppy wants to play fetch, there must be one person who can throw the ball for him.
 
 如果Floppy想玩捡球游戏，就得有人帮它扔球。
 
-**伴读字幕** 00:34
-
 Look at these hands.
 
 看看这双手。
-
-**伴读字幕** 00:36
 
 What do the hands look as if they are doing?
 
 手看起来像在做什么？
 
-**伴读字幕** 00:40
-
 They are saying “No”.
 
 这双手在表示“不”。
 
-**伴读字幕** 00:44
-
 Go away, Floppy.
 
 走开，Floppy。
-
-**伴读字幕** 00:47
 
 Let's see if Floppy can find someone who can play with him.
 
@@ -88,37 +62,25 @@ Let's see if Floppy can find someone who can play with him.
 
 原PDF第3页；00:52—01:09
 
-**伴读字幕** 00:52
-
 First, Floppy went to get Kipper.
 
 首先，Floppy去找Kipper。
-
-**伴读字幕** 00:56
 
 What was Kipper doing?
 
 Kipper在做什么？
 
-**伴读字幕** 00:58
-
 Kipper was drawing a picture.
 
 Kipper正在画画。
-
-**伴读字幕** 01:01
 
 Kipper said, “Go away, Floppy.”
 
 Kipper说：“走开，Floppy。”
 
-**伴读字幕** 01:04
-
 I don't have time to play with you now.
 
 我现在没时间和你玩。
-
-**伴读字幕** 01:07
 
 I am drawing.
 
@@ -128,37 +90,25 @@ I am drawing.
 
 原PDF第4、5页；01:10—01:30
 
-**伴读字幕** 01:10
-
 Then Floppy went to get Biff, Chip, Wilf and Wilma.
 
 然后Floppy去找Biff、Chip、Wilf和Wilma。
-
-**伴读字幕** 01:17
 
 What were they doing?
 
 他们在做什么？
 
-**伴读字幕** 01:19
-
 They were skipping.
 
 他们跳绳。
-
-**伴读字幕** 01:22
 
 They said, “Go away, Floppy.”
 
 他们说：“走开，Floppy。”
 
-**伴读字幕** 01:25
-
 We don't have time to play with you now.
 
 我们现在没时间跟你玩。
-
-**伴读字幕** 01:28
 
 We are skipping.
 
@@ -168,55 +118,37 @@ We are skipping.
 
 原PDF第6、7页；01:31—01:56
 
-**伴读字幕** 01:31
-
 Then Floppy went to get Mum and Dad.
 
 然后Floppy去找妈妈和爸爸。
-
-**伴读字幕** 01:35
 
 What were they doing?
 
 他们在做什么？
 
-**伴读字幕** 01:37
-
 They were painting the wall.
 
 他们正在给墙面刷漆。
-
-**伴读字幕** 01:40
 
 They said, “Go away, Floppy.”
 
 他们说：“走开，Floppy。”
 
-**伴读字幕** 01:42
-
 We don't have time to play with you now.
 
 我们现在没时间跟你玩。
-
-**伴读字幕** 01:46
 
 We are painting.
 
 我们正在刷漆。
 
-**伴读字幕** 01:48
-
 Poor Floppy.
 
 可怜的Floppy。
 
-**伴读字幕** 01:51
-
 Who could Floppy play with?
 
 Floppy能和谁一起玩？
-
-**伴读字幕** 01:54
 
 Nobody.
 
@@ -226,49 +158,33 @@ Nobody.
 
 原PDF第8、9页；01:56—02:27
 
-**伴读字幕** 01:56
-
 Floppy left the ball on the grass and went away.
 
 Floppy把球留在草地上，然后走开了。
-
-**伴读字幕** 02:02
 
 How did Floppy look?
 
 Floppy看起来怎么样？
 
-**伴读字幕** 02:05
-
 He looked so disappointed.
 
 他看起来很失望。
-
-**伴读字幕** 02:10
 
 Everyone noticed that.
 
 每个人都注意到了。
 
-**伴读字幕** 02:12
-
 They didn't want Floppy to be unhappy.
 
 他们不想让Floppy不开心。
-
-**伴读字幕** 02:15
 
 They called, “Come back, Floppy.”
 
 他们喊道：“回来，Floppy。”
 
-**伴读字幕** 02:19
-
 Floppy, come back.
 
 Floppy，回来。
-
-**伴读字幕** 02:21
 
 Can you guess whether Floppy would come back or go away?
 
@@ -278,37 +194,25 @@ Can you guess whether Floppy would come back or go away?
 
 原PDF第10页；02:27—02:45
 
-**伴读字幕** 02:27
-
 Yes. Floppy came back.
 
 对的。Floppy回来了。
-
-**伴读字幕** 02:31
 
 What were they doing?
 
 他们在做什么？
 
-**伴读字幕** 02:33
-
 They were playing together.
 
 他们在一起玩。
-
-**伴读字幕** 02:35
 
 This time they said, “We are sorry.”
 
 这一次，他们说：“对不起。”
 
-**伴读字幕** 02:39
-
 How did Floppy look?
 
 Floppy看起来怎么样？
-
-**伴读字幕** 02:42
 
 Floppy looked happy.
 
@@ -318,13 +222,11 @@ Floppy很快乐。
 
 原PDF第8、9页；02:56—03:24
 
-**原书原句**
+**原句**
 
 Come back, Floppy. Floppy, come back.
 
 回来，Floppy。Floppy，回来。
-
-**伴读旁白**
 
 Floppy is walking away. The ball is on the grass. Everyone is calling him back.
 
@@ -338,13 +240,11 @@ Floppy正在走开。球在草地上。大家在叫他回来。
 
 原PDF第4、5页；03:24—03:36
 
-**原书原句**
+**原句**
 
 We are skipping.
 
 我们正在跳绳。
-
-**伴读旁白**
 
 Look at the rope. Biff and Wilf are jumping.
 
@@ -358,13 +258,11 @@ Look at the rope. Biff and Wilf are jumping.
 
 原PDF第6、7页；03:36—03:41
 
-**原书原句**
+**原句**
 
 We are painting.
 
 我们正在刷漆。
-
-**伴读旁白**
 
 Mum and Dad have brushes. Look at the yellow paint.
 
@@ -375,8 +273,6 @@ Mum and Dad have brushes. Look at the yellow paint.
 ## 家长教学段·画画
 
 原PDF第3页；03:42—04:16
-
-**伴读旁白**
 
 Kipper is drawing a picture. His crayon is on the paper.
 

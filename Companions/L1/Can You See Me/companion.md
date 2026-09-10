@@ -4,13 +4,11 @@
 
 原PDF第1页；00:05—00:17
 
-**原书原句**
+**原句**
 
 Can You See Me?
 
 你能看见我吗？
-
-**伴读旁白**
 
 Floppy is looking down. Kipper is peeking through the leaves. There he is!
 
@@ -22,23 +20,19 @@ Floppy低着头。Kipper从叶子中探出脸来。他在这里！
 
 ## 泰迪熊在猫后面
 
-原PDF第3页；00:23—00:42；02:10—03:08
+原PDF第3页；00:23—03:08
 
-**原书原句**
+**原句**
 
 Can you see my teddy bear?
 
 你能看到我的泰迪熊吗？
-
-**伴读旁白**
 
 Look on the shelf. A little brown bear is peeking out behind the cats.
 
 看架子上。一只棕色的小熊从猫玩具后面探出头来。
 
 指图：架子右边，大猫与小猫后面的棕色熊。
-
-**伴读旁白**
 
 There is a robot beside Kipper. One toy dog is sitting on the pillow. Another dog is tucked into the bed.
 
@@ -52,13 +46,11 @@ Kipper身旁有个机器人。一只玩具狗坐在枕头上，另一只藏在�
 
 原PDF第4、5页；00:43—00:51
 
-**原书原句**
+**原句**
 
 Can you see my dog?
 
 你能看到我的狗吗？
-
-**伴读旁白**
 
 Here is Floppy, behind the bush. His nose is showing. Kipper is standing by the little pool.
 
@@ -68,15 +60,13 @@ Floppy在这里，在灌木后面。他的鼻子露出来了。Kipper站在小�
 
 ## 墙上的大红青蛙
 
-原PDF第6、7页；00:51—00:59；03:25—04:00
+原PDF第6、7页；00:51—04:00
 
-**原书原句**
+**原句**
 
 Can you see my picture of a big, red frog?
 
 你能看到我画的大红青蛙吗？
-
-**伴读旁白**
 
 Look at the wall. The big red frog is on the right. A blue butterfly is beside it.
 
@@ -88,21 +78,19 @@ Look at the wall. The big red frog is on the right. A blue butterfly is beside i
 
 ## 树上藏着老虎
 
-原PDF第8、9页；01:02—01:21；04:16—04:33
+原PDF第8、9页；01:02—04:33
 
-**原书原句**
+**原句**
 
 You can see my tiger, if you look in the tree.
 
 你看看树上，就能看到我的老虎。
 
-**原书原句**
+**原句**
 
 Are you looking?
 
 你在看吗？
-
-**伴读旁白**
 
 Look up at the branches. There is an orange toy tiger with stripes. Its tail hangs down beside the trunk.
 
@@ -116,13 +104,11 @@ Look up at the branches. There is an orange toy tiger with stripes. Its tail han
 
 原PDF第10页；01:21—01:29
 
-**原书原句**
+**原句**
 
 Can you see me?
 
 你能看见我吗？
-
-**伴读旁白**
 
 Look through the window. Kipper is among the toys. I can see his yellow hair and his smile.
 

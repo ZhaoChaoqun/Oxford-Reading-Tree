@@ -4,15 +4,9 @@
 
 原PDF第1页；00:00—00:38
 
-**伴读字幕** 00:00
-
 Hi there! Story Time! Look at the cover! How does Floppy look? Floppy is so dirty. He is covered with mud!
 
-**伴读字幕** 00:10
-
 What should Floppy do? Floppy should have a bath. Do you think Floppy wants to have a bath? No, I don't think so.
-
-**伴读字幕** 00:21
 
 Chip tries to pull Floppy into the bathtub. Floppy wants to get away. Will Floppy take a bath? Let's read today's story: "Floppy's Bath".
 
@@ -20,11 +14,7 @@ Chip tries to pull Floppy into the bathtub. Floppy wants to get away. Will Flopp
 
 原PDF第3页；00:38—01:04
 
-**伴读字幕** 00:38
-
 How was the weather? It was raining. Floppy was still playing outside. Suddenly, he saw a rabbit.
-
-**伴读字幕** 00:52
 
 What do dogs usually do when they see a rabbit or a cat? They chase them! Would Floppy chase the rabbit?
 
@@ -32,11 +22,7 @@ What do dogs usually do when they see a rabbit or a cat? They chase them! Would 
 
 原PDF第4、5页；01:05—01:24
 
-**伴读字幕** 01:05
-
 Yes! Floppy chased the rabbit! The rabbit ran so fast. It went under the fence.
-
-**伴读字幕** 01:16
 
 There was mud under the fence. Would Floppy keep chasing? Yes!
 
@@ -44,11 +30,7 @@ There was mud under the fence. Would Floppy keep chasing? Yes!
 
 原PDF第6、7页；01:24—01:45
 
-**伴读字幕** 01:24
-
 Floppy kept chasing the rabbit into the mud. The rain was so heavy. Floppy got wet.
-
-**伴读字幕** 01:36
 
 He kept chasing the rabbit in the rain. Would Floppy catch the rabbit? Let's keep reading.
 
@@ -56,15 +38,9 @@ He kept chasing the rabbit in the rain. Would Floppy catch the rabbit? Let's kee
 
 原PDF第8、9页；01:46—02:16
 
-**伴读字幕** 01:46
-
 Where was the rabbit? Had it gone into the hole? Floppy dug at the hole.
 
-**伴读字幕** 01:56
-
 He was still trying to find the rabbit. Floppy got muddy. Dad, Biff, and Chip found Floppy.
-
-**伴读字幕** 02:08
 
 How did Dad look? Dad looked cross. What did they do?
 
@@ -72,15 +48,9 @@ How did Dad look? Dad looked cross. What did they do?
 
 原PDF第10、11页；02:17—02:47
 
-**伴读字幕** 02:17
-
 They took Floppy home. How did Mum look when she saw Floppy? Mum was shocked.
 
-**伴读字幕** 02:27
-
 "Oh my goodness! You are so dirty, Floppy." "What a soggy doggy!" said Kipper.
-
-**伴读字幕** 02:37
 
 Soggy means very wet. Yeah. Floppy got wet. Floppy got muddy. What would they do?
 
@@ -88,15 +58,9 @@ Soggy means very wet. Yeah. Floppy got wet. Floppy got muddy. What would they do
 
 原PDF第12、13页；02:48—03:11
 
-**伴读字幕** 02:48
-
 They put Floppy in the bath. Mum and Dad washed Floppy.
 
-**伴读字幕** 02:55
-
 Did Floppy stand still when they washed him? No! Floppy didn't like the bath!
-
-**伴读字幕** 03:04
 
 He tried to get out. He splashed water everywhere.
 
@@ -104,15 +68,9 @@ He tried to get out. He splashed water everywhere.
 
 原PDF第14、15页；03:11—03:34
 
-**伴读字幕** 03:11
-
 After the bath, Biff and Chip dried Floppy.
 
-**伴读字幕** 03:20
-
 Did Floppy lie still when they dried him? Yes! Floppy liked being dried.
-
-**伴读字幕** 03:30
 
 How did Floppy look after the bath?
 
@@ -120,15 +78,9 @@ How did Floppy look after the bath?
 
 原PDF第16、17页；03:35—04:04
 
-**伴读字幕** 03:35
-
 Floppy looked clean. His fur was fluffy. Biff put a ribbon around his neck. Floppy looked so good!
 
-**伴读字幕** 03:50
-
 "What a good dog!" said Kipper. How did the family look?
-
-**伴读字幕** 03:57
 
 The family looked so dirty. They got wet. They got muddy.
 
@@ -136,15 +88,9 @@ The family looked so dirty. They got wet. They got muddy.
 
 原PDF第18页；04:04—04:37
 
-**伴读字幕** 04:04
-
 The rain stopped. Floppy went outside again. What did he see? The rabbit he chased before!
 
-**伴读字幕** 04:18
-
 Can you guess what was about to happen? I guess Floppy was going to chase the rabbit again!
-
-**伴读字幕** 04:28
 
 Oh, no! Floppy would get wet and muddy again!
 
@@ -152,11 +98,7 @@ Oh, no! Floppy would get wet and muddy again!
 
 原PDF第3页；04:37—04:47
 
-**伴读字幕** 04:37
-
 Okay! Now let's review today's story, okay? What did Floppy see in the rain?
-
-**伴读字幕** 04:44
 
 He saw a rabbit.
 
@@ -166,21 +108,13 @@ He saw a rabbit.
 
 原PDF第4、5页；04:47—05:00
 
-**伴读字幕** 04:47
-
 What did Floppy do when he saw the rabbit?
-
-**伴读字幕** 04:50
 
 Floppy chased it.
 
 > 视频画面提示：鼓励孩子说 / Tips
 
-**伴读字幕** 04:53
-
 Where did the rabbit go?
-
-**伴读字幕** 04:56
 
 It went under a fence.
 
@@ -190,11 +124,7 @@ It went under a fence.
 
 原PDF第6、7页；05:00—05:06
 
-**伴读字幕** 05:00
-
 How was Floppy?
-
-**伴读字幕** 05:03
 
 Floppy got wet.
 
@@ -204,13 +134,9 @@ Floppy got wet.
 
 原PDF第8、9页；05:06—05:14
 
-**伴读字幕** 05:06
-
 Floppy got muddy.
 
 > 视频画面提示：鼓励孩子说 / Tips
-
-**伴读字幕** 05:09
 
 What did Dad, Biff and Chip do when they found Floppy?
 
@@ -218,23 +144,15 @@ What did Dad, Biff and Chip do when they found Floppy?
 
 原PDF第10、11页；05:15—05:26
 
-**伴读字幕** 05:15
-
 They took Floppy home.
 
 > 视频画面提示：鼓励孩子说 / Tips
 
-**伴读字幕** 05:18
-
 What did Kipper say when he saw Floppy?
-
-**伴读字幕** 05:21
 
 "What a soggy doggy!"
 
 > 视频画面提示：鼓励孩子说 / Tips
-
-**伴读字幕** 05:24
 
 What did the family do then?
 
@@ -242,17 +160,11 @@ What did the family do then?
 
 原PDF第12、13页；05:27—05:36
 
-**伴读字幕** 05:27
-
 They put Floppy in the bath.
 
 > 视频画面提示：鼓励孩子说 / Tips
 
-**伴读字幕** 05:30
-
 Who washed Floppy?
-
-**伴读字幕** 05:33
 
 Mum and Dad washed Floppy.
 
@@ -262,11 +174,7 @@ Mum and Dad washed Floppy.
 
 原PDF第14、15页；05:36—05:44
 
-**伴读字幕** 05:36
-
 What did Biff and Chip do after Floppy had a bath?
-
-**伴读字幕** 05:42
 
 They dried Floppy.
 
@@ -276,21 +184,13 @@ They dried Floppy.
 
 原PDF第16、17页；05:45—05:57
 
-**伴读字幕** 05:45
-
 How did Floppy look after the bath?
-
-**伴读字幕** 05:48
 
 Floppy looked clean.
 
 > 视频画面提示：鼓励孩子说 / Tips
 
-**伴读字幕** 05:51
-
 What did Kipper say this time?
-
-**伴读字幕** 05:54
 
 "What a good dog!"
 
@@ -300,16 +200,10 @@ What did Kipper say this time?
 
 原PDF第18页；05:57—06:07
 
-**伴读字幕** 05:57
-
 What did Floppy see when he went outside?
-
-**伴读字幕** 06:02
 
 The rabbit!
 
 > 视频画面提示：鼓励孩子说 / Tips
-
-**伴读字幕** 06:05
 
 Okay! See you next time.

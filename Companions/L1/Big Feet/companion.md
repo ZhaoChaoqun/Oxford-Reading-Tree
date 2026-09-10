@@ -4,13 +4,11 @@
 
 原PDF第1页；00:12—00:58
 
-**原书原句**
+**原句**
 
 Big Feet
 
 大脚
-
-**伴读旁白**
 
 Look at the children's boots and shoes. The footprints in the snow are much bigger. Who made them?
 
@@ -24,13 +22,11 @@ Look at the children's boots and shoes. The footprints in the snow are much bigg
 
 原PDF第3页；00:58—01:23
 
-**原书原句**
+**原句**
 
 Come and look at this.
 
 过来看看这个。
-
-**伴读旁白**
 
 Chip points at the snow. There are big footprints outside the door.
 
@@ -44,19 +40,17 @@ Chip指着雪地。门外有大大的脚印。
 
 原PDF第4、5页；01:24—01:44
 
-**原书原句**
+**原句**
 
 Come and look at this.
 
 过来看看这个。
 
-**原书原句**
+**原句**
 
 Is it a big monster?
 
 是一个大怪物吗？
-
-**伴读旁白**
 
 Biff imagines a big green monster. Look at its big feet. Could a monster have made these prints?
 
@@ -70,19 +64,17 @@ Biff想到了一个绿色的大怪物。看它的大脚。脚印会是怪物留�
 
 原PDF第6、7页；01:44—02:27
 
-**原书原句**
+**原句**
 
 Come and look at this.
 
 过来看看这个。
 
-**原书原句**
+**原句**
 
 Is it a big dinosaur?
 
 是一只大恐龙吗？
-
-**伴读旁白**
 
 Kipper imagines a dinosaur. It has big feet too. Could a dinosaur have made these prints?
 
@@ -94,19 +86,17 @@ Kipper想到了恐龙。它也有大脚。脚印会是恐龙留下的吗？
 
 原PDF第8、9页；02:28—02:55
 
-**原书原句**
+**原句**
 
 Come and look at this.
 
 过来看看这个。
 
-**原书原句**
+**原句**
 
 Is it a big giant?
 
 是一个大巨人吗？
-
-**伴读旁白**
 
 Now Mum imagines a giant with enormous feet. The family are still guessing.
 
@@ -118,13 +108,11 @@ Now Mum imagines a giant with enormous feet. The family are still guessing.
 
 原PDF第10页；02:55—03:22
 
-**原书原句**
+**原句**
 
 No. It is Dad.
 
 不，是爸爸。
-
-**伴读旁白**
 
 Look under Dad's shoes. He has big pretend feet strapped underneath. They made the big footprints in the snow!
 
