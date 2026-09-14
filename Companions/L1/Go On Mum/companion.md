@@ -6,6 +6,8 @@
 
 Hi there!
 
+嗨，你好！
+
 Story time.
 
 故事时间。
@@ -47,6 +49,8 @@ Look! The judge blew the whistle!
 看！裁判吹哨了！
 
 Whistle! Whistle!
+
+哔！哔！
 
 > 视频画面提示：拟声词
 
@@ -243,6 +247,8 @@ What can you say when you want to cheer somebody on, especially during a race or
 当你想给别人加油，尤其是在赛跑或足球比赛这样的比赛中，可以说什么？
 
 Yes.
+
+对。
 
 Go on!
 

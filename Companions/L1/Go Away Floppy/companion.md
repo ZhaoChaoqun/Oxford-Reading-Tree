@@ -6,6 +6,8 @@
 
 Hi there!
 
+嗨，你好！
+
 Today's story is about Floppy.
 
 今天的故事是关于Floppy的。

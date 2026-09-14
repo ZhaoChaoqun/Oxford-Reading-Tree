@@ -6,6 +6,8 @@
 
 Hello, story time!
 
+你好，故事时间到啦！
+
 Where were the family?
 
 家人在哪里？
@@ -35,6 +37,8 @@ So they decided to turn left to go through the field.
 于是他们决定向左拐，穿过那片田野。
 
 But...
+
+可是……
 
 What happened?
 
@@ -142,7 +146,11 @@ In the meanwhile, Kipper, Biff, Chip, and Mum pushed the car with all their migh
 
 Push!
 
+推呀！
+
 Push!
+
+推呀！
 
 Would the car move this time?
 

@@ -162,6 +162,8 @@ He could only bark.
 
 Woof, woof.
 
+汪，汪。
+
 ## 大家都指着Floppy（续）
 
 原PDF第8、9页；01:56—02:14
@@ -175,6 +177,8 @@ Who showed up?
 谁出现了?
 
 Dad.
+
+爸爸。
 
 What did Dad say?
 
@@ -233,6 +237,8 @@ The title of the book is:
 这本书的书名是：
 
 Who Did That?
+
+这是谁干的？
 
 > 视频画面提示：鼓励孩子说
 
@@ -310,7 +316,11 @@ Chip说：“是Kipper干的。”
 
 What did Kipper say?
 
+Kipper说了什么？
+
 Kipper said, “It was Floppy.”
+
+Kipper说：“是Floppy干的。”
 
 > 视频画面提示：鼓励孩子说
 
@@ -339,6 +349,8 @@ Biff说：“是Floppy干的。”
 > 视频画面提示：鼓励孩子说
 
 What did Dad say?
+
+爸爸说了什么？
 
 ## 回顾：爸爸承认了
 

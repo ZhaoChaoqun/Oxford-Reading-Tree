@@ -56,6 +56,8 @@ What would he do?
 
 OH! OH!
 
+哦！哦！
+
 ## 骨头被拿走了
 
 原PDF第4、5页；00:53—01:14
@@ -71,6 +73,8 @@ Floppy追着这只狗跑。
 > 视频画面提示：原文
 
 Why?
+
+为什么呢？
 
 Why did Floppy run after the dog?
 
@@ -172,6 +176,8 @@ They ran after Dad.
 
 Why?
 
+为什么呢？
+
 Because they wanted to get their kite back.
 
 因为他们想要回他们的风筝。
@@ -207,6 +213,8 @@ A big dog took the bone.
 > 视频画面提示：原文
 
 OH! OH!
+
+哦！哦！
 
 ## 骨头被大狗吃了
 

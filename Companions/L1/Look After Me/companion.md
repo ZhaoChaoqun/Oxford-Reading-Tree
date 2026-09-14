@@ -6,6 +6,8 @@
 
 Look After Me
 
+照看我
+
 Who is that little girl?
 
 那个女孩是谁?
@@ -23,6 +25,8 @@ How old do you think she is?
 你觉得她几岁了?
 
 She looks quite young, doesn't she?
+
+她看起来年纪很小，对吧？
 
 At least we can tell she is younger than Wilma, Biff and Chip.
 
@@ -82,6 +86,8 @@ Wilma牵着小女孩的手。她在照看她。
 
 This is Kate.
 
+这是Kate。
+
 > 视频画面提示：原文
 
 Now we know the little girl's name is Kate.
@@ -109,6 +115,8 @@ She went up the net.
 > 视频画面提示：原文
 
 Look at Kate.
+
+看看Kate。
 
 She looks so happy.
 
@@ -167,6 +175,8 @@ She went up the ladder to go inside a rocket.
 她爬上梯子进到一个火箭里。
 
 Look at Chip.
+
+看看Chip。
 
 How does he look?
 

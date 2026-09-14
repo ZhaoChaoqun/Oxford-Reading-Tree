@@ -6,6 +6,8 @@
 
 Chip's Robot
 
+Chip的机器人
+
 What can you see in the picture?
 
 你在图片中看到了什么?
@@ -84,7 +86,11 @@ No! We cannot see his robot.
 
 This is a leg.
 
+这是一条腿。
+
 leg
+
+腿
 
 Can you see his robot?
 

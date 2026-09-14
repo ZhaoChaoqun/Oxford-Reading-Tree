@@ -6,11 +6,15 @@
 
 Hi!
 
+你好！
+
 Today we are going to read this book.
 
 今天我们来读这本书。
 
 What Dogs Like
+
+狗喜欢什么
 
 What can you see on the cover?
 
@@ -70,6 +74,8 @@ Floppy在做什么?
 
 Right!
 
+对！
+
 Floppy is playing with a ball, too.
 
 Floppy也在玩球。
@@ -80,13 +86,19 @@ Do you think Floppy likes to play?
 
 Yes.
 
+是的。
+
 You can say, “Floppy likes to play.”
 
 你可以说“Floppy喜欢玩。”
 
 Floppy likes to play.
 
+Floppy喜欢玩。
+
 Good job.
+
+真棒。
 
 Now turn the page.
 
@@ -126,6 +138,8 @@ Who is walking Floppy?
 
 Right!
 
+对！
+
 ## 书里的人在遛狗（续）
 
 原PDF第4、5页；01:54—02:10
@@ -140,19 +154,31 @@ Do you think Floppy likes to walk?
 
 Yes.
 
+是的。
+
 You can say:
+
+你可以说：
 
 Floppy likes to walk.
 
+Floppy喜欢散步。
+
 Good job.
+
+真棒。
 
 Turn the page.
 
+翻到下一页。
+
 ## 两只狗都在睡觉
 
-原PDF第6、7页；02:11—02:50
+原PDF第6、7页；02:11—02:37
 
 Biff turned the page as well.
+
+Biff也翻到了下一页。
 
 On this page, what is this dog doing?
 
@@ -168,6 +194,8 @@ Floppy在做什么?
 
 Yes.
 
+是的。
+
 Floppy is sleeping too.
 
 Floppy也在睡觉。
@@ -176,19 +204,33 @@ The book says “They like to sleep.”
 
 书上说：“它们喜欢睡觉。”
 
+## 两只狗都在睡觉（续）
+
+原PDF第6、7页；02:37—02:50
+
 Do you think Floppy likes to sleep?
 
 你觉得Floppy喜欢睡觉吗?
 
 Yes.
 
+是的。
+
 You can say:
+
+你可以说：
 
 Floppy likes to sleep.
 
+Floppy喜欢睡觉。
+
 Well done.
 
+做得好。
+
 Turn the page.
+
+翻到下一页。
 
 ## Floppy跑得真快
 
@@ -224,11 +266,19 @@ Do you think Floppy likes to run?
 
 Yes, of course.
 
+是的，当然喜欢。
+
 We can say:
+
+我们可以说：
 
 Floppy likes to run.
 
+Floppy喜欢跑步。
+
 Good job.
+
+真棒。
 
 Now the last page.
 
@@ -264,13 +314,19 @@ It tells us he doesn't like the bath.
 
 You can say:
 
+你可以说：
+
 Floppy hates the bath.
+
+Floppy讨厌洗澡。
 
 Do you think all the dogs like a bath?
 
 你认为所有的狗都喜欢洗澡吗?
 
 No.
+
+不是。
 
 No. At least Floppy doesn't like a bath.
 
@@ -294,7 +350,11 @@ Now let's go through the book again and this time you tell me what Floppy likes 
 
 Floppy likes to play.
 
+Floppy喜欢玩。
+
 Right!
+
+对！
 
 ## 回顾：散步
 
@@ -302,7 +362,11 @@ Right!
 
 Floppy likes to walk.
 
+Floppy喜欢散步。
+
 Good job.
+
+真棒。
 
 ## 回顾：睡觉
 
@@ -310,7 +374,11 @@ Good job.
 
 Floppy likes to sleep.
 
+Floppy喜欢睡觉。
+
 Well done!
+
+做得好！
 
 ## 回顾：跑步
 
@@ -318,7 +386,11 @@ Well done!
 
 Floppy likes to run.
 
+Floppy喜欢跑步。
+
 Very good.
+
+非常好。
 
 ## 回顾：不喜欢洗澡
 
@@ -326,7 +398,11 @@ Very good.
 
 Floppy likes... No, no, no, no, no!
 
+Floppy喜欢……不，不，不，不，不！
+
 Floppy hates a bath.
+
+Floppy讨厌洗澡。
 
 See you next time.
 

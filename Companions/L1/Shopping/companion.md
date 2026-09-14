@@ -2,9 +2,11 @@
 
 ## Chip在看食谱
 
-原PDF第1页；00:00—00:47
+原PDF第1页；00:00—00:24
 
 Hi there!
+
+嗨！
 
 Today we're gonna read a book about Chip.
 
@@ -30,6 +32,10 @@ For example, how to bake a cake.
 
 例如,如何烤蛋糕。
 
+## Chip在看食谱（续）
+
+原PDF第1页；00:24—00:47
+
 It tells us what we need and what we should do.
 
 它告诉我们需要什么,应该做什么。
@@ -39,6 +45,8 @@ Can you guess what Chip wanted to bake?
 你能猜出Chip想烤什么吗?
 
 Right!
+
+对！
 
 Biscuits.
 
@@ -57,6 +65,8 @@ Flour, sugar, eggs, maybe butter as well.
 原PDF第3页；00:47—01:06
 
 But ...
+
+可是……
 
 Looks like there was no sugar left.
 
@@ -88,6 +98,8 @@ Can you find any sugar at the supermarket?
 
 Golden icing sugar, brown sugar, caster sugar.
 
+金黄糖粉、红糖、细砂糖。
+
 So many kinds of sugar.
 
 这么多种类的糖。
@@ -97,6 +109,8 @@ But did Chip buy any sugar?
 但是Chip买糖了吗?
 
 No.
+
+没有。
 
 ## 超市里的糖（续）
 
@@ -116,6 +130,8 @@ Did Dad realize that Chip forgot to get the sugar?
 
 No.
 
+没有。
+
 Dad was looking at a can.
 
 爸爸在看罐头。
@@ -130,7 +146,7 @@ Then where did they go?
 
 ## 商店里又忘了买糖
 
-原PDF第6、7页；01:52—02:26
+原PDF第6、7页；01:52—02:11
 
 They went to the shop.
 
@@ -150,6 +166,8 @@ Chip买糖了吗?
 
 No!
 
+没有！
+
 What did he get?
 
 他拿了什么?
@@ -158,11 +176,17 @@ He got a comic.
 
 他拿了一本漫画书。
 
+## 商店里又忘了买糖（续）
+
+原PDF第6、7页；02:11—02:26
+
 Did Dad realize that Chip forgot to get the sugar?
 
 爸爸有没有发现Chip忘了拿糖?
 
 No.
+
+没有。
 
 Dad was chatting with the shop owner.
 
@@ -194,6 +218,8 @@ Can you find any sugar at the market?
 
 Yes.
 
+能。
+
 Still lots of kinds of sugar.
 
 仍然有很多种类的糖。
@@ -203,6 +229,8 @@ Did Chip buy any sugar?
 Chip买糖了吗?
 
 No!
+
+没有！
 
 What did he get?
 
@@ -217,6 +245,8 @@ Did Dad realize that Chip forgot to get the sugar this time?
 爸爸这次有没有发现Chip忘了拿糖?
 
 No.
+
+没有。
 
 Dad was looking at his watch.
 
@@ -345,6 +375,8 @@ What did he get?
 他拿了什么?
 
 He got a ball.
+
+他拿了一个球。
 
 > 视频画面提示：鼓励孩子说
 

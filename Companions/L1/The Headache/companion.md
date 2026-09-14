@@ -6,6 +6,8 @@
 
 The Headache
 
+头疼
+
 What's the meaning of headache?
 
 headache是什么意思？
@@ -52,6 +54,8 @@ What sound does a trumpet make?
 
 Hoot! Hoot!
 
+嘟！嘟！
+
 Do you think it was loud or quiet?
 
 你觉得声音很响，还是很轻？
@@ -61,6 +65,8 @@ Of course! It was loud!
 当然！声音很响！
 
 Hoot! Hoot!
+
+嘟！嘟！
 
 The children heard the sound and came over.
 
@@ -72,7 +78,7 @@ What were they going to do?
 
 ## Chip带来了鼓
 
-原PDF第4、5页；01:16—01:53
+原PDF第4、5页；01:16—01:33
 
 Chip came in.
 
@@ -96,9 +102,15 @@ What sound does a drum make?
 
 Ting-a-tang.
 
+咚哒咚。
+
 Do you think it was loud or quiet?
 
 你觉得声音很响，还是很轻？
+
+## Chip带来了鼓（续）
+
+原PDF第4、5页；01:39—01:53
 
 Yes. It was loud, too!
 
@@ -122,9 +134,11 @@ I need to blow harder!
 
 Hoot, hoot. Ting-a-tang!
 
+嘟，嘟。咚哒咚！
+
 ## Biff带来了竖笛
 
-原PDF第6、7页；01:57—02:33
+原PDF第6、7页；01:57—02:14
 
 Then Biff came in.
 
@@ -148,9 +162,15 @@ What sound does a recorder make?
 
 Tootle-tootle.
 
+嘀哩嘀哩。
+
 Do you think it was loud or quiet?
 
 你觉得声音很响，还是很轻？
+
+## Biff带来了竖笛（续）
+
+原PDF第6、7页；02:19—02:33
 
 I think it was loud, too!
 
@@ -162,11 +182,15 @@ Dad blew even harder.
 
 Hoot! Hoot!
 
+嘟！嘟！
+
 Chip beat the drum even harder.
 
 Chip打鼓打得更用力了。
 
 Ting-a-tang.
+
+咚哒咚。
 
 The music kept getting louder.
 
@@ -198,6 +222,8 @@ What sound does a guitar make?
 
 Twang-twang.
 
+铮铮。
+
 Do you think it was loud or quiet?
 
 你觉得声音很响，还是很轻？
@@ -220,17 +246,23 @@ Dad played the trumpet even harder.
 
 Hoot-hoot.
 
+嘟嘟。
+
 Chip beat the drum even harder.
 
 Chip打鼓打得更用力了。
 
 Ting-a-tang!
 
+咚哒咚！
+
 Biff played the recorder even harder.
 
 Biff更用力吹竖笛。
 
 Tootle-tootle.
+
+嘀哩嘀哩。
 
 The music kept getting louder.
 
@@ -262,6 +294,8 @@ Did Mum have an instrument?
 
 No.
 
+没有。
+
 Mum had a headache.
 
 妈妈有点头痛。
@@ -271,6 +305,8 @@ Do you know the meaning of “headache” now?
 你现在知道headache是什么意思了吗？
 
 No?
+
+还不知道吗？
 
 I have a headache now.
 

@@ -6,7 +6,11 @@
 
 Hi there, story time!
 
+嗨，讲故事的时间到啦！
+
 \<At the Park\>
+
+《在公园里》
 
 What kind of things would you like to do at the park?
 
@@ -114,6 +118,8 @@ He might be feeling so excited!
 
 Woof woof!
 
+汪！汪！
+
 He wanted to play as well.
 
 他也想玩。
@@ -131,6 +137,8 @@ Biff went on the horse.
 Biff骑上摇摇马。
 
 Rock, rock, rock.
+
+摇呀，摇呀，摇呀。
 
 Oh, look at Floppy.
 

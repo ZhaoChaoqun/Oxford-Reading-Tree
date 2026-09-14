@@ -6,6 +6,8 @@
 
 Hi there.
 
+嗨，你好。
+
 Today's story is about Christmas actually.
 
 这个故事实际上是关于圣诞节的。
@@ -15,6 +17,8 @@ Look at the cover.
 看封面。
 
 Good Old Mum
+
+妈妈真棒
 
 Mum goes to a shop.
 
@@ -145,6 +149,8 @@ Do you think Floppy wanted to be a reindeer?
 你觉得Floppy想成为驯鹿吗?
 
 No.
+
+不想。
 
 Look at him.
 

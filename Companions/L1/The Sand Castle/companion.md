@@ -72,6 +72,8 @@ Do you think the children are going to enter the sandcastle competition?
 
 Yes.
 
+是的。
+
 I think they had all they needed to build a sandcastle.
 
 我想他们已经拥有了建造沙堡所需的一切。
@@ -206,6 +208,8 @@ Pat, pat, pat!
 
 Good job.
 
+做得真棒。
+
 ## 两层沙块和一个桶
 
 原PDF第8、9页；02:42—03:06
@@ -260,6 +264,8 @@ They had a sandcastle with three layers.
 
 One, two, three!
 
+一、二、三！
+
 What did Chip and Kipper do?
 
 Chip和Kipper做了什么?
@@ -275,6 +281,8 @@ That's it?
 就这样完事儿了吗?
 
 No!
+
+还没呢！
 
 ## 楼梯、石子和旗帜
 

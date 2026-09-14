@@ -138,6 +138,8 @@ Wait, did Kipper give a whole bunch of grapes to Dad?
 
 No!
 
+不是！
+
 There were only a few grapes left.
 
 只剩下几颗葡萄了。

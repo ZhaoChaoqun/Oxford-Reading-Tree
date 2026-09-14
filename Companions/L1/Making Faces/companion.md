@@ -18,6 +18,8 @@ Dad has a word card. He makes a face, and the family guess the word.
 
 Baby, look!
 
+宝贝，快看！
+
 What are the children doing?
 
 孩子们在做什么?
@@ -32,11 +34,15 @@ What sort of faces are they making?
 
 Silly faces.
 
+滑稽的鬼脸。
+
 Can you make silly faces?
 
 你会做鬼脸吗?
 
 You are so silly.
+
+你的样子真逗。
 
 Why are they making silly faces?
 
@@ -140,11 +146,19 @@ What word is on the card?
 
 Good.
 
+乖乖的。
+
 So Biff is good.
+
+所以 Biff 的样子很乖。
 
 Can you make a good face?
 
+你能做一个乖乖的表情吗？
+
 You are so good.
+
+你真乖。
 
 ## 中段教学·Kipper往哪去
 
@@ -199,6 +213,8 @@ Oh, you are so frightened.
 哦,你太惊恐了。
 
 Who's next?
+
+接下来是谁？
 
 It must be Kipper.
 
