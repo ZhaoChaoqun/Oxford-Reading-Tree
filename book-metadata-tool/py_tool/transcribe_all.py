@@ -45,14 +45,31 @@ BOOKS_JSON_OUT = Path(r"E:\OxfordTree\oxford-tree-pwa\src\data\books.json")
 # Gap (seconds) between segments that signals a page turn
 PAGE_GAP_THRESHOLD = 1.5
 
-# Intro ends after one of these phrases (case-insensitive)
-INTRO_END_PHRASES = [
+# Phrases that can only occur in the publisher intro. Whisper often splits the
+# narration across several segments ("Now open the book." / "Let's look at the
+# pictures together..."), so every leading segment matching one of these must be
+# dropped, not just the first match.
+INTRO_MARKERS = [
+    "when you hear this sound",
+    "turn the page",
     "now open the book",
+    "open the book",
     "let's read the story together",
     "let's look at the pictures together",
     "let's read together",
-    "open the book",
 ]
+
+# Credit lines from the title slate, e.g. "At School written by Roderick Hunt and
+# illustrated by Alex Brychta."
+INTRO_CREDIT_MARKERS = [
+    "written by",
+    "illustrated by",
+    "this story is called",
+]
+
+# Upper bound on leading intro segments to drop, so a story whose first lines
+# happen to look like narration is never stripped bare.
+MAX_INTRO_SEGMENTS = 5
 
 # Regex to extract book title from intro narration
 # e.g. "This story is called At School written by..."
@@ -99,21 +116,45 @@ def extract_title(full_text: str) -> str | None:
 
 def is_intro_segment(text: str) -> bool:
     """Return True if this segment is part of the publisher intro (not story content)."""
-    lower = text.lower()
-    return any(phrase in lower for phrase in INTRO_END_PHRASES)
+    lower = text.lower().strip().rstrip(".!?")
+    if any(marker in lower for marker in INTRO_MARKERS):
+        return True
+    return any(marker in lower for marker in INTRO_CREDIT_MARKERS)
 
 
 def strip_intro(segments: list[dict]) -> tuple[list[dict], bool]:
     """
-    Remove publisher intro segments.
+    Remove every leading publisher-intro segment.
+
     Returns (story_segments, intro_was_found).
-    Intro ends at (and includes) the segment containing an INTRO_END_PHRASE.
+
+    The narration is frequently split over several consecutive segments, e.g.
+    "When you hear this sound, turn the page." / "Now open the book." /
+    "Let's look at the pictures together...". Stopping at the first matching
+    phrase leaves the remaining intro lines in front of the story, so consume
+    the whole leading run instead. At least one segment is always kept.
+
+    The function is idempotent: a transcript that has already been stripped, or
+    one that never had an intro, is returned unchanged. It never drops story
+    content just because a phrase was not found.
     """
-    for i, seg in enumerate(segments):
-        if is_intro_segment(seg["text"]):
-            return segments[i + 1:], True
-    # Fallback: skip the first 2 segments (title + "when you hear this sound")
-    return segments[2:] if len(segments) > 2 else segments, False
+    stripped = 0
+    while (
+        stripped < len(segments)
+        and stripped < MAX_INTRO_SEGMENTS
+        and is_intro_segment(segments[stripped]["text"])
+    ):
+        stripped += 1
+
+    if not stripped:
+        # No intro detected: keep every segment. Trimming a fixed number of
+        # segments here would silently delete real story content, because most
+        # transcripts have no intro at all.
+        return segments, False
+
+    # Never return an empty story: keep the last candidate segment.
+    keep_from = min(stripped, len(segments) - 1)
+    return segments[keep_from:], True
 
 
 def assign_pages(segments: list[dict], gap_threshold: float = PAGE_GAP_THRESHOLD) -> list[dict]:
